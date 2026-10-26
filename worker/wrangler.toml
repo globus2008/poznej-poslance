@@ -13,7 +13,7 @@ QUIZ_BASE = "https://globus2008.github.io/poznej-poslance/data/"
 [[d1_databases]]
 binding = "DB"
 database_name = "poznej-poslance"
-database_id = "REPLACE_WITH_D1_DATABASE_ID"
+database_id = "0b1d1d3e-a54b-4adb-8ca0-b8d56b43f7f7"
 
 # At most 20 game starts or submissions per minute from one IP address (needs wrangler 4.36+).
 [[ratelimits]]
