@@ -1,0 +1,18 @@
+{
+ "p6524": {
+  "script": "Nic z toho, co tahle vláda lidem slíbila, nedoručila. Jezdím po regionech a vysvětluju lidem, v čem jim premiér lže. Tahle vláda unáší náš stát. Kauza Dozimetr nás poškodila, ale já osobně s ní nemám nic společného, je to zástupný argument. A lídr opozice? Prezident to rozhodně není.",
+  "opinions": [
+   { "topic": "Babišova vláda", "text": "„Nic z toho, co Babišova vláda lidem slíbila, nedoručila.“ „Jezdím do regionů a vysvětluji lidem, že jim Babiš lže.“ „Tahle vláda unáší náš stát.“", "source": "https://cnn.iprima.cz/rakusan-vlada-si-me-vybrala-za-soupere-chci-lidem-vysvetlit-v-cem-vsem-babis-lze-511700", "date": "2026-05-12" },
+   { "topic": "Kauza Dozimetr", "text": "„S kauzou Dozimetr já osobně nemám nic společného a je to zástupný argument.“ Připouští ale, že kauza STAN poškodila.", "source": "https://cnn.iprima.cz/rakusan-vlada-si-me-vybrala-za-soupere-chci-lidem-vysvetlit-v-cem-vsem-babis-lze-511700", "date": "2026-05-12" }
+  ],
+  "reviewed": true
+ },
+ "p6788": {
+  "script": "Prezident se proti zprávám ministra zahraničí vymezil zcela správně, protože to nebylo slušné. Je to prostě vyhrožování. A když teď někdo vyčítá prezidentovi, že je zveřejnil, zní to jako: neměl ji znásilnit, ale ona neměla mít tu moc krátkou sukni.",
+  "opinions": [
+   { "topic": "SMS prezidentovi", "text": "O Macinkových zprávách prezidentovu poradci: „Petr Pavel se vymezil zcela správně, protože to nebylo slušné.“ „Je to prostě vyhrožování.“", "source": "https://cnn.iprima.cz/jako-znasilneni-divky-s-kratkou-sukni-kritizovala-urbanova-vytky-pavlovi-babka-zustal-v-soku-502837", "date": "2026-01-30" },
+   { "topic": "Ostré přirovnání", "text": "Výtky prezidentovi přirovnala k obviňování oběti znásilnění: „…neměl ji znásilnit, ale ona neměla mít tu moc krátkou sukni.“ Přirovnání vyvolalo v debatě rozruch.", "source": "https://cnn.iprima.cz/jako-znasilneni-divky-s-kratkou-sukni-kritizovala-urbanova-vytky-pavlovi-babka-zustal-v-soku-502837", "date": "2026-01-30" }
+  ],
+  "reviewed": true
+ }
+}

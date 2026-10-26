@@ -1,0 +1,25 @@
+name = "poznej-poslance-board"
+main = "leaderboard.js"
+compatibility_date = "2026-10-01"
+
+[vars]
+# Origins allowed to call the worker (comma-separated). Put your GitHub Pages origin here.
+ALLOWED_ORIGINS = "https://globus2008.github.io,http://localhost:8000,http://localhost:3000"
+# Where the deployed app serves data/<period>/quiz.json.
+QUIZ_BASE = "https://globus2008.github.io/poznej-poslance/data/"
+
+# npx wrangler d1 create poznej-poslance  -> paste the printed database_id here,
+# then: npx wrangler d1 execute poznej-poslance --remote --file schema.sql
+[[d1_databases]]
+binding = "DB"
+database_name = "poznej-poslance"
+database_id = "REPLACE_WITH_D1_DATABASE_ID"
+
+# At most 20 game starts or submissions per minute from one IP address (needs wrangler 4.36+).
+[[ratelimits]]
+name = "LIMITER"
+namespace_id = "1002"
+
+  [ratelimits.simple]
+  limit = 20
+  period = 60

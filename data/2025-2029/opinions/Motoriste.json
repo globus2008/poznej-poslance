@@ -1,0 +1,92 @@
+{
+ "p7022": {
+  "script": "Ty zprávy prezidentovu poradci nebyly vydírání, ale politické vyjednávání – snažit se ovlivnit postoj druhého je podstata každého jednání. Psal jsem je s vědomím, že je někdo může zveřejnit. A obrana? Dvě procenta splníme, ale Česko nebude platit za žádné premianty. Veřejné finance jsou v absolutně katastrofickém stavu.",
+  "opinions": [
+   {
+    "topic": "SMS prezidentovi",
+    "text": "Kvůli jmenování Filipa Turka ministrem psal prezidentovu poradci, že jinak „spálí mosty“. Prezident to označil za vydírání; on za politické vyjednávání: „Psal jsem to s vědomím, že ke zveřejnění může dojít.“",
+    "source": "https://ct24.ceskatelevize.cz/clanek/domaci/mimoradny-brifink-prezidenta-petra-pavla-369697",
+    "date": "2026-01-27"
+   },
+   {
+    "topic": "Výdaje na obranu",
+    "text": "Závazek dvou procent HDP na obranu Česko splní, ale „nebude platit za žádné premianty“; stav veřejných financí označil za „absolutně katastrofický“.",
+    "source": "https://www.echo24.cz/a/HTs9F/zpravy-domov-macinka-i-letos-splnime-zavazek-2-procent-z-hdp-na-vydaje-na-obranu",
+    "date": "2026-03-01"
+   }
+  ],
+  "reviewed": true
+ },
+ "p6996": {
+  "script": "Změnu klimatu nepopírám, ale nazývat ji krizí je zbytečné. Chci se na ni připravovat postupně a racionálně, ne ideologicky. A peníze? Nedává smysl, aby si stát půjčoval a zároveň posílal miliony na účty organizací, které je ani nevyužívají.",
+  "opinions": [
+   {
+    "topic": "Klima",
+    "text": "Nepopírá změnu klimatu, ale považuje za zbytečné nazývat ji krizí; přípravu na ni chce postupnou a racionální. Greenpeace jeho jmenování označilo za hrozbu pro ochranu přírody.",
+    "source": "https://ct24.ceskatelevize.cz/clanek/domaci/cerveny-se-stal-ministrem-zivotniho-prostredi-370612",
+    "date": "2026-02-23"
+   },
+   {
+    "topic": "Rozpočet resortu",
+    "text": "„Nedává smysl si půjčovat peníze a současně posílat finance na účty organizací, které je aktuálně plně nevyužívají.“",
+    "source": "https://ct24.ceskatelevize.cz/clanek/domaci/cerveny-se-stal-ministrem-zivotniho-prostredi-370612",
+    "date": "2026-02-23"
+   }
+  ],
+  "reviewed": true
+ },
+ "p7010": {
+  "script": "Koncesionářské poplatky úplně zrušíme. Českou televizi a Český rozhlas bude platit stát ze svého rozpočtu, s valorizací, a obě média zůstanou samostatná. Ředitelé se bojí o nezávislost, já ne. A s panem prezidentem jsme se shodli, že přílišný umělecký aktivismus se nelíbí ani jednomu z nás.",
+  "opinions": [
+   {
+    "topic": "Poplatky ČT a ČRo",
+    "text": "„Koncesionářské poplatky úplně zrušíme“; nahradí je platba ze státního rozpočtu. Vedení ČT a ČRo varuje před ohrožením nezávislosti.",
+    "source": "https://cnn.iprima.cz/koncesionarske-poplatky-zrusime-potvrdil-klempir-odmitl-slouceni-ceske-televize-s-rozhlasem-509126",
+    "date": "2026-04-10"
+   },
+   {
+    "topic": "Umělecký aktivismus",
+    "text": "Po setkání s prezidentem: „Ani mně, ani jemu se nelíbil přílišný umělecký aktivismus.“",
+    "source": "https://cnn.iprima.cz/jednani-s-pavlem-noblesni-popsal-klempir-kritizoval-i-umelecky-aktivismus-493927",
+    "date": "2025-12-08"
+   }
+  ],
+  "reviewed": true
+ },
+ "p5512": {
+  "script": "Pro Rusko je sport propagandou a Kreml ji využívá doma. Proto zásadně nesouhlasím, aby ruští sportovci vystupovali pod ruskou vlajkou nebo s ruskou hymnou – Rusko je agresor. A naše vláda? Funguje efektivně a žádnou kauzu dosud neměla. Filip Turek je fenomén, říkám o něm, že je jako Red Bull.",
+  "opinions": [
+   {
+    "topic": "Ruští sportovci",
+    "text": "„Zásadně nesouhlasím s tím, aby vystupovali pod ruskou vlajkou nebo s ruskou hymnou.“ Rusko označil za agresora ve válce na Ukrajině.",
+    "source": "https://tn.nova.cz/zpravodajstvi/clanek/652975-stastny-odmita-ruske-sportovce-na-olympiade-a-turek-je-jako-red-bull-rika",
+    "date": "2026-07-22"
+   },
+   {
+    "topic": "Vláda bez kauz",
+    "text": "„Tato vláda žádnou kauzu dosud neměla.“ O Filipu Turkovi: „Filip Turek je fenomén. … je jako Red Bull.“",
+    "source": "https://tn.nova.cz/zpravodajstvi/clanek/652975-stastny-odmita-ruske-sportovce-na-olympiade-a-turek-je-jako-red-bull-rika",
+    "date": "2026-07-22"
+   }
+  ],
+  "reviewed": true
+ },
+ "p7059": {
+  "script": "Prezident mě odmítl jmenovat ministrem a nedodržel slovo. Je to jeho vizitka a klidně se může stát, že za dva roky mandát neobhájí. Kvůli české politice jsem v europarlamentu nechal možná i desítky milionů. A zákaz spalovacích motorů po roce 2035? Ten Česko odmítá, chceme realistickou regulaci a silný automobilový průmysl.",
+  "opinions": [
+   {
+    "topic": "Spor s prezidentem",
+    "text": "Prezidentovo odmítnutí jmenovat ho ministrem je podle něj „jeho vizitka“: „Bohužel nedodržel slovo.“ Pavel prý „nemusí obhájit za dva roky mandát“.",
+    "source": "https://cnn.iprima.cz/turek-o-pavlove-postoji-je-to-jeho-vizitka-nemusi-obhajit-mandat-zminil-zanechane-miliony-v-eu-503329",
+    "date": "2026-02-04"
+   },
+   {
+    "topic": "Spalovací motory",
+    "text": "Jako vládní zmocněnec pro klima tlumočil v EU, že Česko odmítá nařízení, které by po roce 2035 zakázalo spalovací motory: „Usilujeme o realistickou regulaci, která vyvažuje klimatické ambice.“",
+    "source": "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-cesko-odmita-narizeni-ktere-po-roce-2035-zakaze-spalovaci-motory-uvedl-turek-301835",
+    "date": "2026-03-17"
+   }
+  ],
+  "reviewed": true
+ }
+}

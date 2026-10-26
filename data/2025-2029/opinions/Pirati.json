@@ -1,0 +1,18 @@
+{
+ "p6552": {
+  "script": "Tohle je koalice, která si řeší jen vlastní zájmy. Úkolem opozice ale není křičet. Chceme být klíčovou součástí příští vlády, bez hnutí ANO, s plánem na dostupné bydlení a levné potraviny. Jen tak máme šanci porazit premiéra a jeho ještě nebezpečnější poskoky.",
+  "opinions": [
+   { "topic": "Koalice", "text": "„Jedná se o koalici, která si jen řeší vlastní zájmy.“ Zároveň: „Úkolem opozice není to, aby křičela.“", "source": "https://www.blesk.cz/clanek/831116", "date": "2026-01-17" },
+   { "topic": "Cíl Pirátů", "text": "Chce Piráty dostat do příští vlády bez ANO s „plánem na dostupné bydlení, na levné potraviny“: „Jen tak máme šanci porazit Babiše a jeho ještě nebezpečnější poskoky.“", "source": "https://www.blesk.cz/clanek/831116", "date": "2026-01-17" }
+  ],
+  "reviewed": true
+ },
+ "p6473": {
+  "script": "Vládní koalice chce vykostit zákon o státní službě, aby mohla snáz vyhazovat odbornice a odborníky. Chcete loajální loutky a neřízené dosazování svých kámošů na posty s miliardovým vlivem. Pro hnutí ANO jsme nepřítel číslo jedna, a přesto nám podle poměrného zastoupení patří místo ve vedení Sněmovny.",
+  "opinions": [
+   { "topic": "Státní služba", "text": "Novelu služebního zákona nazvala „zákonem na snazší vyhazování expertů“: „Chcete loajální loutky.“ Koalice podle ní chce dosazovat „svých kámošů na důležité odborné posty“.", "source": "https://psp.cz/eknih/2025ps/stenprot/024schuz/bqbs/b05400000.htm", "date": "2026-06-24" },
+   { "topic": "Vedení Sněmovny", "text": "Piráti ji nominovali do vedení Sněmovny i bez dohody s koalicí: „Jsme pro Andreje Babiše nepřítel číslo jedna.“ „Máme mít poměrné zastoupení.“", "source": "https://www.seznamzpravy.cz/clanek/volby-do-poslanecke-snemovny-bartosek-a-ted-i-richterova-budouci-opozice-nevzdava-boj-o-vedeni-snemovny-290663", "date": "2025-11-03" }
+  ],
+  "reviewed": true
+ }
+}

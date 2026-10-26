@@ -1,0 +1,50 @@
+{
+ "p6074": {
+  "script": "Tahle vláda od prvních dní jen systematicky ničí to dobré, co se u nás budovalo roky. Vládnutí stojí na pomstě a zastrašování a Česko se obrací na východ. Stát buď dělá kroky v zájmu bezpečnosti Česka, Evropy a Ukrajiny, nebo svou nečinností pomáhá agresorovi. Děláte naší zemi ostudu a důvěru si nezasloužíte.",
+  "opinions": [
+   { "topic": "Vláda pomsty", "text": "Při hlasování o důvěře řekl, že vládnutí bude založené hlavně na pomstě a zastrašování a že kabinet od prvních dní systematicky ničí, co se budovalo roky.", "source": "https://www.teraz.sk/zahranicie/fiala-babisova-vlada-prisla-znicit/933253-clanok.html", "date": "2026-01-13" },
+   { "topic": "Ukrajina a východ", "text": "Česko se podle něj odvrací na východ. Stát buď dělá kroky v zájmu bezpečnosti ČR, Evropy a Ukrajiny, nebo svým konáním a nečinností pomáhá agresorovi.", "source": "https://www.teraz.sk/zahranicie/fiala-babisova-vlada-prisla-znicit/933253-clanok.html", "date": "2026-01-13" }
+  ],
+  "reviewed": true
+ },
+ "p6538": {
+  "script": "Rozpočet se schodkem skoro čtyři sta miliard je fiasko a ministryně financí by měla skončit. Úspory za tři nebo šest miliard jsou jen kosmetika. Navrhneme vrátit karenční dobu, protože je to správné opatření. Chci ostře řezanou pravicovou stranu a euro budeme posuzovat pragmaticky, až to pro nás bude výhodné.",
+  "opinions": [
+   { "topic": "Rozpočet 2027", "text": "Návrh rozpočtu označil za „rozpočtové fiasko“ a žádal konec ministryně financí; úspory „o třech nebo šesti miliardách“ jsou podle něj „jen kosmetické“. ODS navrhne obnovit karenční dobu.", "source": "https://www.blesk.cz/clanek/848594", "date": "2026-09-19" },
+   { "topic": "Profil ODS a euro", "text": "„Já chci ostře řezanou ODS“, která bude „opozicí ostrou“. Euro chce posuzovat „jako věc pragmatickou“, až to bude pro Česko výhodné.", "source": "https://cnn.iprima.cz/kupka-spustime-televizni-proud-ods-chci-ostre-rezanou-stranu-491501", "date": "2025-11-13" }
+  ],
+  "reviewed": true
+ },
+ "p4": {
+  "script": "Vládní koalice se chová jako barbaři, kteří dobyli Řím a mají pocit, že musí vraždit, vraždit a vraždit. Opozice podle nich nemá mít žádné pozice a všechny zvyklosti se dají porušit. Máte pocit, že vás zdržuju? Já jsem ještě zdržovat nezačal. Počítejte s tím, že začnu.",
+  "opinions": [
+   { "topic": "Koalice jako barbaři", "text": "Po neúspěšné volbě opozičních kandidátů: „Vládní koalice se chová jak barbaři, kteří dobyli Řím a mají pocit, že musí vraždit, vraždit a vraždit.“", "source": "https://cnn.iprima.cz/bendu-nastvalo-hlasovani-snemovny-koalice-se-chova-jak-barbari-maji-pocit-ze-musi-vrazdit-513201", "date": "2026-05-27" },
+   { "topic": "Obstrukce", "text": "Pohrozil zdržováním jednání Sněmovny: „Ještě jsem zdržovat nezačal. Počítejte s tím, že zdržovat začnu.“", "source": "https://cnn.iprima.cz/bendu-nastvalo-hlasovani-snemovny-koalice-se-chova-jak-barbari-maji-pocit-ze-musi-vrazdit-513201", "date": "2026-05-27" }
+  ],
+  "reviewed": true
+ },
+ "p6418": {
+  "script": "V hnutí ANO byli po volbách ještě opilí, tančili na diskotéce a žádný vlastní návrh rozpočtu neměli. Přiznejme si ale, že dnešní stamiliardové schodky běžnými škrty nevyřešíme, stárnutí je demografická bomba. Klidně bych zvýšil spotřební daně a daň z nemovitostí a ulevil práci. A euro? Měnová politika rozhodně není náš problém.",
+  "opinions": [
+   { "topic": "ANO a rozpočet", "text": "„V ANO jsou ještě opilí, tančí na diskotéce.“ Po volbách se podle něj ukázalo, že hnutí žádný vlastní návrh rozpočtu nemá.", "source": "https://www.echo24.cz/a/HqDVB/zpravy-ekonomika-statni-rozpocet-skopecek-ano-je-opile-vysledky-voleb-ricchi-e-poveri", "date": "2025-11-23" },
+   { "topic": "Daně a euro", "text": "„Běžnými škrty provozních výdajů dnešní stamiliardové schodky nevyřešíme“; navrhuje vyšší spotřební daně a daň z nemovitostí a nižší zdanění práce. Euro do programu ODS nechce: „Česko má řadu problémů, ale určitě tím problémem není měnová politika.“", "source": "https://www.seznamzpravy.cz/clanek/domaci-politika-ods-stepi-debata-o-euru-tak-ji-radeji-odsunula-308484", "date": "2026-06-13" }
+  ],
+  "reviewed": true
+ },
+ "p5903": {
+  "script": "Z ministra obrany se stal šašek v rukou předsedy Sněmovny. Pamatujete na ta videa, kdy ho vodili odvolávat, co slíbil na tiskové konferenci? Se mnou do debaty chodit nechce, bojí se. A zahraniční politika téhle vlády? To je jedna velká ostuda.",
+  "opinions": [
+   { "topic": "Ministr obrany", "text": "„Z ministra Zůny se stal šašek v rukou Tomia Okamury.“ Podle ní se s ní bojí chodit do debat.", "source": "https://cnn.iprima.cz/ostra-kritika-zuny-sasek-v-rukou-okamury-rekla-cernochova-turek-ji-vmetl-muzejni-tanky-516886", "date": "2026-07-12" },
+   { "topic": "Zahraniční politika", "text": "„Zahraniční politika vlády je jedna velká ostuda.“", "source": "https://cnn.iprima.cz/ostra-kritika-zuny-sasek-v-rukou-okamury-rekla-cernochova-turek-ji-vmetl-muzejni-tanky-516886", "date": "2026-07-12" }
+  ],
+  "reviewed": true
+ },
+ "p6537": {
+  "script": "Ministr zahraničí plní veřejný prostor skandálními a neuctivými výroky. Jsme svědky nekonečné šarády, divadla a klauniády. On i premiér zbytečně ustupují extremistům a poškozují pověst republiky. Říkat, že si v Mnichově na prezidenta neudělá čas, je hloupé. Prostě by neměl být ministrem. A ruským diplomatům bych klidně zavedl víza.",
+  "opinions": [
+   { "topic": "Ministr Macinka", "text": "„Jsme svědky nekonečné šarády, divadla a klauniády.“ Macinka i Babiš podle něj „zcela zbytečně ustupují extremistům“. Umí si představit vízovou povinnost pro všechny ruské diplomaty.", "source": "https://cnn.iprima.cz/lipavsky-ostre-o-macinkovi-nema-vizi-a-dela-klauniadu-on-i-babis-ustupuji-extremistum-514562", "date": "2026-06-16" },
+   { "topic": "Mnichov bez prezidenta", "text": "Macinkovo oznámení, že v Mnichově nepotká prezidenta, označil za „úplně absurdní“: „On by prostě neměl být ministrem.“", "source": "https://www.blesk.cz/clanek/832920", "date": "2026-02-12" }
+  ],
+  "reviewed": true
+ }
+}

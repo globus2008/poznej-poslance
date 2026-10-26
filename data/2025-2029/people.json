@@ -1,0 +1,2716 @@
+[
+ {
+  "id": "p6150",
+  "name": "Andrej Babiš",
+  "titles": "Ing.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp",
+   "gov"
+  ],
+  "functions": [
+   "Předseda vlády"
+  ],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6150.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6150"
+ },
+ {
+  "id": "p6987",
+  "name": "Jiří Barták",
+  "titles": "Mgr.",
+  "gender": "m",
+  "club": "Motoristé",
+  "roles": [
+   "mp"
+  ],
+  "functions": [
+   "Místopředseda Poslanecké sněmovny"
+  ],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6987.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6987"
+ },
+ {
+  "id": "p6621",
+  "name": "Karel Havlíček",
+  "titles": "doc. Ing. / Ph.D., MBA",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp",
+   "gov"
+  ],
+  "functions": [
+   "Místopředseda vlády",
+   "Ministr průmyslu a obchodu"
+  ],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6621.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6621"
+ },
+ {
+  "id": "p7022",
+  "name": "Petr Macinka",
+  "titles": "Mgr.",
+  "gender": "m",
+  "club": "Motoristé",
+  "roles": [
+   "mp",
+   "gov"
+  ],
+  "functions": [
+   "Místopředseda vlády",
+   "Ministr zahraničních věcí"
+  ],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7022.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7022"
+ },
+ {
+  "id": "p6487",
+  "name": "Patrik Nacher",
+  "titles": "Ing.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [
+   "Místopředseda Poslanecké sněmovny"
+  ],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6487.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6487"
+ },
+ {
+  "id": "p6545",
+  "name": "Alena Schillerová",
+  "titles": "JUDr. / Ph.D.",
+  "gender": "f",
+  "club": "ANO",
+  "roles": [
+   "mp",
+   "gov"
+  ],
+  "functions": [
+   "Místopředseda vlády",
+   "Ministr financí"
+  ],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6545.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6545"
+ },
+ {
+  "id": "p6418",
+  "name": "Jan Skopeček",
+  "titles": "Ing. et Ing. / Ph.D.",
+  "gender": "m",
+  "club": "ODS",
+  "roles": [
+   "mp"
+  ],
+  "functions": [
+   "Místopředseda Poslanecké sněmovny"
+  ],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6418.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6418"
+ },
+ {
+  "id": "p6788",
+  "name": "Barbora Urbanová",
+  "titles": "Ing.",
+  "gender": "f",
+  "club": "STAN",
+  "roles": [
+   "mp"
+  ],
+  "functions": [
+   "Místopředseda Poslanecké sněmovny"
+  ],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6788.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6788"
+ },
+ {
+  "id": "p7070",
+  "name": "Jaromír Zůna",
+  "titles": "Mgr. Ing. / MSc., Ph.D.",
+  "gender": "m",
+  "club": "SPD",
+  "roles": [
+   "gov"
+  ],
+  "functions": [
+   "Místopředseda vlády",
+   "Ministr obrany"
+  ],
+  "photo": "https://vlada.gov.cz/assets/vlada/clenove-vlady/Jaromir-Zuna-nahled.jpg",
+  "profile": "https://vlada.gov.cz/cz/vlada/clenove-vlady/jaromir-zuna-223972/",
+  "nominee": true
+ },
+ {
+  "id": "p5700",
+  "name": "Ivan Adamec",
+  "titles": "Mgr.",
+  "gender": "m",
+  "club": "ODS",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5700.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=5700"
+ },
+ {
+  "id": "p6254",
+  "name": "Věra Adámková",
+  "titles": "prof. MUDr. / CSc.",
+  "gender": "f",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6254.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6254"
+ },
+ {
+  "id": "p6986",
+  "name": "Hana Ančincová",
+  "titles": "Bc.",
+  "gender": "f",
+  "club": "Piráti",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6986.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6986"
+ },
+ {
+  "id": "p6623",
+  "name": "Ondřej Babka",
+  "titles": "Ing.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6623.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6623"
+ },
+ {
+  "id": "p6719",
+  "name": "Jana Bačíková",
+  "titles": "Ing. / MBA",
+  "gender": "f",
+  "club": "ODS",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6719.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6719"
+ },
+ {
+  "id": "p6988",
+  "name": "Pavel Bartoň",
+  "titles": "Mgr.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6988.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6988"
+ },
+ {
+  "id": "p6433",
+  "name": "Ivan Bartoš",
+  "titles": "PhDr. / Ph.D.",
+  "gender": "m",
+  "club": "Piráti",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6433.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6433"
+ },
+ {
+  "id": "p6178",
+  "name": "Jan Bartošek",
+  "titles": "Ing. / MPA",
+  "gender": "m",
+  "club": "KDU-ČSL",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6178.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6178"
+ },
+ {
+  "id": "p6989",
+  "name": "Lucie Bartošová",
+  "titles": "Mgr.",
+  "gender": "f",
+  "club": "ODS",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6989.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6989"
+ },
+ {
+  "id": "p5379",
+  "name": "Jan Bauer",
+  "titles": "Ing.",
+  "gender": "m",
+  "club": "ODS",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5379.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=5379"
+ },
+ {
+  "id": "p6435",
+  "name": "Martin Baxa",
+  "titles": "Mgr.",
+  "gender": "m",
+  "club": "ODS",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6435.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6435"
+ },
+ {
+  "id": "p7071",
+  "name": "Ivan Bednárik",
+  "titles": "MBA",
+  "gender": "m",
+  "club": "SPD",
+  "roles": [
+   "gov"
+  ],
+  "functions": [
+   "Ministr dopravy"
+  ],
+  "photo": "https://vlada.gov.cz/assets/vlada/clenove-vlady/Ivan-Bednarik-nahled.jpg",
+  "profile": "https://vlada.gov.cz/cz/vlada/clenove-vlady/ivan-bednarik-223975/",
+  "nominee": true
+ },
+ {
+  "id": "p4",
+  "name": "Marek Benda",
+  "titles": "",
+  "gender": "m",
+  "club": "ODS",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i4.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=4"
+ },
+ {
+  "id": "p346",
+  "name": "Petr Bendl",
+  "titles": "Ing.",
+  "gender": "m",
+  "club": "ODS",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i346.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=346"
+ },
+ {
+  "id": "p6722",
+  "name": "Jan Berki",
+  "titles": "Mgr. / Ph.D.",
+  "gender": "m",
+  "club": "STAN",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6722.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6722"
+ },
+ {
+  "id": "p6723",
+  "name": "Jana Berkovcová",
+  "titles": "Mgr.",
+  "gender": "f",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6723.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6723"
+ },
+ {
+  "id": "p6991",
+  "name": "Drahomír Blažej",
+  "titles": "Ing. / MBA",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6991.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6991"
+ },
+ {
+  "id": "p6992",
+  "name": "Zdeňka Blišťanová",
+  "titles": "Mgr. Bc.",
+  "gender": "f",
+  "club": "TOP 09",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6992.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6992"
+ },
+ {
+  "id": "p6993",
+  "name": "Jiří Bouška",
+  "titles": "Ing.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6993.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6993"
+ },
+ {
+  "id": "p6185",
+  "name": "Milan Brázdil",
+  "titles": "MUDr.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6185.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6185"
+ },
+ {
+  "id": "p6994",
+  "name": "Monika Brzesková",
+  "titles": "Mgr.",
+  "gender": "f",
+  "club": "KDU-ČSL",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6994.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6994"
+ },
+ {
+  "id": "p5899",
+  "name": "Jan Bureš",
+  "titles": "Ing. / DBA",
+  "gender": "m",
+  "club": "ODS",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5899.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=5899"
+ },
+ {
+  "id": "p6995",
+  "name": "František Bureš",
+  "titles": "Mgr. Ing.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6995.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6995"
+ },
+ {
+  "id": "p5903",
+  "name": "Jana Černochová",
+  "titles": "Mgr.",
+  "gender": "f",
+  "club": "ODS",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5903.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=5903"
+ },
+ {
+  "id": "p6996",
+  "name": "Igor Červený",
+  "titles": "Mgr.",
+  "gender": "m",
+  "club": "Motoristé",
+  "roles": [
+   "mp",
+   "gov"
+  ],
+  "functions": [
+   "Ministr životního prostředí"
+  ],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6996.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6996"
+ },
+ {
+  "id": "p6998",
+  "name": "Benjamin Činčila",
+  "titles": "Ing.",
+  "gender": "m",
+  "club": "KDU-ČSL",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6998.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6998"
+ },
+ {
+  "id": "p6727",
+  "name": "Eva Decroix",
+  "titles": "Ph.D., MBA, MPA",
+  "gender": "f",
+  "club": "ODS",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6727.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6727"
+ },
+ {
+  "id": "p6999",
+  "name": "Katerina Demetrashvili",
+  "titles": "",
+  "gender": "f",
+  "club": "Piráti",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6999.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6999"
+ },
+ {
+  "id": "p7068",
+  "name": "Jana Demjanová",
+  "titles": "JUDr.",
+  "gender": "f",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7068.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7068"
+ },
+ {
+  "id": "p7000",
+  "name": "Denis Doksanský",
+  "titles": "",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7000.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7000"
+ },
+ {
+  "id": "p7001",
+  "name": "Tomáš Doležal",
+  "titles": "Ing. Mgr.",
+  "gender": "m",
+  "club": "SPD",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7001.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7001"
+ },
+ {
+  "id": "p6431",
+  "name": "Lenka Dražilová",
+  "titles": "Mgr. / MBA",
+  "gender": "f",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6431.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6431"
+ },
+ {
+  "id": "p7002",
+  "name": "Karel Dvořák",
+  "titles": "Mgr.",
+  "gender": "m",
+  "club": "STAN",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7002.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7002"
+ },
+ {
+  "id": "p6190",
+  "name": "Jaroslav Faltýnek",
+  "titles": "Ing.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6190.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6190"
+ },
+ {
+  "id": "p6447",
+  "name": "Kamal Farhan",
+  "titles": "MUDr.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6447.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6447"
+ },
+ {
+  "id": "p7003",
+  "name": "Irena Ferčíková Konečná",
+  "titles": "Mgr. / Ph.D.",
+  "gender": "f",
+  "club": "Piráti",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7003.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7003"
+ },
+ {
+  "id": "p5459",
+  "name": "Radim Fiala",
+  "titles": "Ing.",
+  "gender": "m",
+  "club": "SPD",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5459.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=5459"
+ },
+ {
+  "id": "p6074",
+  "name": "Petr Fiala",
+  "titles": "Prof. PhDr. / Ph.D., LL.M.",
+  "gender": "m",
+  "club": "ODS",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6074.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6074"
+ },
+ {
+  "id": "p6457",
+  "name": "Eva Fialová",
+  "titles": "Ing.",
+  "gender": "f",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6457.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6457"
+ },
+ {
+  "id": "p7004",
+  "name": "Jana Filipovičová",
+  "titles": "Ing.",
+  "gender": "f",
+  "club": "KDU-ČSL",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7004.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7004"
+ },
+ {
+  "id": "p6750",
+  "name": "Josef Flek",
+  "titles": "Mgr.",
+  "gender": "m",
+  "club": "STAN",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6750.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6750"
+ },
+ {
+  "id": "p5911",
+  "name": "Jaroslav Foldyna",
+  "titles": "",
+  "gender": "m",
+  "club": "SPD",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5911.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=5911"
+ },
+ {
+  "id": "p7106",
+  "name": "Libor Forman",
+  "titles": "Mgr.",
+  "gender": "m",
+  "club": "Motoristé",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7106.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7106"
+ },
+ {
+  "id": "p6451",
+  "name": "Stanislav Fridrich",
+  "titles": "Ing.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6451.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6451"
+ },
+ {
+  "id": "p7005",
+  "name": "Karin Gajdová",
+  "titles": "Ing. / Ph.D.",
+  "gender": "f",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7005.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7005"
+ },
+ {
+  "id": "p7006",
+  "name": "Matěj Gregor",
+  "titles": "Bc.",
+  "gender": "m",
+  "club": "Motoristé",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7006.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7006"
+ },
+ {
+  "id": "p6751",
+  "name": "Karel Haas",
+  "titles": "Mgr.",
+  "gender": "m",
+  "club": "ODS",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6751.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6751"
+ },
+ {
+  "id": "p6753",
+  "name": "Jana Hanzlíková",
+  "titles": "Mgr.",
+  "gender": "f",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6753.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6753"
+ },
+ {
+  "id": "p6755",
+  "name": "Jiří Havránek",
+  "titles": "Ing.",
+  "gender": "m",
+  "club": "ODS",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6755.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6755"
+ },
+ {
+  "id": "p7066",
+  "name": "Vlastimil Hebr",
+  "titles": "Ing.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7066.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7066"
+ },
+ {
+  "id": "p6756",
+  "name": "Tomáš Helebrant",
+  "titles": "PhDr. / MBA",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6756.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6756"
+ },
+ {
+  "id": "p6758",
+  "name": "Igor Hendrych",
+  "titles": "PhDr. / Ph.D.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6758.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6758"
+ },
+ {
+  "id": "p6881",
+  "name": "Petr Hladík",
+  "titles": "Mgr.",
+  "gender": "m",
+  "club": "KDU-ČSL",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6881.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6881"
+ },
+ {
+  "id": "p7011",
+  "name": "Matěj Hlavatý",
+  "titles": "",
+  "gender": "m",
+  "club": "STAN",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7011.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7011"
+ },
+ {
+  "id": "p6905",
+  "name": "Andrea Hoffmannová",
+  "titles": "Mgr. / Ph.D.",
+  "gender": "f",
+  "club": "Piráti",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6905.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6905"
+ },
+ {
+  "id": "p6693",
+  "name": "Libor Hoppe",
+  "titles": "Mgr.",
+  "gender": "m",
+  "club": "ODS",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6693.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6693"
+ },
+ {
+  "id": "p6803",
+  "name": "Jiří Horák",
+  "titles": "PhDr. / Ph.D.",
+  "gender": "m",
+  "club": "KDU-ČSL",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6803.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6803"
+ },
+ {
+  "id": "p6455",
+  "name": "Jan Hrnčíř",
+  "titles": "PhDr. Ing. Mgr. / MBA, LL.M.",
+  "gender": "m",
+  "club": "SPD",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6455.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6455"
+ },
+ {
+  "id": "p6552",
+  "name": "Zdeněk Hřib",
+  "titles": "MUDr.",
+  "gender": "m",
+  "club": "Piráti",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6552.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6552"
+ },
+ {
+  "id": "p7007",
+  "name": "Monika Hubíková",
+  "titles": "",
+  "gender": "f",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7007.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7007"
+ },
+ {
+  "id": "p6997",
+  "name": "Adriana Chochelová",
+  "titles": "Mgr.",
+  "gender": "f",
+  "club": "STAN",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6997.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6997"
+ },
+ {
+  "id": "p6687",
+  "name": "Jan Jakob",
+  "titles": "",
+  "gender": "m",
+  "club": "TOP 09",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6687.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6687"
+ },
+ {
+  "id": "p6459",
+  "name": "Jakub Janda",
+  "titles": "Mgr.",
+  "gender": "m",
+  "club": "ODS",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6459.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6459"
+ },
+ {
+  "id": "p6201",
+  "name": "Miloslav Janulík",
+  "titles": "MUDr.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6201.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6201"
+ },
+ {
+  "id": "p6463",
+  "name": "Aleš Juchelka",
+  "titles": "Ing.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp",
+   "gov"
+  ],
+  "functions": [
+   "Ministr práce a sociálních věcí"
+  ],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6463.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6463"
+ },
+ {
+  "id": "p6205",
+  "name": "Marian Jurečka",
+  "titles": "Ing.",
+  "gender": "m",
+  "club": "KDU-ČSL",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6205.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6205"
+ },
+ {
+  "id": "p6603",
+  "name": "Pavel Karpíšek",
+  "titles": "Ing. Mgr.",
+  "gender": "m",
+  "club": "ODS",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6603.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6603"
+ },
+ {
+  "id": "p6209",
+  "name": "David Kasal",
+  "titles": "MUDr. / MHA",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6209.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6209"
+ },
+ {
+  "id": "p7008",
+  "name": "Zdena Kašparová",
+  "titles": "Mgr.",
+  "gender": "f",
+  "club": "STAN",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7008.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7008"
+ },
+ {
+  "id": "p7009",
+  "name": "Jiřina Klčová",
+  "titles": "",
+  "gender": "f",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7009.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7009"
+ },
+ {
+  "id": "p7010",
+  "name": "Oto Klempíř",
+  "titles": "",
+  "gender": "m",
+  "club": "Motoristé",
+  "roles": [
+   "mp",
+   "gov"
+  ],
+  "functions": [
+   "Ministr kultury"
+  ],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7010.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7010"
+ },
+ {
+  "id": "p6506",
+  "name": "Tomáš Kohoutek",
+  "titles": "Mgr. / MBA",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6506.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6506"
+ },
+ {
+  "id": "p7012",
+  "name": "Vladimír Kolek",
+  "titles": "",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7012.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7012"
+ },
+ {
+  "id": "p6211",
+  "name": "Martin Kolovratník",
+  "titles": "Ing.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6211.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6211"
+ },
+ {
+  "id": "p6508",
+  "name": "Radek Koten",
+  "titles": "",
+  "gender": "m",
+  "club": "SPD",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6508.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6508"
+ },
+ {
+  "id": "p7108",
+  "name": "Jiří Kotlík",
+  "titles": "Bc.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7108.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7108"
+ },
+ {
+  "id": "p6214",
+  "name": "Věra Kovářová",
+  "titles": "Ing.",
+  "gender": "f",
+  "club": "STAN",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6214.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6214"
+ },
+ {
+  "id": "p7013",
+  "name": "Veronika Kovářová",
+  "titles": "Ing. arch.",
+  "gender": "f",
+  "club": "Piráti",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7013.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7013"
+ },
+ {
+  "id": "p7014",
+  "name": "Petr Kowanda",
+  "titles": "Bc.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7014.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7014"
+ },
+ {
+  "id": "p7015",
+  "name": "Jakub Krainer",
+  "titles": "Bc.",
+  "gender": "m",
+  "club": "STAN",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7015.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7015"
+ },
+ {
+  "id": "p6509",
+  "name": "Robert Králíček",
+  "titles": "",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6509.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6509"
+ },
+ {
+  "id": "p7016",
+  "name": "Miroslav Krejčí",
+  "titles": "Ing.",
+  "gender": "m",
+  "club": "Motoristé",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7016.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7016"
+ },
+ {
+  "id": "p7017",
+  "name": "Vojtěch Krňanský",
+  "titles": "Ing.",
+  "gender": "m",
+  "club": "Motoristé",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7017.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7017"
+ },
+ {
+  "id": "p7018",
+  "name": "Marie Kršková",
+  "titles": "Ing. Mgr.",
+  "gender": "f",
+  "club": "KDU-ČSL",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7018.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7018"
+ },
+ {
+  "id": "p6466",
+  "name": "Jana Krutáková",
+  "titles": "Ing.",
+  "gender": "f",
+  "club": "STAN",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6466.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6466"
+ },
+ {
+  "id": "p6215",
+  "name": "Roman Kubíček",
+  "titles": "Ing. / Ph.D., MBA",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6215.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6215"
+ },
+ {
+  "id": "p6216",
+  "name": "Michal Kučera",
+  "titles": "Ing.",
+  "gender": "m",
+  "club": "TOP 09",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6216.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6216"
+ },
+ {
+  "id": "p7021",
+  "name": "Martin Kupec",
+  "titles": "JUDr. / Ph.D.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7021.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7021"
+ },
+ {
+  "id": "p6538",
+  "name": "Martin Kupka",
+  "titles": "Mgr.",
+  "gender": "m",
+  "club": "ODS",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6538.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6538"
+ },
+ {
+  "id": "p6738",
+  "name": "Hubert Lang",
+  "titles": "Mgr. Bc.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6738.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6738"
+ },
+ {
+  "id": "p5943",
+  "name": "Helena Langšádlová",
+  "titles": "Mgr.",
+  "gender": "f",
+  "club": "TOP 09",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5943.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=5943"
+ },
+ {
+  "id": "p6537",
+  "name": "Jan Lipavský",
+  "titles": "",
+  "gender": "m",
+  "club": "ODS",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6537.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6537"
+ },
+ {
+  "id": "p6732",
+  "name": "Ivana Mádlová",
+  "titles": "PhDr. / Ph.D., MBA",
+  "gender": "f",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6732.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6732"
+ },
+ {
+  "id": "p6467",
+  "name": "Zuzana Majerová",
+  "titles": "",
+  "gender": "f",
+  "club": "SPD",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6467.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6467"
+ },
+ {
+  "id": "p6468",
+  "name": "Taťána Malá",
+  "titles": "Mgr. Ing.",
+  "gender": "f",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6468.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6468"
+ },
+ {
+  "id": "p7023",
+  "name": "Lenka Martínková Španihelová",
+  "titles": "Mgr.",
+  "gender": "f",
+  "club": "Piráti",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7023.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7023"
+ },
+ {
+  "id": "p6534",
+  "name": "Jiří Mašek",
+  "titles": "MUDr.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6534.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6534"
+ },
+ {
+  "id": "p6544",
+  "name": "Lubomír Metnar",
+  "titles": "Mgr.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp",
+   "gov"
+  ],
+  "functions": [
+   "Ministr vnitra"
+  ],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6544.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6544"
+ },
+ {
+  "id": "p7024",
+  "name": "Michaela Moricová",
+  "titles": "Mgr.",
+  "gender": "f",
+  "club": "Piráti",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7024.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7024"
+ },
+ {
+  "id": "p7040",
+  "name": "Zuzana Mrázová",
+  "titles": "Mgr.",
+  "gender": "f",
+  "club": "ANO",
+  "roles": [
+   "mp",
+   "gov"
+  ],
+  "functions": [
+   "Ministr pro místní rozvoj"
+  ],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7040.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7040"
+ },
+ {
+  "id": "p6486",
+  "name": "Vojtěch Munzar",
+  "titles": "Ing.",
+  "gender": "m",
+  "club": "ODS",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6486.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6486"
+ },
+ {
+  "id": "p7025",
+  "name": "Jana Murová",
+  "titles": "Ing.",
+  "gender": "f",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7025.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7025"
+ },
+ {
+  "id": "p7026",
+  "name": "Anežka Nedomová",
+  "titles": "Bc.",
+  "gender": "f",
+  "club": "STAN",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7026.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7026"
+ },
+ {
+  "id": "p7027",
+  "name": "Irena Němcová",
+  "titles": "Ing.",
+  "gender": "f",
+  "club": "SPD",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7027.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7027"
+ },
+ {
+  "id": "p6804",
+  "name": "Zdenka Němečková Crkvenjaš",
+  "titles": "MUDr. / MBA",
+  "gender": "f",
+  "club": "ODS",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6804.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6804"
+ },
+ {
+  "id": "p6664",
+  "name": "Josef Nerušil",
+  "titles": "Mgr.",
+  "gender": "m",
+  "club": "SPD",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6664.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6664"
+ },
+ {
+  "id": "p7028",
+  "name": "Bohuslav Niemiec",
+  "titles": "Ing.",
+  "gender": "m",
+  "club": "KDU-ČSL",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7028.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7028"
+ },
+ {
+  "id": "p6533",
+  "name": "Marek Novák",
+  "titles": "Mgr. / MBA",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6533.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6533"
+ },
+ {
+  "id": "p6475",
+  "name": "Monika Oborná",
+  "titles": "Ing.",
+  "gender": "f",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6475.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6475"
+ },
+ {
+  "id": "p6105",
+  "name": "Tomio Okamura",
+  "titles": "",
+  "gender": "m",
+  "club": "SPD",
+  "roles": [
+   "mp"
+  ],
+  "functions": [
+   "Předseda Poslanecké sněmovny"
+  ],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6105.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6105"
+ },
+ {
+  "id": "p6769",
+  "name": "Hayato Okamura",
+  "titles": "Mgr.",
+  "gender": "m",
+  "club": "KDU-ČSL",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6769.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6769"
+ },
+ {
+  "id": "p6172",
+  "name": "Ladislav Okleštěk",
+  "titles": "",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6172.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6172"
+ },
+ {
+  "id": "p6766",
+  "name": "Eliška Olšáková",
+  "titles": "Mgr.",
+  "gender": "f",
+  "club": "STAN",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6766.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6766"
+ },
+ {
+  "id": "p6754",
+  "name": "Matěj Ondřej Havel",
+  "titles": "Mgr. / Ph.D.",
+  "gender": "m",
+  "club": "TOP 09",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6754.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6754"
+ },
+ {
+  "id": "p6770",
+  "name": "Renata Oulehlová",
+  "titles": "",
+  "gender": "f",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6770.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6770"
+ },
+ {
+  "id": "p7029",
+  "name": "Pavel Outrata",
+  "titles": "Mgr.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7029.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7029"
+ },
+ {
+  "id": "p6474",
+  "name": "Zuzana Ožanová",
+  "titles": "Ing.",
+  "gender": "f",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6474.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6474"
+ },
+ {
+  "id": "p7030",
+  "name": "Jan Papajanovský",
+  "titles": "Mgr.",
+  "gender": "m",
+  "club": "STAN",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7030.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7030"
+ },
+ {
+  "id": "p7031",
+  "name": "Patrik Pařil",
+  "titles": "Mgr.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7031.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7031"
+ },
+ {
+  "id": "p6225",
+  "name": "Jana Pastuchová",
+  "titles": "Mgr.",
+  "gender": "f",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6225.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6225"
+ },
+ {
+  "id": "p7032",
+  "name": "Jana Patková",
+  "titles": "Mgr.",
+  "gender": "f",
+  "club": "Piráti",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7032.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7032"
+ },
+ {
+  "id": "p7067",
+  "name": "Jiří Penc",
+  "titles": "MUDr.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7067.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7067"
+ },
+ {
+  "id": "p6780",
+  "name": "Berenika Peštová",
+  "titles": "Ing. / Ph.D.",
+  "gender": "f",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6780.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6780"
+ },
+ {
+  "id": "p6409",
+  "name": "František Petrtýl",
+  "titles": "Ing.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6409.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6409"
+ },
+ {
+  "id": "p6555",
+  "name": "Tom Philipp",
+  "titles": "MUDr. / Ph.D., MBA",
+  "gender": "m",
+  "club": "KDU-ČSL",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6555.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6555"
+ },
+ {
+  "id": "p7034",
+  "name": "Vladimír Pikora",
+  "titles": "Ing. / Ph.D.",
+  "gender": "m",
+  "club": "Motoristé",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7034.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7034"
+ },
+ {
+  "id": "p7035",
+  "name": "Barbora Pipášová",
+  "titles": "Mgr.",
+  "gender": "f",
+  "club": "Piráti",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7035.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7035"
+ },
+ {
+  "id": "p6762",
+  "name": "Pavla Pivoňka Vaňková",
+  "titles": "Mgr. Ing.",
+  "gender": "f",
+  "club": "STAN",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6762.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6762"
+ },
+ {
+  "id": "p6549",
+  "name": "Robert Plaga",
+  "titles": "Ing. / Ph.D.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp",
+   "gov"
+  ],
+  "functions": [
+   "Ministr školství, mládeže a tělovýchovy"
+  ],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6549.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6549"
+ },
+ {
+  "id": "p7036",
+  "name": "Václav Pláteník",
+  "titles": "Mgr. / M.A., LL.M.",
+  "gender": "m",
+  "club": "KDU-ČSL",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7036.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7036"
+ },
+ {
+  "id": "p5273",
+  "name": "Jiří Pospíšil",
+  "titles": "JUDr.",
+  "gender": "m",
+  "club": "TOP 09",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5273.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=5273"
+ },
+ {
+  "id": "p6745",
+  "name": "Marie Pošarová",
+  "titles": "Ing. Bc.",
+  "gender": "f",
+  "club": "SPD",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6745.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6745"
+ },
+ {
+  "id": "p6527",
+  "name": "David Pražák",
+  "titles": "",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6527.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6527"
+ },
+ {
+  "id": "p7037",
+  "name": "Jindřich Rajchl",
+  "titles": "JUDr.",
+  "gender": "m",
+  "club": "SPD",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7037.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7037"
+ },
+ {
+  "id": "p6524",
+  "name": "Vít Rakušan",
+  "titles": "Mgr. Bc.",
+  "gender": "m",
+  "club": "STAN",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6524.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6524"
+ },
+ {
+  "id": "p6523",
+  "name": "Michal Ratiborský",
+  "titles": "PhDr.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6523.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6523"
+ },
+ {
+  "id": "p7038",
+  "name": "Barbora Rázga",
+  "titles": "Mgr. / LL.M.",
+  "gender": "f",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7038.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7038"
+ },
+ {
+  "id": "p6500",
+  "name": "Jan Richter",
+  "titles": "Mgr. Bc. et Bc. et Bc.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6500.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6500"
+ },
+ {
+  "id": "p6473",
+  "name": "Olga Richterová",
+  "titles": "PhDr. / Ph.D.",
+  "gender": "f",
+  "club": "Piráti",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6473.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6473"
+ },
+ {
+  "id": "p6520",
+  "name": "Pavel Růžička",
+  "titles": "Ing.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6520.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6520"
+ },
+ {
+  "id": "p6782",
+  "name": "Drahoslav Ryba",
+  "titles": "genpor. v. v. Ing.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6782.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6782"
+ },
+ {
+  "id": "p6767",
+  "name": "Michaela Řehková",
+  "titles": "Ing.",
+  "gender": "f",
+  "club": "STAN",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6767.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6767"
+ },
+ {
+  "id": "p6518",
+  "name": "Petr Sadovský",
+  "titles": "PhDr. / MBA",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6518.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6518"
+ },
+ {
+  "id": "p6688",
+  "name": "Miroslav Samaš",
+  "titles": "",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6688.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6688"
+ },
+ {
+  "id": "p7041",
+  "name": "Gabriela Sedláčková",
+  "titles": "",
+  "gender": "f",
+  "club": "Motoristé",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7041.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7041"
+ },
+ {
+  "id": "p7042",
+  "name": "Lucie Sedmihradská",
+  "titles": "doc. Ing. / Ph.D.",
+  "gender": "f",
+  "club": "STAN",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7042.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7042"
+ },
+ {
+  "id": "p7039",
+  "name": "Vítězslav Schrek",
+  "titles": "Mgr.",
+  "gender": "m",
+  "club": "ODS",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7039.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7039"
+ },
+ {
+  "id": "p6783",
+  "name": "Jan Síla",
+  "titles": "MUDr.",
+  "gender": "m",
+  "club": "SPD",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6783.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6783"
+ },
+ {
+  "id": "p7043",
+  "name": "Štěpán Slovák",
+  "titles": "Mgr.",
+  "gender": "m",
+  "club": "ODS",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7043.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7043"
+ },
+ {
+  "id": "p7044",
+  "name": "Julie Smejkalová",
+  "titles": "",
+  "gender": "f",
+  "club": "STAN",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7044.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7044"
+ },
+ {
+  "id": "p7045",
+  "name": "Petr Sokol",
+  "titles": "PhDr. / Ph.D.",
+  "gender": "m",
+  "club": "ODS",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7045.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7045"
+ },
+ {
+  "id": "p7048",
+  "name": "Kateřina Stojanová",
+  "titles": "Mgr.",
+  "gender": "f",
+  "club": "Piráti",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7048.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7048"
+ },
+ {
+  "id": "p6515",
+  "name": "Jiří Strýček",
+  "titles": "Ing.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6515.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6515"
+ },
+ {
+  "id": "p6743",
+  "name": "Robert Stržínek",
+  "titles": "Mgr.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6743.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6743"
+ },
+ {
+  "id": "p7049",
+  "name": "Gabriela Svárovská",
+  "titles": "Mgr. / Ph.D.",
+  "gender": "f",
+  "club": "Piráti",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7049.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7049"
+ },
+ {
+  "id": "p7050",
+  "name": "Jan Sviták",
+  "titles": "Ing.",
+  "gender": "m",
+  "club": "STAN",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7050.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7050"
+ },
+ {
+  "id": "p7033",
+  "name": "Jiří Svoboda",
+  "titles": "Bc.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7033.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7033"
+ },
+ {
+  "id": "p7051",
+  "name": "Vendula Svobodová",
+  "titles": "RNDr.",
+  "gender": "f",
+  "club": "Piráti",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7051.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7051"
+ },
+ {
+  "id": "p6479",
+  "name": "Lucie Šafránková",
+  "titles": "Bc.",
+  "gender": "f",
+  "club": "SPD",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6479.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6479"
+ },
+ {
+  "id": "p6763",
+  "name": "Michaela Šebelová",
+  "titles": "Mgr.",
+  "gender": "f",
+  "club": "STAN",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6763.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6763"
+ },
+ {
+  "id": "p7072",
+  "name": "Martin Šebestyán",
+  "titles": "Ing. / MBA",
+  "gender": "m",
+  "club": "SPD",
+  "roles": [
+   "gov"
+  ],
+  "functions": [
+   "Ministr zemědělství"
+  ],
+  "photo": "https://vlada.gov.cz/assets/vlada/clenove-vlady/Martin-Sebestyan-nahled.jpg",
+  "profile": "https://vlada.gov.cz/cz/vlada/clenove-vlady/martin-sebestyan-223982/",
+  "nominee": true
+ },
+ {
+  "id": "p6064",
+  "name": "Miroslav Ševčík",
+  "titles": "doc. Ing. / CSc.",
+  "gender": "m",
+  "club": "SPD",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6064.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6064"
+ },
+ {
+  "id": "p7065",
+  "name": "Martin Šmída",
+  "titles": "Ing. et Ing.",
+  "gender": "m",
+  "club": "Piráti",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7065.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7065"
+ },
+ {
+  "id": "p7046",
+  "name": "Eva Šrámková",
+  "titles": "MUDr.",
+  "gender": "f",
+  "club": "Piráti",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7046.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7046"
+ },
+ {
+  "id": "p5512",
+  "name": "Boris Šťastný",
+  "titles": "MUDr. / MBA, LL.M.",
+  "gender": "m",
+  "club": "Motoristé",
+  "roles": [
+   "mp",
+   "gov"
+  ],
+  "functions": [
+   "Ministr pro sport, prevenci a zdraví"
+  ],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5512.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=5512"
+ },
+ {
+  "id": "p6484",
+  "name": "David Štolpa",
+  "titles": "",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6484.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6484"
+ },
+ {
+  "id": "p7052",
+  "name": "František Talíř",
+  "titles": "Mgr.",
+  "gender": "m",
+  "club": "KDU-ČSL",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7052.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7052"
+ },
+ {
+  "id": "p5513",
+  "name": "Jeroným Tejc",
+  "titles": "JUDr.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "gov"
+  ],
+  "functions": [
+   "Ministr spravedlnosti"
+  ],
+  "photo": "https://vlada.gov.cz/assets/vlada/clenove-vlady/Jeronym-Tejc-nahled.jpg",
+  "profile": "https://vlada.gov.cz/cz/vlada/clenove-vlady/jeronym-tejc-223974/",
+  "nominee": true
+ },
+ {
+  "id": "p6786",
+  "name": "Róbert Teleky",
+  "titles": "MUDr. / MBA",
+  "gender": "m",
+  "club": "KDU-ČSL",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6786.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6786"
+ },
+ {
+  "id": "p7053",
+  "name": "Václav Trojan",
+  "titles": "MVDr. Ing. / Ph.D.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7053.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7053"
+ },
+ {
+  "id": "p6240",
+  "name": "Karel Tureček",
+  "titles": "Ing.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6240.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6240"
+ },
+ {
+  "id": "p6787",
+  "name": "Libor Turek",
+  "titles": "Ing. / Ph.D.",
+  "gender": "m",
+  "club": "ODS",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6787.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6787"
+ },
+ {
+  "id": "p7059",
+  "name": "Filip Turek",
+  "titles": "Mgr.",
+  "gender": "m",
+  "club": "Motoristé",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7059.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7059"
+ },
+ {
+  "id": "p6482",
+  "name": "Vlastimil Válek",
+  "titles": "prof. MUDr. / CSc., MBA, EBIR",
+  "gender": "m",
+  "club": "TOP 09",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6482.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6482"
+ },
+ {
+  "id": "p6168",
+  "name": "Helena Válková",
+  "titles": "prof. JUDr. / CSc.",
+  "gender": "f",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6168.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6168"
+ },
+ {
+  "id": "p6946",
+  "name": "Josef Váňa",
+  "titles": "",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6946.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6946"
+ },
+ {
+  "id": "p7054",
+  "name": "Renata Vesecká",
+  "titles": "JUDr. / Ph.D.",
+  "gender": "f",
+  "club": "Motoristé",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7054.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7054"
+ },
+ {
+  "id": "p6789",
+  "name": "Lukáš Vlček",
+  "titles": "Ing.",
+  "gender": "m",
+  "club": "STAN",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6789.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6789"
+ },
+ {
+  "id": "p7055",
+  "name": "Jiří Vojáček",
+  "titles": "Mgr.",
+  "gender": "m",
+  "club": "KDU-ČSL",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7055.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7055"
+ },
+ {
+  "id": "p6491",
+  "name": "Adam Vojtěch",
+  "titles": "Mgr. et Mgr. / MHA",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp",
+   "gov"
+  ],
+  "functions": [
+   "Ministr zdravotnictví"
+  ],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6491.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6491"
+ },
+ {
+  "id": "p7056",
+  "name": "Jitka Volfová",
+  "titles": "Ing.",
+  "gender": "f",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7056.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7056"
+ },
+ {
+  "id": "p7057",
+  "name": "Samuel Volpe",
+  "titles": "",
+  "gender": "m",
+  "club": "Piráti",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7057.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7057"
+ },
+ {
+  "id": "p6165",
+  "name": "Radek Vondráček",
+  "titles": "Mgr.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6165.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6165"
+ },
+ {
+  "id": "p7058",
+  "name": "Libor Vondráček",
+  "titles": "Mgr.",
+  "gender": "m",
+  "club": "SPD",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7058.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7058"
+ },
+ {
+  "id": "p7060",
+  "name": "Otto Vopěnka",
+  "titles": "Ing.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7060.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7060"
+ },
+ {
+  "id": "p6490",
+  "name": "Petr Vrána",
+  "titles": "Ing.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6490.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6490"
+ },
+ {
+  "id": "p6513",
+  "name": "Marek Výborný",
+  "titles": "Mgr.",
+  "gender": "m",
+  "club": "KDU-ČSL",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6513.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6513"
+ },
+ {
+  "id": "p7061",
+  "name": "Ester Weimerová",
+  "titles": "Mgr. / B.S.",
+  "gender": "f",
+  "club": "STAN",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7061.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7061"
+ },
+ {
+  "id": "p6730",
+  "name": "Lubomír Wenzl",
+  "titles": "Mgr. Ing.",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6730.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6730"
+ },
+ {
+  "id": "p7062",
+  "name": "Martin Záhoř",
+  "titles": "",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7062.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7062"
+ },
+ {
+  "id": "p6793",
+  "name": "Renáta Zajíčková",
+  "titles": "Mgr.",
+  "gender": "f",
+  "club": "ODS",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6793.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6793"
+ },
+ {
+  "id": "p6796",
+  "name": "Michal Zuna",
+  "titles": "",
+  "gender": "m",
+  "club": "TOP 09",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6796.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6796"
+ },
+ {
+  "id": "p5226",
+  "name": "Pavel Žáček",
+  "titles": "PhDr. / Ph.D.",
+  "gender": "m",
+  "club": "ODS",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i5226.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=5226"
+ },
+ {
+  "id": "p7064",
+  "name": "Miroslav Žbánek",
+  "titles": "Mgr. / MPA",
+  "gender": "m",
+  "club": "ANO",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i7064.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=7064"
+ },
+ {
+  "id": "p6154",
+  "name": "Marek Ženíšek",
+  "titles": "PhDr. / Ph.D.",
+  "gender": "m",
+  "club": "TOP 09",
+  "roles": [
+   "mp"
+  ],
+  "functions": [],
+  "photo": "https://www.psp.cz/eknih/cdrom/2025ps/eknih/2025ps/poslanci/i6154.jpg",
+  "profile": "https://www.psp.cz/sqw/detail.sqw?id=6154"
+ }
+]

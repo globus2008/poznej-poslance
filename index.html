@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="cs">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Poznej své poslance</title>
+  <meta name="description" content="Kvíz: syntetický hlas shrne rozporuplné názory poslance nebo člena vlády a vy hádáte, kdo to je.">
+  <meta name="theme-color" content="#1d4f91">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Poznej poslance">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Poznej své poslance – kdo to říká?">
+  <meta property="og:description" content="Kvíz o poslancích a členech vlády. Poznáte je podle hlasu a jejich rozporuplných názorů? Soutěžte o co nejvíc poznaných politiků.">
+  <meta property="og:url" content="https://globus2008.github.io/poznej-poslance/">
+  <meta property="og:image" content="https://globus2008.github.io/poznej-poslance/og.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:locale" content="cs_CZ">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/favicon-32.png" sizes="32x32">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="style.css">
+  <script type="module" src="app.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="./"><img src="icons/favicon-32.png" alt="" width="24" height="24"><span>Poznej své poslance</span></a>
+    <a class="chip" href="about.html">O projektu</a>
+  </header>
+
+  <main>
+    <!-- ===== Start ===== -->
+    <section id="view-start" class="view active">
+      <div class="card challenge" id="challenge" hidden>
+        <strong>Někdo vás vyzval!</strong>
+        <span id="challenge-text"></span>
+      </div>
+
+      <div class="hero">
+        <h1>Kdo to říká?</h1>
+        <p>Uslyšíte syntetický hlas, který v první osobě shrne dva až tři rozporuplné názory jednoho poslance, poslankyně nebo člena vlády. Jméno nezazní – vyberte správnou osobu ze čtyř.</p>
+      </div>
+
+      <div class="card form">
+        <label>Volební období
+          <select id="period"></select>
+        </label>
+        <label>Koho hádat
+          <select id="filter">
+            <option value="">Všechny</option>
+            <option value="gov">Jen členy vlády</option>
+          </select>
+        </label>
+        <p class="hint" id="pool-info"></p>
+        <button id="start" class="primary big" type="button" disabled>Začít hru</button>
+        <p class="hint" id="ranked-info" hidden>Hra se všemi osobami se počítá do žebříčku – za skóre i za počet poznaných politiků.</p>
+      </div>
+
+      <section class="card" id="progress-card" hidden>
+        <div class="row"><h2>Vaše sbírka</h2><strong id="known-count"></strong></div>
+        <div class="progress collection-bar"><div id="known-bar"></div></div>
+        <p class="hint" id="progress-note"></p>
+        <button id="open-collection" type="button">Prohlédnout sbírku</button>
+      </section>
+
+      <div class="card" id="best-card" hidden>
+        <div class="row"><span>Vaše nejlepší skóre</span><strong id="best"></strong></div>
+      </div>
+
+      <section class="card" id="board-card" hidden>
+        <div class="row">
+          <h2>Žebříček</h2>
+          <div class="seg" role="tablist">
+            <button type="button" class="seg-btn active" data-board="month" role="tab">Tento měsíc</button>
+            <button type="button" class="seg-btn" data-board="all" role="tab">Celkově</button>
+            <button type="button" class="seg-btn" data-board="collection" role="tab">Sbírka</button>
+          </div>
+        </div>
+        <ol id="board" class="board"></ol>
+        <p class="hint" id="board-empty" hidden>Zatím nikdo. Buďte první!</p>
+      </section>
+
+      <p class="disclaimer">Hlas je vygenerovaný počítačem, nejde o skutečný hlas politika. Názory jsou zkrácené parafráze s odkazy na zdroje. <a href="about.html">Více o projektu</a></p>
+    </section>
+
+    <!-- ===== Round ===== -->
+    <section id="view-round" class="view">
+      <div class="progress"><div id="progress-bar"></div></div>
+      <div class="row muted"><span id="round-no"></span><span id="score-now"></span></div>
+
+      <div class="card player">
+        <button id="play" class="play" type="button" aria-label="Přehrát">
+          <svg viewBox="0 0 24 24" width="36" height="36" aria-hidden="true"><path id="play-icon" fill="currentColor" d="M8 5v14l11-7z"/></svg>
+        </button>
+        <div class="wave" id="wave" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></div>
+        <p class="hint" id="play-hint">Pusťte si nahrávku a hádejte.</p>
+      </div>
+
+      <div class="options" id="options"></div>
+
+      <div id="reveal" class="card reveal" hidden>
+        <div class="person">
+          <img id="reveal-photo" alt="">
+          <div>
+            <h2 id="reveal-name"></h2>
+            <p id="reveal-role" class="muted"></p>
+            <button id="intro" class="link" type="button">▶ Představení</button>
+          </div>
+        </div>
+        <p class="verdict" id="verdict"></p>
+        <ul class="opinions" id="reveal-opinions"></ul>
+        <p class="hint draft" id="reveal-draft" hidden>Tento záznam zatím čeká na kontrolu.</p>
+        <button id="next" class="primary big" type="button">Další</button>
+      </div>
+    </section>
+
+    <!-- ===== Result ===== -->
+    <section id="view-result" class="view">
+      <div class="card center">
+        <p class="muted">Výsledek</p>
+        <p class="big-score"><span id="final-score"></span></p>
+        <p id="final-note"></p>
+        <p class="hint" id="final-collection"></p>
+        <p class="rank-info" id="rank-info"></p>
+        <button id="change-nick" class="link" type="button" hidden>Změnit přezdívku</button>
+      </div>
+
+      <form class="card form" id="submit-form" hidden>
+        <label>Přezdívka do žebříčku
+          <input id="nick" maxlength="20" autocomplete="nickname" required>
+        </label>
+        <button class="primary" type="submit">Zapsat skóre</button>
+        <p class="hint" id="submit-status"></p>
+      </form>
+
+      <div class="card">
+        <h2>Shrnutí</h2>
+        <ul class="summary" id="summary"></ul>
+      </div>
+
+      <div class="card">
+        <h2>Vyzvěte přátele</h2>
+        <p class="hint">Odkaz jim ukáže váš výsledek a zkusí vás překonat.</p>
+        <div class="share" id="share-result"></div>
+      </div>
+
+      <button id="again" class="primary big" type="button">Hrát znovu</button>
+    </section>
+
+    <!-- ===== Collection ===== -->
+    <section id="view-collection" class="view">
+      <div class="row collection-head">
+        <h1>Sbírka</h1>
+        <button id="collection-back" type="button">Zpět</button>
+      </div>
+      <p class="hint" id="collection-count"></p>
+      <div class="card" id="share-collection-card" hidden>
+        <h2>Pochlubte se sbírkou</h2>
+        <div class="share" id="share-collection"></div>
+      </div>
+      <ul class="collection" id="collection"></ul>
+      <h2 class="locked-title" id="locked-title"></h2>
+      <p class="hint" id="locked-hint">Tmavší otazníky jste už slyšeli, ale zatím neuhodli.</p>
+      <ul class="locked" id="locked"></ul>
+    </section>
+  </main>
+
+  <div id="toast" class="toast" role="status" hidden></div>
+</body>
+</html>
