@@ -34,6 +34,7 @@ data/<period>/overrides.json      party, photo and profile of ministers who are 
 data/<period>/opinions/<club>.json  the researched opinions, edited by hand
 data/<period>/quiz.json           built by tools/build.mjs, the only file the app and the worker read
 audio/<period>/<hash>.mp3         built by tools/tts.py
+photos/<period>/<id>.jpg          portraits, downloaded by tools/fetch-photos.py
 ```
 
 An opinions entry, keyed by person id:
@@ -57,6 +58,7 @@ Only entries with `"reviewed": true` get into the published quiz. Every opinion 
 curl -LO https://www.psp.cz/eknih/cdrom/opendata/poslanci.zip
 mkdir psp && tar -xf poslanci.zip -C psp
 node tools/fetch-people.mjs psp
+python tools/fetch-photos.py        # local copies of the portraits (psp.cz times out under load)
 
 # after editing opinions
 node tools/build.mjs                 # published quiz, reviewed entries only

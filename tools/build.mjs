@@ -59,8 +59,10 @@ const quizPeople = [];
 for (const p of people) {
   const entry = entries.get(p.id);
   if (!entry || (!entry.reviewed && !drafts)) continue;
+  const photo = `photos/${period}/${p.id}.jpg`; // tools/fetch-photos.py
   quizPeople.push({
     ...p,
+    photo: existsSync(photo) ? photo : p.photo,
     role: roleLabel(p),
     clip: clip(p, entry.script.trim()),
     intro: clip(p, `Jsem ${p.name}, ${roleLabel(p)}.`),
