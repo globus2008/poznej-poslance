@@ -59,6 +59,7 @@ curl -LO https://www.psp.cz/eknih/cdrom/opendata/poslanci.zip
 mkdir psp && tar -xf poslanci.zip -C psp
 node tools/fetch-people.mjs psp
 python tools/fetch-photos.py        # local copies of the portraits (psp.cz times out under load)
+node tools/speeches.mjs p6487 out.txt   # one MP's own speeches in the Chamber, for sourcing opinions
 
 # after editing opinions
 node tools/build.mjs                 # published quiz, reviewed entries only
