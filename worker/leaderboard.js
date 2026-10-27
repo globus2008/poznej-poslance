@@ -12,10 +12,18 @@
 //     game: {nick, score, ms, at}
 //   POST /start {period, fresh?}   -> {ok, token, rounds: [{id, options}]}
 //     fresh: ids the player has not heard yet, dealt first (the app's collection)
-//   POST /finish {token, guesses, nick, player}
-//                                  -> {ok, score, ms, known, rank: {month, all, collection}}
+//   POST /finish {token, guesses, nick, player, code?}
+//                                  -> {ok, score, ms, known, knownIds, code?, rank: {month, all, collection}}
 //     guesses: person id per round; player: random id the app keeps in localStorage
-// Errors: {ok: false, error: 'badRequest' | 'origin' | 'rateLimited' | 'expired' | 'used' | 'tooFast' | 'upstream'}
+//   POST /restore {period, nick, code} -> {ok, player, nick, knownIds}
+//
+// Profiles: nicknames are unique (case-insensitive). The first finished game creates the profile
+// and returns a recovery code (shown once in the response, stored only as a hash). The app keeps
+// player id + code; every later finish must present the code. On another device, or after the
+// browser lost its storage, /restore with nickname + code hands the profile back. Nobody can write
+// into someone else's profile without their code.
+// Errors: {ok: false, error: 'badRequest' | 'origin' | 'rateLimited' | 'expired' | 'used' | 'tooFast'
+//          | 'nickTaken' | 'badCode' | 'upstream'}
 //
 // Env: SECRET          signing key (wrangler secret put SECRET)
 //      DB              D1 database binding, tables in schema.sql
@@ -68,6 +76,7 @@ export default {
       if (!body || typeof body !== 'object') throw new Fail('badRequest');
       if (url.pathname === '/start') return json(await start(env, body), 200, origin);
       if (url.pathname === '/finish') return json(await finish(env, body), 200, origin);
+      if (url.pathname === '/restore') return json(await restore(env, body), 200, origin);
       throw new Fail('badRequest', 404);
     } catch (err) {
       if (err instanceof Fail) return json({ ok: false, error: err.code }, err.status, origin);
@@ -98,7 +107,7 @@ async function start(env, { period, fresh }) {
   return { ok: true, token, rounds };
 }
 
-async function finish(env, { token, guesses, nick, player }) {
+async function finish(env, { token, guesses, nick, player, code }) {
   const game = await verify(env, token);
   const ms = Date.now() - game.t;
   if (ms > MAX_AGE_MS) throw new Fail('expired');
@@ -109,15 +118,29 @@ async function finish(env, { token, guesses, nick, player }) {
   nick = cleanNick(nick);
   if (!nick || !PLAYER.test(player ?? '')) throw new Fail('badRequest');
 
-  const right = game.r.filter((id, i) => guesses[i] === id);
+  // Who is playing: an existing profile proves itself with its code; a new one needs a free nickname.
   const now = new Date().toISOString();
+  const self = await env.DB.prepare('SELECT id, nick, code_hash FROM players WHERE id = ?1').bind(player).first();
+  const owner = await env.DB.prepare('SELECT id FROM players WHERE nick = ?1 COLLATE NOCASE').bind(nick).first();
+  let newCode = null;
+  if (self) {
+    if (self.code_hash !== await hashCode(env, code)) throw new Fail('badCode', 403);
+    if (owner && owner.id !== player) throw new Fail('nickTaken', 409);
+  } else {
+    if (owner) throw new Fail('nickTaken', 409);
+    newCode = makeCode();
+  }
+
+  const right = game.r.filter((id, i) => guesses[i] === id);
   const inserted = await env.DB.prepare(`INSERT INTO games (nonce, player, period, score, ms, month, at)
     VALUES (?1, ?2, ?3, ?4, ?5, ?6, ?7) ON CONFLICT (nonce) DO NOTHING`)
     .bind(game.n, player, game.p, right.length, ms, monthKey(), now).run();
   if (!inserted.meta.changes) throw new Fail('used');
   await env.DB.batch([
-    env.DB.prepare(`INSERT INTO players (id, nick, updated) VALUES (?1, ?2, ?3)
-      ON CONFLICT (id) DO UPDATE SET nick = ?2, updated = ?3`).bind(player, nick, now),
+    self
+      ? env.DB.prepare('UPDATE players SET nick = ?2, updated = ?3 WHERE id = ?1').bind(player, nick, now)
+      : env.DB.prepare('INSERT INTO players (id, nick, code_hash, updated) VALUES (?1, ?2, ?3, ?4)')
+        .bind(player, nick, await hashCode(env, newCode), now),
     ...right.map((id) => env.DB.prepare('INSERT OR IGNORE INTO known (player, period, person, at) VALUES (?1, ?2, ?3, ?4)')
       .bind(player, game.p, id, now)),
   ]);
@@ -131,9 +154,41 @@ async function finish(env, { token, guesses, nick, player }) {
   ]);
   const placed = (rank) => (rank && rank <= KEEP ? rank : null);
   return {
-    ok: true, score: right.length, ms, known: collection?.known ?? 0,
+    ok: true, score: right.length, ms, known: collection?.known ?? 0, knownIds: await knownIds(env, game.p, player),
+    ...(newCode && { code: newCode }),
     rank: { month: placed(month), all: placed(all), collection: placed(collection?.known ? collection.rank : null) },
   };
+}
+
+// Hands a profile to a device that proves the nickname's recovery code.
+async function restore(env, { period, nick, code }) {
+  nick = cleanNick(nick);
+  if (!PERIOD.test(period ?? '') || !nick) throw new Fail('badRequest');
+  const found = await env.DB.prepare('SELECT id, nick, code_hash FROM players WHERE nick = ?1 COLLATE NOCASE').bind(nick).first();
+  if (!found || found.code_hash !== await hashCode(env, code)) throw new Fail('badCode', 403);
+  return { ok: true, player: found.id, nick: found.nick, knownIds: await knownIds(env, period, found.id) };
+}
+
+// ---------- recovery codes: 12 characters without look-alikes, e.g. K7QM-2X9P-DRT4 ----------
+
+const CODE_CHARS = 'ABCDEFGHJKMNPQRSTUVWXYZ23456789';
+
+function makeCode() {
+  const bytes = crypto.getRandomValues(new Uint8Array(12));
+  const chars = [...bytes].map((b) => CODE_CHARS[b % CODE_CHARS.length]).join('');
+  return `${chars.slice(0, 4)}-${chars.slice(4, 8)}-${chars.slice(8)}`;
+}
+
+async function hashCode(env, code) {
+  const clean = String(code ?? '').toUpperCase().replace(/[^A-Z0-9]/g, '');
+  if (clean.length !== 12) return null;
+  const digest = await crypto.subtle.digest('SHA-256', enc.encode(`${env.SECRET}|${clean}`));
+  return b64url(digest);
+}
+
+async function knownIds(env, period, player) {
+  const { results } = await env.DB.prepare('SELECT person FROM known WHERE player = ?1 AND period = ?2').bind(player, period).all();
+  return results.map((r) => r.person);
 }
 
 // ---------- lists ----------

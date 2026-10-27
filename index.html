@@ -64,6 +64,17 @@
         <div class="progress collection-bar"><div id="known-bar"></div></div>
         <p class="hint" id="progress-note"></p>
         <button id="open-collection" type="button">Prohlédnout sbírku</button>
+        <div class="profile" id="profile" hidden>
+          <span id="profile-name"></span>
+          <button id="show-code" class="link" type="button" hidden>Kód pro jiné zařízení</button>
+          <button id="restore-toggle" class="link" type="button">Mám profil z jiného zařízení</button>
+          <form class="form" id="restore-form" hidden>
+            <label>Přezdívka <input id="restore-nick" maxlength="20" autocomplete="nickname" required></label>
+            <label>Kód pro obnovení <input id="restore-code" placeholder="XXXX-XXXX-XXXX" autocomplete="off" required></label>
+            <button class="primary" type="submit">Obnovit profil</button>
+            <p class="hint" id="restore-status"></p>
+          </form>
+        </div>
       </section>
 
       <div class="card" id="best-card" hidden>
@@ -80,7 +91,8 @@
           </div>
         </div>
         <ol id="board" class="board"></ol>
-        <p class="hint" id="board-empty" hidden>Zatím nikdo. Buďte první!</p>
+        <p class="hint">🎯 = laťka k překonání, ne skutečný hráč.</p>
+        <p class="hint" id="board-empty" hidden>Zatím tu nejsou žádní hráči. Buďte první!</p>
       </section>
 
       <p class="disclaimer">Hlas je vygenerovaný počítačem, nejde o skutečný hlas politika. Názory jsou zkrácené parafráze s odkazy na zdroje. <a href="about.html">Více o projektu</a></p>
@@ -125,12 +137,19 @@
         <p id="final-note"></p>
         <p class="hint" id="final-collection"></p>
         <p class="rank-info" id="rank-info"></p>
+        <div class="new-code" id="new-code" hidden>
+          Váš kód pro obnovení: <strong id="new-code-value"></strong><br>
+          <small>Uschovejte si ho. S přezdívkou a tímto kódem budete pokračovat na jiném zařízení a nikdo jiný vaši přezdívku nepoužije.</small>
+        </div>
         <button id="change-nick" class="link" type="button" hidden>Změnit přezdívku</button>
       </div>
 
       <form class="card form" id="submit-form" hidden>
         <label>Přezdívka do žebříčku
           <input id="nick" maxlength="20" autocomplete="nickname" required>
+        </label>
+        <label id="recovery-row" hidden>Kód pro obnovení
+          <input id="recovery" placeholder="XXXX-XXXX-XXXX" autocomplete="off">
         </label>
         <button class="primary" type="submit">Zapsat skóre</button>
         <p class="hint" id="submit-status"></p>

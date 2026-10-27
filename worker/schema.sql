@@ -2,9 +2,11 @@
 
 CREATE TABLE IF NOT EXISTS players (
   id TEXT PRIMARY KEY,        -- random id kept by the app in localStorage
-  nick TEXT NOT NULL,
+  nick TEXT NOT NULL,         -- unique, case-insensitive
+  code_hash TEXT NOT NULL,    -- hash of the recovery code (see worker/leaderboard.js)
   updated TEXT NOT NULL
 );
+CREATE UNIQUE INDEX IF NOT EXISTS players_nick ON players (nick COLLATE NOCASE);
 
 -- One row per finished ranked game; nonce comes from the signed token, so a game counts once.
 CREATE TABLE IF NOT EXISTS games (

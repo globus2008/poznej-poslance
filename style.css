@@ -108,13 +108,14 @@ button.link { border: 0; background: none; padding: 0; color: var(--accent); fon
 .seg { display: inline-flex; background: var(--surface-2); border-radius: 10px; padding: 3px; }
 .seg-btn { border: 0; background: none; padding: 5px 10px; font-size: 0.85rem; border-radius: 8px; }
 .seg-btn.active { background: var(--surface); box-shadow: var(--shadow); font-weight: 600; }
-.board { margin: 12px 0 0; padding: 0; list-style: none; counter-reset: rank; }
+.board { margin: 12px 0 0; padding: 0; list-style: none; }
 .board li {
-  counter-increment: rank; display: grid; grid-template-columns: 2em 1fr auto; gap: 8px;
+  display: grid; grid-template-columns: 2em 1fr auto; gap: 8px;
   padding: 7px 0; border-top: 1px solid var(--border); font-variant-numeric: tabular-nums;
 }
-.board li::before { content: counter(rank) "."; color: var(--muted); }
-.board li:nth-child(-n+3)::before { color: var(--accent); font-weight: 700; }
+.board .rank { color: var(--muted); }
+.board li:not(.bench) .rank { color: var(--accent); font-weight: 700; }
+.board li.bench { color: var(--muted); font-style: italic; }
 .board .nick { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .board .time { color: var(--muted); font-size: 0.85rem; margin-left: 6px; }
 .board li.me { font-weight: 700; }
@@ -171,6 +172,10 @@ button.link { border: 0; background: none; padding: 0; color: var(--accent); fon
 .net.wa { background: #1fa855; }
 .challenge { display: grid; gap: 4px; border-color: #e0b100; background: color-mix(in srgb, #ffd34d 22%, var(--surface)); }
 .rank-info { font-weight: 600; margin: 8px 0 4px; }
+.new-code { margin: 10px 0 4px; padding: 10px; border-radius: 10px; background: var(--accent-soft); }
+.new-code strong { font-family: ui-monospace, Consolas, monospace; font-size: 1.1rem; letter-spacing: 0.05em; }
+.profile { display: flex; flex-wrap: wrap; gap: 6px 14px; align-items: center; margin-top: 12px; font-size: 0.92rem; color: var(--muted); }
+.profile form { flex-basis: 100%; margin-top: 6px; }
 .rank-info:empty { display: none; }
 
 .collection-bar { margin: 10px 0 8px; height: 8px; }

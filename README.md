@@ -105,7 +105,7 @@ npx wrangler deploy
 
 Check `ALLOWED_ORIGINS` and `QUIZ_BASE` in `wrangler.toml` first. Then put the worker URL into `config.js` (`LEADERBOARD_URL`) and push.
 
-The D1 free plan allows 100,000 written rows a day. A finished game writes about a dozen rows, so the limit covers several thousand games a day. The app asks for a nickname once, then enters every ranked game on its own. Each browser keeps a random player id, and that id is what the collection list counts. To rename an offensive nickname:
+The D1 free plan allows 100,000 written rows a day. A finished game writes about a dozen rows, so the limit covers several thousand games a day. The app asks for a nickname once, then enters every ranked game on its own. Nicknames are unique. The first game creates a profile and shows a recovery code. Only the code's hash is stored. With nickname + code a player continues on another device or after the browser lost its data ("Mám profil z jiného zařízení"), and nobody else can write into their profile. The leaderboard also shows three marked benchmarks (🎯 Nováček, Pozorný volič, Politolog) so the first players have something to beat. They are drawn by the app, never stored and never ranked. To rename an offensive nickname:
 
 ```sh
 npx wrangler d1 execute poznej-poslance --remote --command "UPDATE players SET nick = 'hráč' WHERE nick = '…'"

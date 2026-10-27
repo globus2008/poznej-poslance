@@ -23,8 +23,10 @@ let game = null; // { rounds, i, guesses, ranked, token, started, ms }
 let boardData = null;
 let boardTab = 'month';
 let collection = { heard: new Set(), known: new Set() }; // per period, in localStorage
-const player = store.get('pp.player', null) ?? crypto.randomUUID();
+let player = store.get('pp.player', null) ?? crypto.randomUUID();
 store.set('pp.player', player);
+// Ask the browser not to evict our data (collection, nickname) under storage pressure.
+navigator.storage?.persist?.().catch(() => {});
 const challenge = share.readChallenge();
 
 // ---------- data ----------
@@ -62,6 +64,8 @@ async function selectPeriod(id) {
   showBest();
   showProgress();
   loadBoard();
+  showProfile();
+  syncCollection();
 }
 
 function pool() {
@@ -185,6 +189,55 @@ function tier(p) {
   return collection.known.has(p.id) ? 2 : collection.heard.has(p.id) ? 1 : 0;
 }
 
+// Merges the collection the server keeps for the nickname, so it survives lost browser storage
+// and carries over to other devices.
+// The profile (nickname + recovery code) lives on the server; the browser keeps a copy. With the
+// code the collection survives lost browser storage and carries over to other devices.
+async function syncCollection(ids) {
+  const nick = store.get('pp.nick', '');
+  const code = store.get('pp.code', '');
+  if (!board.enabled || !nick) return;
+  if (!ids) {
+    if (!code) return;
+    try {
+      ids = (await board.restore(period, nick, code)).knownIds;
+    } catch { return; }
+  }
+  for (const id of ids) {
+    collection.known.add(id);
+    collection.heard.add(id);
+  }
+  saveCollection();
+  showProgress();
+}
+
+function setProfile({ player: id, nick, code }) {
+  if (id) { player = id; store.set('pp.player', id); }
+  if (nick) store.set('pp.nick', nick);
+  if (code) store.set('pp.code', code);
+  showProfile();
+}
+
+async function restoreProfile(nick, code) {
+  const res = await board.restore(period, nick, code);
+  setProfile({ player: res.player, nick: res.nick, code });
+  await syncCollection(res.knownIds);
+  return res;
+}
+
+function showProfile() {
+  const nick = store.get('pp.nick', '');
+  const code = store.get('pp.code', '');
+  $('profile').hidden = !board.enabled;
+  $('profile-name').textContent = nick && code ? `Hrajete jako ${nick}.` : 'Zatím nemáte profil v žebříčku.';
+  $('show-code').hidden = !code;
+  $('restore-toggle').hidden = Boolean(code);
+}
+
+function saveCollection() {
+  store.set(`pp.collection.${period}`, { heard: [...collection.heard], known: [...collection.known] });
+}
+
 function remember(id, ok) {
   collection.heard.add(id);
   if (ok && !collection.known.has(id)) {
@@ -245,12 +298,20 @@ function verdict(ratio) {
   return 'Teď už je znáte o trochu lépe.';
 }
 
-function submitScore(e) {
+async function submitScore(e) {
   e.preventDefault();
   const nick = $('nick').value.trim();
   if (!nick) return;
-  store.set('pp.nick', nick);
-  submitResult(nick);
+  const code = $('recovery').value.trim();
+  if (code) {
+    try {
+      await restoreProfile(nick, code);
+    } catch (err) {
+      $('submit-status').textContent = err.message === 'badCode' ? 'Kód k této přezdívce nesedí.' : 'Obnovení se nepovedlo, zkuste to znovu.';
+      return;
+    }
+  }
+  submitResult(store.get('pp.nick', '') || nick); // after a restore, the profile's own spelling
 }
 
 async function submitResult(nick) {
@@ -259,9 +320,14 @@ async function submitResult(nick) {
   btn.disabled = true;
   $('rank-info').textContent = 'Zapisuji do žebříčku…';
   try {
-    const res = await board.finish(game.token, game.guesses, nick, player);
+    const res = await board.finish(game.token, game.guesses, nick, player, store.get('pp.code', ''));
     game.token = null;
+    setProfile({ nick, code: res.code });
+    syncCollection(res.knownIds);
     $('submit-form').hidden = true;
+    $('recovery-row').hidden = true;
+    $('new-code').hidden = !res.code;
+    if (res.code) $('new-code-value').textContent = res.code;
     $('change-nick').hidden = false;
     const places = [
       res.rank.month && `${res.rank.month}. místo tento měsíc`,
@@ -275,7 +341,10 @@ async function submitResult(nick) {
   } catch (err) {
     $('rank-info').textContent = '';
     $('submit-form').hidden = false;
+    $('recovery-row').hidden = err.message !== 'nickTaken';
     $('submit-status').textContent = {
+      nickTaken: 'Tuto přezdívku už má někdo jiný. Zvolte jinou, nebo pokud je vaše, zadejte svůj kód pro obnovení.',
+      badCode: 'Uložený kód nesedí. Zadejte přezdívku a kód znovu.',
       expired: 'Hra je příliš stará na zápis.',
       used: 'Tato hra už byla zapsaná.',
       tooFast: 'Hra proběhla podezřele rychle, skóre nelze zapsat.',
@@ -348,14 +417,30 @@ async function loadBoard() {
   }
 }
 
+// Marked benchmarks between the real players, so the first players have something to beat.
+// They are not players: no rank, never stored, shown with a target icon and explained below the list.
+function benchmarks() {
+  const total = quiz.people.length;
+  if (boardTab === 'collection') {
+    return [['Nováček', 0.1], ['Pozorný volič', 0.3], ['Politolog', 0.6]]
+      .map(([nick, share]) => ({ nick, known: Math.max(1, Math.round(total * share)), bench: true }));
+  }
+  return [['Nováček', 4, 150000], ['Pozorný volič', 6, 120000], ['Politolog', 8, 95000]]
+    .map(([nick, score, ms]) => ({ nick, score, ms, bench: true }));
+}
+
 function renderBoard() {
-  const list = boardData?.[boardTab] ?? [];
+  const real = boardData?.[boardTab] ?? [];
+  const better = boardTab === 'collection' ? (a, b) => b.known - a.known : (a, b) => b.score - a.score || a.ms - b.ms;
+  const list = [...real, ...benchmarks()].sort(better);
   const nick = store.get('pp.nick', '');
-  $('board').innerHTML = list.map((e) => `<li class="${e.nick === nick ? 'me' : ''}">
+  let rank = 0;
+  $('board').innerHTML = list.map((e) => `<li class="${e.bench ? 'bench' : e.nick === nick ? 'me' : ''}">
+    <span class="rank">${e.bench ? '🎯' : `${++rank}.`}</span>
     <span class="nick">${esc(e.nick)}</span>${boardTab === 'collection'
     ? `<span>${e.known}<span class="time">z ${quiz.people.length}</span></span>`
     : `<span>${e.score}/${ROUNDS}<span class="time">${formatMs(e.ms)}</span></span>`}</li>`).join('');
-  $('board-empty').hidden = list.length > 0;
+  $('board-empty').hidden = real.length > 0;
   for (const b of document.querySelectorAll('[data-board]')) b.classList.toggle('active', b.dataset.board === boardTab);
 }
 
@@ -455,6 +540,22 @@ $('collection').addEventListener('click', (e) => {
   if (!btn) return;
   const p = byId.get(btn.dataset.play);
   audio.play(period, p.clip, p.gender);
+});
+$('show-code').addEventListener('click', () => {
+  const code = store.get('pp.code', '');
+  navigator.clipboard?.writeText(code).catch(() => {});
+  toast(`Váš kód pro obnovení: ${code} (zkopírováno). Uschovejte si ho pro hraní na jiném zařízení.`, 9000);
+});
+$('restore-toggle').addEventListener('click', () => { $('restore-form').hidden = !$('restore-form').hidden; });
+$('restore-form').addEventListener('submit', async (e) => {
+  e.preventDefault();
+  try {
+    const res = await restoreProfile($('restore-nick').value.trim(), $('restore-code').value.trim());
+    $('restore-form').hidden = true;
+    toast(`Vítejte zpět, ${res.nick}! Sbírka je obnovená.`);
+  } catch (err) {
+    $('restore-status').textContent = err.message === 'badCode' ? 'Přezdívka a kód k sobě nesedí.' : 'Obnovení se nepovedlo, zkuste to znovu.';
+  }
 });
 $('change-nick').addEventListener('click', () => { $('submit-form').hidden = false; $('change-nick').hidden = true; $('nick').focus(); });
 $('submit-form').addEventListener('submit', submitScore);

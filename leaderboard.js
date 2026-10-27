@@ -22,6 +22,10 @@ export const top = (period) => call(`/top?period=${encodeURIComponent(period)}`)
 // fresh: ids the player has not heard yet, dealt first -> { token, rounds: [{ id, options }] }
 export const start = (period, fresh) => call('/start', { period, fresh });
 
-// guesses: person ids in round order; player: random id kept in localStorage
-// -> { score, ms, known, rank: { month, all, collection } } (rank null = not in the top 20)
-export const finish = (token, guesses, nick, player) => call('/finish', { token, guesses, nick, player });
+// guesses: person ids in round order; player + code: the profile kept in localStorage
+// -> { score, ms, known, knownIds, code? (new profile), rank: { month, all, collection } }
+// Errors 'nickTaken' (someone else's nickname) and 'badCode'.
+export const finish = (token, guesses, nick, player, code) => call('/finish', { token, guesses, nick, player, code });
+
+// A profile from another device: nickname + recovery code -> { player, nick, knownIds }
+export const restore = (period, nick, code) => call('/restore', { period, nick, code });
