@@ -198,12 +198,6 @@ button.link { border: 0; background: none; padding: 0; color: var(--accent); fon
 .collection details { margin-top: 6px; font-size: 0.92rem; }
 .collection summary { cursor: pointer; color: var(--accent); font-weight: 600; }
 .locked-title { margin: 18px 0 4px; }
-.locked { list-style: none; padding: 0; margin: 10px 0 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(44px, 1fr)); gap: 6px; }
-.locked li {
-  aspect-ratio: 1; border-radius: 8px; background: var(--surface-2); color: var(--muted);
-  display: grid; place-items: center; font-weight: 800;
-}
-.locked li.heard { background: var(--accent-soft); color: var(--accent); }
 
 .big-score { font-size: 3rem; font-weight: 800; margin: 4px 0; }
 .summary { list-style: none; padding: 0; margin: 10px 0 0; }

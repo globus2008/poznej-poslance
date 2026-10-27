@@ -496,14 +496,10 @@ function showCollection() {
   $('collection-count').textContent = `Poznáno ${known.length} z ${people.length}. Neodhalené osoby se odemknou, až je v kvízu uhodnete.`;
   $('share-collection-card').hidden = known.length === 0;
   if (known.length) renderShare($('share-collection'), { known: known.length, total: people.length });
-  // Unlocked people as cards, the rest as a compact grid of question marks.
-  const locked = people.filter((p) => !collection.known.has(p.id));
-  $('locked-title').hidden = $('locked-hint').hidden = locked.length === 0;
-  $('locked-title').textContent = `Zbývá odhalit: ${locked.length}`;
-  $('locked').innerHTML = locked.map((p) => {
-    const heard = collection.heard.has(p.id);
-    return `<li class="${heard ? 'heard' : ''}" title="${heard ? 'Slyšeno, zatím neuhodnuto' : 'Zatím neslyšeno'}">?</li>`;
-  }).join('');
+  // Unlocked people as cards, the rest only as a count.
+  const locked = people.length - known.length;
+  $('locked-title').hidden = locked === 0;
+  $('locked-title').textContent = `Zbývá rozpoznat: ${locked}`;
   $('collection').innerHTML = known.map((p) => {
     return `<li><img src="${esc(p.photo)}" alt="" loading="lazy" referrerpolicy="no-referrer">
       <div><strong>${esc(p.name)}</strong><small>${esc(p.role)}</small>
