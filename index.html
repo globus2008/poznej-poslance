@@ -89,6 +89,7 @@
         <div class="row"><span>Vaše nejlepší skóre</span><strong id="best"></strong></div>
       </div>
 
+      <div class="board-slot">
       <section class="card" id="board-card" hidden>
         <div class="row">
           <h2>Žebříček</h2>
@@ -102,6 +103,7 @@
         <p class="hint">🎯 = laťka k překonání, ne skutečný hráč.</p>
         <p class="hint" id="board-empty" hidden>Zatím tu nejsou žádní hráči. Buďte první!</p>
       </section>
+      </div>
 
       <p class="disclaimer">Hlas je vygenerovaný počítačem, nejde o skutečný hlas politika. Názory jsou zkrácené parafráze s odkazy na zdroje. <a href="about.html">Více o projektu</a></p>
     </section>
@@ -165,6 +167,11 @@
         <p class="hint" id="submit-status"></p>
       </form>
 
+      <button id="continue" class="primary big" type="button">Pokračovat ve hře</button>
+
+      <!-- the leaderboard card moves here from the start page -->
+      <div class="board-slot"></div>
+
       <div class="card">
         <h2>Shrnutí</h2>
         <ul class="summary" id="summary"></ul>
@@ -176,7 +183,7 @@
         <div class="share" id="share-result"></div>
       </div>
 
-      <button id="again" class="primary big" type="button">Hrát znovu</button>
+      <button id="home" class="big" type="button">Zpět na úvod</button>
     </section>
 
     <!-- ===== Collection ===== -->

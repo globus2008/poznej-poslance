@@ -101,7 +101,7 @@ async function startGame() {
   let rounds = null;
   let token = null;
   if (ranked) {
-    $('start').disabled = true;
+    $('start').disabled = $('continue').disabled = true;
     try {
       const fresh = quiz.people.filter((p) => !collection.heard.has(p.id)).map((p) => p.id);
       ({ rounds, token } = await board.start(period, fresh));
@@ -111,7 +111,7 @@ async function startGame() {
       token = null;
       toast('Žebříček je nedostupný, hraje se bez něj.');
     }
-    $('start').disabled = false;
+    $('start').disabled = $('continue').disabled = false;
   }
   rounds ??= makeRounds(quiz.people, pool(), ROUNDS, Math.random, tier);
   game = { rounds, i: 0, guesses: [], ranked: Boolean(token), token, started: Date.now(), ms: 0, newlyKnown: 0 };
@@ -524,6 +524,8 @@ function showBest() {
 
 function show(id) {
   for (const v of document.querySelectorAll('.view')) v.classList.toggle('active', v.id === id);
+  // One leaderboard card, shown on the start page and below the result.
+  $(id).querySelector('.board-slot')?.append($('board-card'));
   window.scrollTo({ top: 0 });
 }
 
@@ -566,7 +568,8 @@ $('intro').addEventListener('click', () => {
   audio.play(period, p.intro, p.gender);
 });
 $('next').addEventListener('click', next);
-$('again').addEventListener('click', () => { show('view-start'); showBest(); showProgress(); });
+$('continue').addEventListener('click', startGame);
+$('home').addEventListener('click', () => { show('view-start'); showBest(); showProgress(); });
 $('open-collection').addEventListener('click', showCollection);
 $('collection-back').addEventListener('click', () => { audio.stop(); show('view-start'); });
 $('collection').addEventListener('click', (e) => {
