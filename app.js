@@ -406,7 +406,8 @@ function renderShare(el, result) {
     <a class="net fb" href="${links.facebook}" target="_blank" rel="noopener" data-act="facebook">Facebook</a>
     <a class="net x" href="${links.x}" target="_blank" rel="noopener">X</a>
     <a class="net wa" href="${links.whatsapp}" target="_blank" rel="noopener">WhatsApp</a>
-    <button type="button" data-act="copy">Kopírovat</button>
+    <button type="button" data-act="link">Kopírovat odkaz</button>
+    <button type="button" data-act="copy">Kopírovat text</button>
     <button type="button" data-act="image">Obrázek</button>`;
   el.onclick = async (e) => {
     const act = e.target.closest('[data-act]')?.dataset.act;
@@ -418,6 +419,12 @@ function renderShare(el, result) {
         () => toast('Text výsledku je zkopírovaný. Vložte ho do příspěvku (Ctrl+V, na mobilu podržte prst).', 7000),
         () => {},
       );
+    }
+    if (act === 'link') {
+      try {
+        await navigator.clipboard.writeText(url);
+        toast('Odkaz je zkopírovaný, pošlete ho komukoli. Otevře se v prohlížeči.');
+      } catch { toast(url, 9000); }
     }
     if (act === 'copy') {
       try {

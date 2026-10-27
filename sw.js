@@ -1,5 +1,5 @@
 // Offline cache for the app shell. Bump CACHE when shipping changes so clients refresh.
-const CACHE = 'poznej-poslance-v11';
+const CACHE = 'poznej-poslance-v12';
 const ASSETS = [
   './',
   'index.html',
