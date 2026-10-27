@@ -1,6 +1,9 @@
-// Merges data/<period>/people.json and data/<period>/opinions/*.json into
-// data/<period>/quiz.json, the only file the app and the leaderboard worker read.
-// Fails on invalid data.
+// Merges data/<period>/people.json, data/<period>/opinions/*.json and data/<period>/activity.json
+// (tools/votes.mjs) into data/<period>/quiz.json, the only file the app and the leaderboard worker
+// read. MPs without researched opinions get a profile from their votes instead. Fails on invalid data.
+//
+// Each person gets a level for the difficulty setting: 1 government, Chamber leadership, club
+// chairs and party leaders; 2 other researched opinions; 3 profiles from votes.
 //
 //   node tools/build.mjs [period] [--drafts] [--check-audio]
 //
@@ -23,8 +26,20 @@ const CLUB_ACCUSATIVE = { 'Motoristé': 'Motoristy', 'Piráti': 'Piráty' }; // 
 // Bump TTS_VERSION when the voice settings in tts.py change, to regenerate every clip.
 const VOICES = { m: 'cedar', f: 'marin' };
 const TTS_VERSION = 3;
+// Club chairs and party leaders who are not in the government or the Chamber leadership.
+const LEADERS = new Set(['p4', 'p5459', 'p6205', 'p6468', 'p6473', 'p6687', 'p6763', 'p6538', 'p6524', 'p6552', 'p6754', 'p6074', 'p7059', 'p7037']);
+const REGION_IN = { 'Hlavní město Praha': 'v Praze', 'Vysočina': 'v kraji Vysočina' }; // others: "Plzeňský" -> "v Plzeňském kraji"
+const TIMES = ['', 'jednou', 'dvakrát', 'třikrát', 'čtyřikrát'];
+// Numbers are written out so the voice reads them right and the transcript check matches.
+const UNITS = ['nula', 'jedna', 'dva', 'tři', 'čtyři', 'pět', 'šest', 'sedm', 'osm', 'devět', 'deset', 'jedenáct', 'dvanáct',
+  'třináct', 'čtrnáct', 'patnáct', 'šestnáct', 'sedmnáct', 'osmnáct', 'devatenáct'];
+const TENS = ['', '', 'dvacet', 'třicet', 'čtyřicet', 'padesát', 'šedesát', 'sedmdesát', 'osmdesát', 'devadesát'];
+const numberWords = (n) => (n === 100 ? 'sto' : n < 20 ? UNITS[n] : `${TENS[Math.floor(n / 10)]}${n % 10 ? ` ${UNITS[n % 10]}` : ''}`);
+const times = (n) => TIMES[n] ?? `${numberWords(n)}krát`;
 const dir = join('data', period);
 const readJson = (file) => JSON.parse(readFileSync(file, 'utf8'));
+const activity = existsSync(join(dir, 'activity.json')) ? readJson(join(dir, 'activity.json')) : {};
+const keyVotes = existsSync(join(dir, 'key-votes.json')) ? readJson(join(dir, 'key-votes.json')) : [];
 
 const people = readJson(join(dir, 'people.json'));
 const byId = new Map(people.map((p) => [p.id, p]));
@@ -57,8 +72,12 @@ const clip = (p, text) => {
 
 const quizPeople = [];
 for (const p of people) {
-  const entry = entries.get(p.id);
-  if (!entry || (!entry.reviewed && !drafts)) continue;
+  const act = activity[p.id];
+  let entry = entries.get(p.id);
+  if (entry && !entry.reviewed && !drafts) continue;
+  const kind = entry ? 'opinions' : 'votes';
+  if (!entry) entry = act && profileFromVotes(p, act);
+  if (!entry) continue;
   const photo = `photos/${period}/${p.id}.jpg`; // tools/fetch-photos.py
   quizPeople.push({
     ...p,
@@ -68,6 +87,13 @@ for (const p of people) {
     intro: clip(p, `Jsem ${p.name}, ${roleLabel(p)}.`),
     opinions: entry.opinions,
     reviewed: Boolean(entry.reviewed),
+    kind,
+    level: p.functions.length || p.roles.includes('gov') || LEADERS.has(p.id) ? 1 : kind === 'opinions' ? 2 : 3,
+    activity: act && {
+      region: act.region, speeches: act.speeches, attendance: act.attendance, loyalty: act.loyalty,
+      rebelCount: act.rebelCount, rebels: act.rebels,
+      keyVotes: act.keyVotes.map((v) => ({ ...v, topic: keyVotes.find((k) => k.id === v.id)?.topic })),
+    },
   });
 }
 
@@ -92,7 +118,43 @@ if (errors.length) {
 const quiz = { period, people: quizPeople };
 writeFileSync(join(dir, 'quiz.json'), JSON.stringify(quiz) + '\n');
 const pending = [...entries.values()].filter((e) => !e.reviewed).length;
-console.log(`${quizPeople.length} people in quiz.json (${entries.size} with opinions, ${pending} not reviewed${drafts ? ', drafts included' : ''})`);
+const profiles = quizPeople.filter((p) => p.kind === 'votes').length;
+console.log(`${quizPeople.length} people in quiz.json (${entries.size} with opinions, ${profiles} profiles from votes, ${pending} not reviewed${drafts ? ', drafts included' : ''})`);
+
+// A first-person profile from the Chamber's data, for MPs without researched opinions. It states
+// facts only: region, how often they spoke, three key votes, attendance and loyalty to the club.
+function profileFromVotes(p, act) {
+  const a = p.gender === 'f' ? 'a' : '';
+  const adjective = act.region?.replace(/ý$/, 'ém');
+  const region = REGION_IN[act.region] ?? (adjective ? `${/^[ZSŠŽ][^aeiouyáéíóúůý]/.test(adjective) ? 've' : 'v'} ${adjective} kraji` : null);
+  const cast = act.keyVotes.filter((v) => v.code === 'A' || v.code === 'B');
+  if (cast.length < 2) return null;
+  // Rotate which key votes are read so profiles of one club do not all sound the same.
+  const start = createHash('sha1').update(p.id).digest()[0] % cast.length;
+  const picked = [...cast.slice(start), ...cast.slice(0, start)].slice(0, 3)
+    .sort((x, y) => keyVotes.findIndex((k) => k.id === x.id) - keyVotes.findIndex((k) => k.id === y.id));
+  const phrase = (v) => keyVotes.find((k) => k.id === v.id)[v.code === 'A' ? 'yes' : 'no'];
+  const list = picked.map(phrase);
+  const sentences = [];
+  if (region) sentences.push(`Do Sněmovny jsem byl${a} zvolen${a} ${region}.`);
+  sentences.push(act.speeches === 0 ? `Na řečnickém pultu jsem zatím nevystoupil${a}.`
+    : act.speeches < 5 ? `Na řečnickém pultu jsem zatím byl${a} jen ${times(act.speeches)}.`
+    : `Ve Sněmovně jsem zatím vystoupil${a} ${times(act.speeches)}.`);
+  sentences.push(`Hlasoval${a} jsem ${list.length > 1 ? `${list.slice(0, -1).join(', ')} a ${list.at(-1)}` : list[0]}.`
+    .replace('310 miliard', 'tři sta deset miliard').replace('2026', 'dva tisíce dvacet šest'));
+  if (act.rebelCount) sentences.push(`Ve sporných hlasováních jsem se od svého klubu odchýlil${a} ${times(act.rebelCount)}.`);
+  else sentences.push('Se svým klubem hlasuji pokaždé stejně.');
+  if (act.attendance !== null) sentences.push(`Moje účast na hlasováních je ${numberWords(act.attendance)} procent.`);
+  const label = { A: `Hlasoval${a} pro.`, B: `Hlasoval${a} proti.`, K: `Zdržel${a} se nebo nehlasoval${a}.`, '@': `Chyběl${a}.`, M: `Byl${a} omluven${a}.`, W: `Ještě nebyl${a} poslan${p.gender === 'f' ? 'kyní' : 'cem'}.` };
+  return {
+    script: sentences.join(' '),
+    opinions: act.keyVotes.map((v) => {
+      const k = keyVotes.find((x) => x.id === v.id);
+      return { topic: k.topic, text: label[v.code] ?? '', source: `https://www.psp.cz/sqw/hlasy.sqw?g=${v.id}`, date: v.date };
+    }),
+    reviewed: true,
+  };
+}
 
 // "poslankyně za STAN", "ministryně financí", "předseda vlády a poslanec za ANO".
 function roleLabel(p) {

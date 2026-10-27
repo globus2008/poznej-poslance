@@ -88,5 +88,137 @@
    }
   ],
   "reviewed": true
+ },
+ "p6987": {
+  "script": "Na summit NATO bych místo prezidenta vyslal premiéra Babiše, protože má dobré vztahy se Spojenými státy. Petr Macinka je tvrdý vyjednávač, ale nikomu ubližovat nechce. Bez změny mandatorních výdajů se z dluhů nedostaneme, jinak je projídáme do budoucna. A lidé odcházeli do zemí, kde se k nim vlády chovají vstřícněji.",
+  "opinions": [
+   {
+    "topic": "Summit NATO",
+    "text": "Na summit NATO by místo prezidenta Petra Pavla vyslal premiéra Andreje Babiše kvůli jeho vztahům s USA. O Petru Macinkovi řekl: „Jak znám Petra Macinku, je to tvrdý vyjednávač, ale určitě to není člověk, který by chtěl někomu ubližovat.“",
+    "source": "https://ct24.ceskatelevize.cz/clanek/domaci/na-summit-nato-bych-vyslal-babise-diky-jeho-vztahum-s-usa-rekl-bartak-369833",
+    "date": "2026-01-31"
+   },
+   {
+    "topic": "Mandatorní výdaje",
+    "text": "„Pokud neuděláme změnu v mandatorních výdajích, tak se asi nedostaneme dolů. Pokud je máte, tak je projídáte do budoucna.“ O lidech, kteří kvůli daním odešli: „Byl pro ně nepříjemný, proto zvolili jinou zemi, kde se k nim vlády chovají vstřícněji.“",
+    "source": "https://ct24.ceskatelevize.cz/clanek/domaci/snizeni-dane-na-pohonne-hmoty-nyni-vlada-neplanuje-ods-na-nem-trva-371315",
+    "date": "2026-03-15"
+   }
+  ],
+  "reviewed": true
+ },
+ "p7006": {
+  "script": "Stát nemá dotovat knížky jako Zrušme rodinu, když za minulé vlády nebylo ani na opravu památníku v Lidicích. Prioritou ministerstva kultury mají být památky a kultura, která se nemůže bránit. A dva miliony korun na program, který dokončilo sedmnáct lidí, nepovažuji za efektivně vynaložené peníze, i když každý škrt neziskovkám hned vyvolá křik.",
+  "opinions": [
+   {
+    "topic": "Dotace kultuře",
+    "text": "Kritizoval, že minulá vláda podporovala projekty jako knihu Zrušme rodinu, zatímco nebylo na opravu Památníku v Lidicích. Prioritou ministerstva kultury mají být památky a „kultura, která se nemůže bránit“; kultura se má podle něj co nejvíc živit sama.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/010schuz/s010092.htm#r1",
+    "date": "2026-03-04"
+   },
+   {
+    "topic": "Škrty neziskovkám",
+    "text": "Hájil škrt dotace preventivnímu programu neziskové organizace: „2 miliony korun za 17 lidí si myslím, že není výhodný preventivní program“. Škrty neziskovkám jsou podle něj okamžitě vykládány jako nezájem řešit problémy.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/010schuz/s010076.htm#r2",
+    "date": "2026-03-04"
+   }
+  ],
+  "reviewed": true
+ },
+ "p7016": {
+  "script": "Řešením není zrušit Cermat a státní maturity, ta řešení jsou jiná a mnohem složitější. Jednotné přijímačky jsou zatím nejmenší zlo a bez nich si elitní gymnázia udělají vlastní testy. A kvalitní učitelé by měli mít o polovinu nebo i dvojnásobně vyšší plat než ti nekvalitní.",
+  "opinions": [
+   {
+    "topic": "Cermat a přijímačky",
+    "text": "Hájí státní testy: „řešením není zrušit Cermat a státní maturity“. Jednotné přijímačky jsou podle něj „nejmenší zlo“ a „Pokud nebudou testy Cermatu, tak si elitní pražská gymnázia vytvoří svoje“.",
+    "source": "https://ct24.ceskatelevize.cz/clanek/domaci/cermat-skolstvi-nici-mini-lektor-testy-tvori-experti-oponuje-krejci-360977",
+    "date": "2025-05-14"
+   },
+   {
+    "topic": "Platy učitelů",
+    "text": "Prosazuje měření výsledků a odměňování podle kvality, aby „kvalitní učitelé měli o polovinu nebo dvojnásobně větší plat než ti nekvalitní“.",
+    "source": "https://ct24.ceskatelevize.cz/clanek/domaci/cermat-skolstvi-nici-mini-lektor-testy-tvori-experti-oponuje-krejci-360977",
+    "date": "2025-05-14"
+   }
+  ],
+  "reviewed": true
+ },
+ "p7017": {
+  "script": "Sjezd Sudetoněmeckého landsmanšaftu může u spousty lidí vyvolat pachuť, bolest a strach. Ocenil bych, kdyby jeho zástupci přijeli na pietu do Ležáků. Jako spoluautor novely stavebního zákona říkám, že o tom, co v území vznikne, mají rozhodovat místní zastupitelé, ne úředník. Získávání razítek se u nás stalo cílem samo o sobě.",
+  "opinions": [
+   {
+    "topic": "Sudetští Němci",
+    "text": "Deklaraci smíření nezpochybňuje, ale sjezd Sudetoněmeckého landsmanšaftu podle něj „může ve spoustě lidech vyvolat určitou pachuť, bolest a strach“. Ocenil by, kdyby jeho zástupci přijeli na pietní akt do Ležáků.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/016schuz/s016044.htm#r2",
+    "date": "2026-05-05"
+   },
+   {
+    "topic": "Stavební zákon",
+    "text": "Jako spoluautor novely stavebního zákona prosazuje víc pravomocí pro obce: o území mají rozhodovat „ti konkrétní zastupitelé o tom rozhodovat, a ne nějaký úředník“. Získávání souhlasů a stanovisek se podle něj stalo cílem samo o sobě.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/005schuz/s005334.htm#r8",
+    "date": "2026-01-30"
+   }
+  ],
+  "reviewed": true
+ },
+ "p7034": {
+  "script": "Výdaje na chod státu musíme škrtat rok co rok, a kdo neví jak, ať se podívá na argentinského prezidenta Mileie. Dost bylo zbytečných rozhleden v údolí. Schodek je strašný a stydím se za něj, ale bankrot nám vůbec nehrozí a strašit s ním může jen hlupák.",
+  "opinions": [
+   {
+    "topic": "Škrty ve státě",
+    "text": "Před nástupem vlády avizoval tvrdé škrty: „Budeme muset škrtat výdaje na chodu státu – každý rok znovu a znovu.“ Kdo si to neumí představit, „ať se podívá na argentinského prezidenta Mileie“, a „Dost bylo zbytečných rozhleden v údolí.“",
+    "source": "https://www.echo24.cz/a/HChUT/zpravy-ekonomika-pikora-avizuje-tvrde-skrty-rozpocet-mandatorni-vydaje-duchody-rozhledny",
+    "date": "2025-12-08"
+   },
+   {
+    "topic": "Schodek a bankrot",
+    "text": "O rozpočtu řekl: „Ten deficit je strašný, já se za něj stydím.“ Zároveň tvrdí, že bankrot Česku „vůbec nehrozí“ a že „Bankrotem u nás může strašit jen idiot.“",
+    "source": "https://www.echo24.cz/a/H4cnj/tydenik-echo-rozhovor-vladimir-pikora",
+    "date": "2026-09-11"
+   }
+  ],
+  "reviewed": true
+ },
+ "p7041": {
+  "script": "Je mi úplně fuk, jestli evropský akt o digitálních službách obsahuje devadesát devět procent správných věcí. Pokud jediné procento umožní cenzuru, budu proti němu hřímat. Proti dezinformacím pomůže vzdělávání, ne zákazy. A Tomia Okamuru k trestnímu stíhání nevydám, protože ta kauza je politická a účelová a voliči politickou nadsázku poznají.",
+  "opinions": [
+   {
+    "topic": "DSA a cenzura",
+    "text": "K zákonu o digitálních službách řekla: „Mně je úplně fuk, jestli DSA obsahuje na té levé straně 99 procent správných věcí“, pokud jediné procento umožní omezit svobodu slova. Dezinformace podle ní nemají řešit zákazy, ale vzdělávání.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/010schuz/s010185.htm#r6",
+    "date": "2026-03-10"
+   },
+   {
+    "topic": "Vydání Okamury",
+    "text": "Odmítla vydat Tomia Okamuru k trestnímu stíhání kvůli předvolebnímu plakátu: „Kauza je politická, účelová a já se do takových bojůvek zapojovat nehodlám a nebudu.“ Voliči podle ní politickou nadsázku poznají.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/011schuz/s011049.htm#r2",
+    "date": "2026-03-05"
+   }
+  ],
+  "reviewed": true
+ },
+ "p7054": {
+  "script": "Věk trestní odpovědnosti bych snížila na čtrnáct let, protože dnešní čtrnáctiletí jsou vyspělí a plně si uvědomují, co dělají. Nechceme, aby mezi námi chodili vrazi a aby se mezi dětmi rozmáhalo zážitkové násilí. A lehčí drogy jako konopí podle mě vedou k postupnému stupňování až k drogám tvrdým.",
+  "opinions": [
+   {
+    "topic": "Trestní odpovědnost",
+    "text": "Podporuje snížení věku trestní odpovědnosti: „Za mě by bylo ideální snížení na těch 14 let.“ „Současní mladiství jsou zkrátka už v těch 14 letech vyspělí a plně si uvědomují své jednání.“",
+    "source": "https://www.echo24.cz/a/HqQPV/zpravy-domaci-rozhovor-renata-vesecka-motoriste-ustavne-pravni-vybor-pravo-tresty-konopi-snizeni-odpovednosti-svoboda-slova",
+    "date": "2026-01-07"
+   },
+   {
+    "topic": "Násilí mladistvých",
+    "text": "Po útoku v Pardubicích volala po tvrdších postizích mladistvých: „Nechceme, aby mezi námi chodili vrazi, a nechceme, aby se rozmáhalo tzv. zážitkové násilí mezi dětmi.“ Debatu o věku trestní odpovědnosti nepovažuje za uzavřenou.",
+    "source": "https://cnn.iprima.cz/vesecka-vrahy-na-ulici-nechceme-vola-po-tvrdsich-postizich-mladistvych-i-kvuli-utoku-v-pardubicich-512904",
+    "date": "2026-05-25"
+   },
+   {
+    "topic": "Konopí",
+    "text": "Podle ní „lehčí návykové látky, jako je třeba konopí, vedou ke stupňování užívání až tedy následně k tvrdým drogám“.",
+    "source": "https://www.echo24.cz/a/HqQPV/zpravy-domaci-rozhovor-renata-vesecka-motoriste-ustavne-pravni-vybor-pravo-tresty-konopi-snizeni-odpovednosti-svoboda-slova",
+    "date": "2026-01-07"
+   }
+  ],
+  "reviewed": true
  }
 }

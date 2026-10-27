@@ -43,6 +43,7 @@ async function init() {
   $('period').value = (periods.find((p) => p.default) ?? periods[0]).id;
   $('period').addEventListener('change', () => selectPeriod($('period').value));
   $('filter').addEventListener('change', updatePool);
+  $('level').addEventListener('change', updatePool);
   await selectPeriod($('period').value);
 }
 
@@ -70,9 +71,16 @@ async function selectPeriod(id) {
 
 function pool() {
   const f = $('filter').value;
-  if (f === 'gov') return quiz.people.filter((p) => p.roles.includes('gov'));
-  if (f.startsWith('club:')) return quiz.people.filter((p) => p.club === f.slice(5));
-  return quiz.people;
+  const level = Number($('level').value) || 3;
+  const people = quiz.people.filter((p) => (p.level ?? 2) <= level);
+  if (f === 'gov') return people.filter((p) => p.roles.includes('gov'));
+  if (f.startsWith('club:')) return people.filter((p) => p.club === f.slice(5));
+  return people;
+}
+
+// Ranked games: everyone, no filter. Easier levels and filters are practice.
+function isFullGame() {
+  return $('filter').value === '' && $('level').value === '';
 }
 
 function updatePool() {
@@ -81,14 +89,15 @@ function updatePool() {
   $('pool-info').textContent = `${n} ${plural(n, 'osoba', 'osoby', 'osob')} k hádání`
     + (drafts ? ` (náhled: ${drafts} zatím bez kontroly)` : '') + '.';
   $('start').disabled = makeRounds(quiz.people, pool(), 1).length === 0;
-  $('ranked-info').hidden = !board.enabled || $('filter').value !== '';
+  $('ranked-info').hidden = !board.enabled || !isFullGame();
+  $('practice-info').hidden = !board.enabled || $('level').value === '';
 }
 
 // ---------- game ----------
 
 async function startGame() {
   audio.stop();
-  const ranked = board.enabled && $('filter').value === '' && navigator.onLine;
+  const ranked = board.enabled && isFullGame() && navigator.onLine;
   let rounds = null;
   let token = null;
   if (ranked) {
@@ -170,6 +179,8 @@ function answer(id) {
   $('reveal-opinions').innerHTML = p.opinions.map((o) => `<li><strong>${esc(o.topic)}:</strong> ${esc(o.text)}
     <a class="src" href="${esc(o.source)}" target="_blank" rel="noopener">zdroj (${esc(formatDate(o.date))})</a></li>`).join('');
   $('reveal-draft').hidden = p.reviewed;
+  $('reveal-votes-note').hidden = p.kind !== 'votes';
+  $('reveal-activity').innerHTML = activityHtml(p);
   $('score-now').textContent = `Skóre ${score()}`;
   $('next').textContent = game.i + 1 < game.rounds.length ? 'Další' : 'Výsledek';
   $('reveal').hidden = false;
@@ -255,6 +266,29 @@ function clubs() {
   return [...new Set(quiz.people.map((p) => p.club))].sort((a, b) => a.localeCompare(b, 'cs'));
 }
 
+// The MP's record in the Chamber, shown after each answer: activity numbers, the key votes (unless
+// the profile already lists them) and the latest votes against their club.
+function activityHtml(p) {
+  const act = p.activity;
+  if (!act) return '';
+  const a = p.gender === 'f' ? 'a' : '';
+  const stats = [
+    `${act.speeches} ${plural(act.speeches, 'vystoupení', 'vystoupení', 'vystoupení')}`,
+    act.attendance !== null && `účast na hlasováních ${act.attendance} %`,
+    act.loyalty !== null && `s klubem hlasuje v ${act.loyalty} %`,
+  ].filter(Boolean).join(' · ');
+  const mark = { A: 'pro', B: 'proti', K: 'zdržel' + (a ? 'a' : '') + ' se', '@': 'chyběl' + a, M: 'omluven' + a, W: 'ještě nebyl' + a + ' poslan' + (a ? 'kyní' : 'cem') };
+  const votes = p.kind === 'votes' ? '' : `<details><summary>Klíčová hlasování</summary><ul class="votes">${act.keyVotes.map((v) =>
+    `<li><a href="https://www.psp.cz/sqw/hlasy.sqw?g=${v.id}" target="_blank" rel="noopener">${esc(v.topic)}</a>: <strong>${mark[v.code] ?? '–'}</strong></li>`).join('')}</ul></details>`;
+  const rebels = act.rebelCount ? `<details><summary>Jinak než klub: ${act.rebelCount}× ve sporných hlasováních</summary><ul class="votes">${act.rebels.map((v) =>
+    `<li><a href="${esc(v.url)}" target="_blank" rel="noopener">${esc(cleanTitle(v.title))}</a> (${esc(formatDate(v.date))}): ${mark[v.code]}</li>`).join('')}</ul></details>` : '';
+  return `<p class="hint">Ve Sněmovně${act.region ? ` (${esc(act.region)}${/ý$/.test(act.region) ? ' kraj' : ''})` : ''}: ${stats}</p>${votes}${rebels}`;
+}
+
+function cleanTitle(t) {
+  return t.replace(/\*+$/, '').replace(/^Vl\. ?n\. ?z\./, 'Vládní návrh zákona').replace(/^N(ovela)? ?z\./, 'Novela zákona');
+}
+
 // ---------- result ----------
 
 function showResult() {
@@ -273,7 +307,7 @@ function showResult() {
     return `<li><span class="mark ${ok ? 'ok' : 'ko'}">${ok ? '✓' : '✗'}</span><span>${esc(p.name)}, ${esc(p.club)}${guess}</span></li>`;
   }).join('');
 
-  if (n === ROUNDS && $('filter').value === '') {
+  if (n === ROUNDS && isFullGame()) {
     const best = store.get(`pp.best.${period}`, null);
     if (!best || s > best.score || (s === best.score && game.ms < best.ms)) store.set(`pp.best.${period}`, { score: s, ms: game.ms });
   }

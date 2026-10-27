@@ -112,5 +112,269 @@
    }
   ],
   "reviewed": true
+ },
+ "p7001": {
+  "script": "U muniční iniciativy chci vědět, proč má pokračovat, kdo na ní pracuje a kolik stojí. Klidně ať ji zastřeší NATO, nemusí se o ni starat ministerstvo obrany. A poradenství v bydlení má sloužit občanům obce a lidem v bytové nouzi, ne každému, kdo půjde kolem.",
+  "opinions": [
+   {
+    "topic": "Muniční iniciativa",
+    "text": "Před hlasováním o důvěře vládě měl výhrady k pokračování muniční iniciativy: „Chci vědět, proč má ta iniciativa pokračovat, kdo na ní pracuje, kolik stojí i v nepřímých nákladech na mzdy.“ Podle něj by ji mohlo zastřešovat třeba NATO.",
+    "source": "https://www.denik.cz/cesko/tomas-dolezal-vlada-duvera/",
+    "date": "2026-01-12"
+   },
+   {
+    "topic": "Podpora bydlení",
+    "text": "Za klub SPD podpořil novelu zákona o podpoře bydlení, která zužuje poradenství na občany obce a zranitelné skupiny. Za věc ve veřejném zájmu nepovažuje „bezbřeze otevřené poradenství komukoliv“.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/012schuz/s012017.htm#r2",
+    "date": "2026-03-13"
+   }
+  ],
+  "reviewed": true
+ },
+ "p5911": {
+  "script": "Nekandidoval jsem na Ukrajině, ale v Ústeckém kraji. Dávat miliony neziskovkám na Ukrajině jsou peníze vyhozené oknem, raději je dejme policii. S Nočními vlky jsem jezdil, to přiznávám, a připomínám, že naše území osvobodilo sto čtyřicet tisíc padlých vojáků Rudé armády. A obstrukce opozice? Jsou nepříjemné, ale patří k demokracii.",
+  "opinions": [
+   {
+    "topic": "Peníze pro Ukrajinu",
+    "text": "Při debatě o rozpočtu odmítl 30 milionů na transformační spolupráci s Ukrajinou: „Já jsem nekandidoval na Ukrajině, ani v Kyjevě, ani v Rusku, já jsem kandidoval v Ústeckém kraji.“ Peníze by raději přesunul policii a armádě.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/007schuz/s007125.htm#r2",
+    "date": "2026-02-11"
+   },
+   {
+    "topic": "Noční vlci",
+    "text": "Hájil své jízdy s ruskými motorkáři: „Jo, jezdil jsem s Nočními vlky.“ Připomněl, že 140 000 padlých vojáků Rudé armády osvobodilo naše území.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/007schuz/s007126.htm#r1",
+    "date": "2026-02-11"
+   },
+   {
+    "topic": "Obstrukce",
+    "text": "Ke koaličnímu návrhu omezit obstrukce řekl, že ho podpoří, ale má s ním „ohromný problém“: „Obstrukce jsou součástí demokracie, jsou nepříjemné, ale musíme je strpět.“",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/024schuz/s024269.htm#r2",
+    "date": "2026-07-01"
+   }
+  ],
+  "reviewed": true
+ },
+ "p6455": {
+  "script": "Brněnský pochod smrti nebyl to nejhorší zvěrstvo, které se v Brně za války stalo. Byla to reakce na nacistické vraždění v Kounicových kolejích a na Špilberku. A naše vláda? Za devět měsíců zlevnila energie, zvedla rodičovský příspěvek i důchody. Opozice nemá žádný pozitivní program, jen kritiku.",
+  "opinions": [
+   {
+    "topic": "Brněnský pochod smrti",
+    "text": "V debatě o sjezdu sudetských Němců v Brně řekl, že pochod smrti nebyl „to nejhorší zvěrstvo, co se dělo v Brně za druhé světové války“, ale „reakce na něco, co se stalo“.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/016schuz/s016033.htm#r4",
+    "date": "2026-05-05"
+   },
+   {
+    "topic": "Hájí vládu",
+    "text": "Při hlasování o nedůvěře řekl, že „současná opozice nemá pro lidi vůbec žádný pozitivní program“, a vyjmenoval kroky vlády od zlevnění energií po vyšší rodičovský příspěvek a důchody.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/033schuz/s033164.htm#r4",
+    "date": "2026-10-01"
+   }
+  ],
+  "reviewed": true
+ },
+ "p6508": {
+  "script": "Jsem rád, že naše vláda odmítne migrační pakt a zatočí s dávkovou turistikou. Sjezd sudetských Němců v Brně není žádný sjezd zahrádkářů, lidé ho vnímají jako provokaci. A Stratkom s policejním KRITem? To byl cenzurní zásah, jako když se kdysi na hranicích zabavovaly západní tiskoviny.",
+  "opinions": [
+   {
+    "topic": "Migrační pakt",
+    "text": "Poděkoval premiérovi, že vláda odmítne migrační pakt, a kritizoval „dávkovou turistiku“ za ministra vnitra Víta Rakušana.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/005schuz/s005163.htm#r1",
+    "date": "2026-01-15"
+   },
+   {
+    "topic": "Sudetoněmecký sjezd",
+    "text": "Pořádání sjezdu Sudetoněmeckého landsmanšaftu v Brně podle něj lidé vnímají jako provokaci: „není to skutečně sjezd zahrádkářů“.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/016schuz/s016043.htm#r6",
+    "date": "2026-05-05"
+   },
+   {
+    "topic": "Stratkom a KRIT",
+    "text": "Vznik Stratkomu a policejního KRITu označil za politické rozhodnutí a přirovnal ho k zabavování cizojazyčných tiskovin za komunismu: „to je podobný cenzurní, bych řekl, zásah“.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/034schuz/s034086.htm#r8",
+    "date": "2026-10-15"
+   }
+  ],
+  "reviewed": true
+ },
+ "p6467": {
+  "script": "Rozsudek nad učitelkou Bednářovou je skandální, popírá svobodu slova. Moc výkonná a soudní nás ruku v ruce vrátily do totality. V naší justici často nerozhoduje právo, ale to, který soudce věc dostane. A policie by se měla věnovat něčemu jinému než obrázkům na sociálních sítích.",
+  "opinions": [
+   {
+    "topic": "Svoboda slova",
+    "text": "Jako předsedkyně Trikolóry označila rozsudek nad učitelkou Martinou Bednářovou za skandální: „moc výkonná a moc soudní nás ruku v ruce vrátily zpět do totality“.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/014schuz/s014307.htm#r4",
+    "date": "2026-04-23"
+   },
+   {
+    "topic": "Justice",
+    "text": "Situaci v české justici vylíčila vtipem o právníkovi, který raději zaplatí za psa, kterého nemá, protože neví, „který soudce to bude řešit“.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/011schuz/s011050.htm#r3",
+    "date": "2026-03-05"
+   },
+   {
+    "topic": "Policie a sítě",
+    "text": "Kritizovala, že náměstek ministra školství jde k výslechu kvůli zveřejněnému obrázku z umělé inteligence; sociální sítě jsou podle ní to poslední, čím by se policie měla zabývat.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/014schuz/s014307.htm#r8",
+    "date": "2026-04-23"
+   }
+  ],
+  "reviewed": true
+ },
+ "p7027": {
+  "script": "Kdo zplodí dítě, nese za něj zodpovědnost, ne stát a daňoví poplatníci. Neplacení alimentů musí být zase trestné, jinak je to amnestie pro neplatiče. A opozice nás nemá co poučovat. Dozimetr, bitcoinový dar a místo pomoci s energiemi dva svetry. To po nich zůstalo.",
+  "opinions": [
+   {
+    "topic": "Neplacení alimentů",
+    "text": "Za klub SPD podpořila rozšíření trestnosti zanedbání povinné výživy; předchozí úpravu označila za „amnestii pro neplatiče“. „Každý, kdo zplodí dítě, za něj nese zodpovědnost. Ne stát, ne daňoví poplatníci, ale rodič.“",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/014schuz/s014198.htm#r2",
+    "date": "2026-04-21"
+   },
+   {
+    "topic": "Fialova vláda",
+    "text": "Při hlasování o nedůvěře vyčetla opozici kauzy Dozimetr, bitcoinový dar či VZP a řešení drahých energií: „svetry, dva svetry, to bylo to vaše řešení“.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/033schuz/s033162.htm#r5",
+    "date": "2026-10-01"
+   }
+  ],
+  "reviewed": true
+ },
+ "p6664": {
+  "script": "Nechápu strašení, že chceme Českou televizi šikanovat. Začerněné smlouvy ale nikomu důvěryhodnost nepřinesly, ať ji kontroluje Nejvyšší kontrolní úřad. Senátní veto nižších odvodů živnostníků považuji za necitlivé. A když člen Rady České televize kandiduje za Starosty, má rezignovat, nebo ho máme odvolat.",
+  "opinions": [
+   {
+    "topic": "Česká televize",
+    "text": "Podpořil kontrolu České televize Nejvyšším kontrolním úřadem: „začerněné smlouvy žádnou důvěryhodnost nikdy nikomu nepřinesly a platí to i pro Českou televizi“.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/017schuz/s017090.htm#r3",
+    "date": "2026-05-13"
+   },
+   {
+    "topic": "Odvody živnostníků",
+    "text": "Senátní veto zákona o nižších odvodech živnostníků označil za „zbytečné, necitlivé, a zároveň i vůči rodinám neodpovědné“.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/020schuz/s020046.htm#r1",
+    "date": "2026-05-26"
+   },
+   {
+    "topic": "Rada ČT",
+    "text": "Člen Rady České televize Jiří Padevět by podle něj měl při kandidatuře za STAN do Senátu rezignovat, jinak by ho Sněmovna měla odvolat, jako odvolala Hanu Lipovskou.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/020schuz/s020307.htm#r2",
+    "date": "2026-06-05"
+   }
+  ],
+  "reviewed": true
+ },
+ "p6745": {
+  "script": "Kvůli plakátu s chirurgem z dovozu jsme dostali pokutu tři miliony a odvoláme se. Dnes stojí říkat pravdu i tolik. Banner s Putinem v pytli na mrtvoly na ministerstvu vnitra byl přitom víc za hranou. Stratkom a KRIT byly uměle vytvořené úřady na rozdělení společnosti.",
+  "opinions": [
+   {
+    "topic": "Plakát SPD",
+    "text": "K pokutě tři miliony za plakát s „chirurgem z dovozu“ řekla, že SPD se odvolá a že „říkat dnes pravdu stojí i třímilionovou pokutu“. Banner s Putinem v pytli na mrtvoly na budově ministerstva vnitra jí přišel „více za hranou než plakát SPD“.",
+    "source": "https://cnn.iprima.cz/posarova-chirurgove-z-dovozu-putin-v-pytli-je-horsi-sebelova-ji-vmetla-zpochybnovani-soudu-514223",
+    "date": "2026-06-12"
+   },
+   {
+    "topic": "Stratkom a KRIT",
+    "text": "Stratkom a KRIT označila za „uměle vytvořený úřad právě na rozdělení společnosti“ a kritizovala bývalého koordinátora strategické komunikace Otakara Foltýna.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/034schuz/s034083.htm#r4",
+    "date": "2026-10-15"
+   }
+  ],
+  "reviewed": true
+ },
+ "p6783": {
+  "script": "Národní očkovací strategii po exministrovi Válkovi by naše vláda neměla přebírat, kritické hlasy se umlčují jako za covidu. Očkování v lékárnách odmítám, patří do rukou lékaře. A když náš ministr obrany mluví o Ukrajině jinak než náš program, nepřipustím, aby se to zametlo pod koberec.",
+  "opinions": [
+   {
+    "topic": "Očkovací strategie",
+    "text": "Kritizoval, že Babišova vláda přebírá Národní očkovací strategii: „Proč jsou kritické hlasy umlčovány tak, jak se dělo za covidu?“",
+    "source": "https://cnn.iprima.cz/tlak-na-vojtecha-kvuli-ockovani-sili-spd-zada-vyrazne-zmeny-511294",
+    "date": "2026-05-06"
+   },
+   {
+    "topic": "Očkování v lékárnách",
+    "text": "Odmítl očkování proti chřipce v lékárnách: „Očkování patří do rukou lékaře, který má přístup k anamnéze pacienta a ví o jeho nemocech.“",
+    "source": "https://cnn.iprima.cz/ockovani-v-lekarnach-ne-zni-z-spd-ministra-vojtecha-v-tom-ale-muze-podporit-necekany-spojenec-517891",
+    "date": "2026-07-28"
+   },
+   {
+    "topic": "Ministr Zůna",
+    "text": "Svolal jednání klubu poté, co ministr obrany Jaromír Zůna řekl, že podpora Ukrajiny bude pokračovat: „Naštval jsem se. Nepřipustím, aby se to zametlo pod koberec.“",
+    "source": "https://www.seznamzpravy.cz/clanek/domaci-politika-naprosto-neunosne-zlobi-se-poslanec-spd-ktery-svolal-jednani-o-zunovi-294838",
+    "date": "2025-12-22"
+   }
+  ],
+  "reviewed": true
+ },
+ "p6479": {
+  "script": "Fialova vláda jen sdírala slušné a pracující lidi, živnostníkům teď nabídneme lepší podmínky. Když mi z opozice někdo mluví o srabech, ptám se, jestli dodrželi sliby, důchodce přece oškubali. A týrání zvířat chci trestat přísněji, s vyššími pokutami a delším zákazem chovu.",
+  "opinions": [
+   {
+    "topic": "Odvody živnostníků",
+    "text": "V debatě o zastavení růstu odvodů živnostníků vyčetla minulé vládě: „vy jste jenom sdírali slušné a pracující lidi po dobu celé vaší vlády“.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/005schuz/s005226.htm#r5",
+    "date": "2026-01-16"
+   },
+   {
+    "topic": "Důchodci",
+    "text": "Odpověděla Martinu Kupkovi a Marianu Jurečkovi: „Vy tady říkáte někomu o tom, že je srab nebo že nemá koule? A vy je máte?“ Minulá vláda podle ní důchodce „oškubala“ změnou valorizace.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/013schuz/s013060.htm#r2",
+    "date": "2026-03-25"
+   },
+   {
+    "topic": "Týrání zvířat",
+    "text": "Předkládá novelu se zvýšením minimálních pokut za týrání zvířat a prodloužením zákazu chovu z 5 na 10 let.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/034schuz/s034169.htm#r5",
+    "date": "2026-10-20"
+   }
+  ],
+  "reviewed": true
+ },
+ "p6064": {
+  "script": "Rozpočet Fialovy vlády byl paskvil, tak jsem ho ve Sněmovně roztrhl. Soudce bych jmenoval jen na určitou dobu, aby nerozhodovali zaujatě. A sjezd sudetských Němců v Brně je arogance moci, podporovaná bývalou pětikoalicí, jejíž představitele bych nazval vlastizrádnými.",
+  "opinions": [
+   {
+    "topic": "Roztržený rozpočet",
+    "text": "Při projednávání rozpočtu Fialovy vlády ho ve Sněmovně roztrhl: „tento rozpočet roztrhněme a pojďme jednat znovu“.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/003schuz/s003046.htm#r1",
+    "date": "2025-11-26"
+   },
+   {
+    "topic": "Soudci na dobu určitou",
+    "text": "Navrhl, aby soudci, státní zástupci i policejní funkcionáři byli jmenováni na určitou dobu, aby „nerozhodovali zaujatě, nerozhodovali pod tlakem“.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/011schuz/s011059.htm#r5",
+    "date": "2026-03-05"
+   },
+   {
+    "topic": "Sudetoněmecký sjezd",
+    "text": "Sjezd Sudetoněmeckého landsmanšaftu v Brně označil za „naprostou aroganci moci“ podporovanou bývalou pětikoalicí, o jejíchž představitelích řekl, že jsou „vlastizrádní“.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/018schuz/s018006.htm#r2",
+    "date": "2026-05-14"
+   }
+  ],
+  "reviewed": true
+ },
+ "p7058": {
+  "script": "Paragraf o vypínání webů, Stratkom nebo unijní nařízení o digitálních službách, to všechno ohrožuje svobodu slova. Sociální sítě kvůli tomu můžou mazat i legitimní kritiku migrace nebo Green Dealu. A dotace? Všechny dotace škodí, červené, modré i zelené, a všechny regulace brzdí motor ekonomiky.",
+  "opinions": [
+   {
+    "topic": "Svoboda slova",
+    "text": "Jako předseda Svobodných ocenil, že vláda chce chránit svobodu slova, a vyjmenoval, co ji podle něj ohrožovalo: § 318a, vypínání webů, Stratkom, KRIT, DSA a EMFA.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/005schuz/s005186.htm#r4",
+    "date": "2026-01-15"
+   },
+   {
+    "topic": "Nařízení DSA",
+    "text": "Varoval, že kvůli DSA by „kritika migrace, Green Dealu nebo další legitimní obavy občanů“ mohly být na sítích nadměrně mazány.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/010schuz/s010149.htm#r2",
+    "date": "2026-03-06"
+   },
+   {
+    "topic": "Dotace",
+    "text": "„Všechny dotace škodí – červené, modré i zelené. Všechny regulace brzdí motor ekonomiky.“",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/017schuz/s017210.htm#r5",
+    "date": "2026-06-03"
+   }
+  ],
+  "reviewed": true
  }
 }

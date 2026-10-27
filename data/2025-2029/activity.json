@@ -1,0 +1,11070 @@
+{
+ "p6150": {
+  "region": "Moravskoslezský",
+  "speeches": 54,
+  "attendance": 91,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "M",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 88232,
+    "code": "A",
+    "title": "Novela z. - stavební zákon**",
+    "date": "2026-07-10",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88232"
+   }
+  ]
+ },
+ "p6987": {
+  "region": "Zlínský",
+  "speeches": 1044,
+  "attendance": 99,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 87343,
+    "code": "A",
+    "title": "Stanovisko vládní koalice ke sjezdu Sudetoněmeckého landsmanšaftu v Br",
+    "date": "2026-05-05",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87343"
+   }
+  ]
+ },
+ "p6621": {
+  "region": "Hlavní město Praha",
+  "speeches": 40,
+  "attendance": 67,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "M",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "@",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "M",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 2,
+  "rebels": [
+   {
+    "id": 87624,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-06-03",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87624"
+   },
+   {
+    "id": 87119,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-04-14",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87119"
+   }
+  ]
+ },
+ "p7022": {
+  "region": "Jihomoravský",
+  "speeches": 25,
+  "attendance": 98,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "M",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6487": {
+  "region": "Hlavní město Praha",
+  "speeches": 857,
+  "attendance": 97,
+  "loyalty": 99,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 6,
+  "rebels": [
+   {
+    "id": 88135,
+    "code": "A",
+    "title": "Novela z. o pojistném na veřejné zdr. pojištění",
+    "date": "2026-07-08",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88135"
+   },
+   {
+    "id": 87992,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-06-30",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87992"
+   },
+   {
+    "id": 87446,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-05-26",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87446"
+   }
+  ]
+ },
+ "p6545": {
+  "region": "Jihomoravský",
+  "speeches": 138,
+  "attendance": 86,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 87624,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-06-03",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87624"
+   }
+  ]
+ },
+ "p6418": {
+  "region": "Středočeský",
+  "speeches": 740,
+  "attendance": 90,
+  "loyalty": 99,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 7,
+  "rebels": [
+   {
+    "id": 88414,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-08-26",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88414"
+   },
+   {
+    "id": 88259,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-07-14",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88259"
+   },
+   {
+    "id": 88026,
+    "code": "A",
+    "title": "Návrh zákona o státních zaměstnancích - související",
+    "date": "2026-07-01",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88026"
+   }
+  ]
+ },
+ "p6788": {
+  "region": "Středočeský",
+  "speeches": 285,
+  "attendance": 91,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "M",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "@",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 88863,
+    "code": "A",
+    "title": "Novela z. o České televizi a o Českém rozhlasu",
+    "date": "2026-10-23",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88863"
+   }
+  ]
+ },
+ "p5700": {
+  "region": "Královéhradecký",
+  "speeches": 42,
+  "attendance": 89,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "@",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "K",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 2,
+  "rebels": [
+   {
+    "id": 88683,
+    "code": "B",
+    "title": "Novela z. o výrobcích s ukončenou životností - EU**",
+    "date": "2026-10-14",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88683"
+   },
+   {
+    "id": 87994,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-06-30",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87994"
+   }
+  ]
+ },
+ "p6254": {
+  "region": "Hlavní město Praha",
+  "speeches": 7,
+  "attendance": 98,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6986": {
+  "region": "Zlínský",
+  "speeches": 21,
+  "attendance": 96,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "K",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6623": {
+  "region": "Jihočeský",
+  "speeches": 21,
+  "attendance": 100,
+  "loyalty": 98,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 14,
+  "rebels": [
+   {
+    "id": 88422,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-09-08",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88422"
+   },
+   {
+    "id": 88137,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-07-10",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88137"
+   },
+   {
+    "id": 88123,
+    "code": "A",
+    "title": "Novela z. o státní sociální podpoře**",
+    "date": "2026-07-08",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88123"
+   }
+  ]
+ },
+ "p6719": {
+  "region": "Jihomoravský",
+  "speeches": 14,
+  "attendance": 94,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "M",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 4,
+  "rebels": [
+   {
+    "id": 88410,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-08-25",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88410"
+   },
+   {
+    "id": 88095,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-07-07",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88095"
+   },
+   {
+    "id": 87300,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-05-05",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87300"
+   }
+  ]
+ },
+ "p6988": {
+  "region": "Zlínský",
+  "speeches": 0,
+  "attendance": 99,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 2,
+  "rebels": [
+   {
+    "id": 87763,
+    "code": "A",
+    "title": "Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname",
+    "date": "2026-06-04",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87763"
+   },
+   {
+    "id": 87402,
+    "code": "A",
+    "title": "Vl.n.z., kt. se mění některé z. v oblasti veřejných rozpočtů",
+    "date": "2026-05-15",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87402"
+   }
+  ]
+ },
+ "p6433": {
+  "region": "Středočeský",
+  "speeches": 92,
+  "attendance": 88,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "@",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 3,
+  "rebels": [
+   {
+    "id": 88672,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-10-14",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88672"
+   },
+   {
+    "id": 86804,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-03-10",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=86804"
+   },
+   {
+    "id": 86548,
+    "code": "B",
+    "title": "Návrh na volbu členů a náhradníků Správní rady VZP",
+    "date": "2026-01-28",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=86548"
+   }
+  ]
+ },
+ "p6178": {
+  "region": "Jihočeský",
+  "speeches": 28,
+  "attendance": 78,
+  "loyalty": 99,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "M",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 2,
+  "rebels": [
+   {
+    "id": 87603,
+    "code": "A",
+    "title": "Novela z. o podpoře bydlení**",
+    "date": "2026-06-03",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87603"
+   },
+   {
+    "id": 86444,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-01-13",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=86444"
+   }
+  ]
+ },
+ "p6989": {
+  "region": "Liberecký",
+  "speeches": 19,
+  "attendance": 95,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "K",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 88683,
+    "code": "B",
+    "title": "Novela z. o výrobcích s ukončenou životností - EU**",
+    "date": "2026-10-14",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88683"
+   }
+  ]
+ },
+ "p5379": {
+  "region": "Jihočeský",
+  "speeches": 7,
+  "attendance": 86,
+  "loyalty": 99,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "@",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "K",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 3,
+  "rebels": [
+   {
+    "id": 88673,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-10-14",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88673"
+   },
+   {
+    "id": 87855,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-06-23",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87855"
+   },
+   {
+    "id": 87341,
+    "code": "B",
+    "title": "Stanovisko vládní koalice ke sjezdu Sudetoněmeckého landsmanšaftu v Br",
+    "date": "2026-05-05",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87341"
+   }
+  ]
+ },
+ "p6435": {
+  "region": "Plzeňský",
+  "speeches": 57,
+  "attendance": 99,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 5,
+  "rebels": [
+   {
+    "id": 88429,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-09-08",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88429"
+   },
+   {
+    "id": 88157,
+    "code": "A",
+    "title": "Novela z. - stavební zákon**",
+    "date": "2026-07-10",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88157"
+   },
+   {
+    "id": 88158,
+    "code": "A",
+    "title": "Novela z. - stavební zákon**",
+    "date": "2026-07-10",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88158"
+   }
+  ]
+ },
+ "p4": {
+  "region": "Hlavní město Praha",
+  "speeches": 54,
+  "attendance": 92,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "K",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 3,
+  "rebels": [
+   {
+    "id": 88128,
+    "code": "B",
+    "title": "Novela z. o státní sociální podpoře**",
+    "date": "2026-07-08",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88128"
+   },
+   {
+    "id": 87997,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-06-30",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87997"
+   },
+   {
+    "id": 87645,
+    "code": "B",
+    "title": "Vl.n.z. o evidenci tržeb - EU**",
+    "date": "2026-06-03",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87645"
+   }
+  ]
+ },
+ "p346": {
+  "region": "Středočeský",
+  "speeches": 63,
+  "attendance": 85,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "K",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 3,
+  "rebels": [
+   {
+    "id": 88683,
+    "code": "B",
+    "title": "Novela z. o výrobcích s ukončenou životností - EU**",
+    "date": "2026-10-14",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88683"
+   },
+   {
+    "id": 88033,
+    "code": "A",
+    "title": "Novela z. o látkách, které poškozují**ozonovou vrstvu - EU",
+    "date": "2026-07-01",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88033"
+   },
+   {
+    "id": 87159,
+    "code": "B",
+    "title": "Novela z. o cenách**",
+    "date": "2026-04-15",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87159"
+   }
+  ]
+ },
+ "p6722": {
+  "region": "Liberecký",
+  "speeches": 101,
+  "attendance": 100,
+  "loyalty": 99,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 13,
+  "rebels": [
+   {
+    "id": 88864,
+    "code": "B",
+    "title": "Novela z. o České televizi a o Českém rozhlasu",
+    "date": "2026-10-23",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88864"
+   },
+   {
+    "id": 88488,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-09-11",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88488"
+   },
+   {
+    "id": 88463,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-09-10",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88463"
+   }
+  ]
+ },
+ "p6723": {
+  "region": "Královéhradecký",
+  "speeches": 3,
+  "attendance": 97,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 2,
+  "rebels": [
+   {
+    "id": 88676,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-10-14",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88676"
+   },
+   {
+    "id": 87627,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-06-03",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87627"
+   }
+  ]
+ },
+ "p6991": {
+  "region": "Středočeský",
+  "speeches": 6,
+  "attendance": 99,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "M",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 4,
+  "rebels": [
+   {
+    "id": 88661,
+    "code": "B",
+    "title": "Novela z. o daních z příjmů**",
+    "date": "2026-10-13",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88661"
+   },
+   {
+    "id": 87780,
+    "code": "A",
+    "title": "Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname",
+    "date": "2026-06-04",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87780"
+   },
+   {
+    "id": 86690,
+    "code": "A",
+    "title": "Návrh usnesení Poslanecké sněmovny k odsouzení týrání zvířat",
+    "date": "2026-02-12",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=86690"
+   }
+  ]
+ },
+ "p6992": {
+  "region": "Olomoucký",
+  "speeches": 27,
+  "attendance": 99,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "M",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 88103,
+    "code": "A",
+    "title": "Vl.n.z., kt. se mění některé z. v oblasti veřejných rozpočtů",
+    "date": "2026-07-08",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88103"
+   }
+  ]
+ },
+ "p6993": {
+  "region": "Středočeský",
+  "speeches": 1,
+  "attendance": 97,
+  "loyalty": 99,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 5,
+  "rebels": [
+   {
+    "id": 88817,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-10-22",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88817"
+   },
+   {
+    "id": 88445,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-09-08",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88445"
+   },
+   {
+    "id": 87780,
+    "code": "A",
+    "title": "Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname",
+    "date": "2026-06-04",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87780"
+   }
+  ]
+ },
+ "p6185": {
+  "region": "Olomoucký",
+  "speeches": 12,
+  "attendance": 98,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6994": {
+  "region": "Moravskoslezský",
+  "speeches": 6,
+  "attendance": 98,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "M",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 87081,
+    "code": "A",
+    "title": "Návrh na odvolání předsedy Dozorčí rady Státního zemědělského interven",
+    "date": "2026-03-25",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87081"
+   }
+  ]
+ },
+ "p5899": {
+  "region": "Karlovarský",
+  "speeches": 64,
+  "attendance": 96,
+  "loyalty": 98,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "M",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "K",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "M",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 10,
+  "rebels": [
+   {
+    "id": 88677,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-10-14",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88677"
+   },
+   {
+    "id": 88190,
+    "code": "A",
+    "title": "Novela z. - stavební zákon**",
+    "date": "2026-07-10",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88190"
+   },
+   {
+    "id": 88016,
+    "code": "A",
+    "title": "Návrh zákona o státních zaměstnancích - související",
+    "date": "2026-07-01",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88016"
+   }
+  ]
+ },
+ "p6995": {
+  "region": "Středočeský",
+  "speeches": 3,
+  "attendance": 100,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 88869,
+    "code": "A",
+    "title": "Novela z. o České televizi a o Českém rozhlasu",
+    "date": "2026-10-23",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88869"
+   }
+  ]
+ },
+ "p5903": {
+  "region": "Hlavní město Praha",
+  "speeches": 28,
+  "attendance": 82,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 3,
+  "rebels": [
+   {
+    "id": 88841,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-10-23",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88841"
+   },
+   {
+    "id": 87486,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-05-26",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87486"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "title": "Vl.n.z. o státním rozpočtu ČR na rok 2026**",
+    "date": "2026-03-11",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=86957"
+   }
+  ]
+ },
+ "p6996": {
+  "region": "Středočeský",
+  "speeches": 57,
+  "attendance": 96,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 2,
+  "rebels": [
+   {
+    "id": 88442,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-09-08",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88442"
+   },
+   {
+    "id": 88445,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-09-08",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88445"
+   }
+  ]
+ },
+ "p6998": {
+  "region": "Vysočina",
+  "speeches": 62,
+  "attendance": 90,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "K",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 2,
+  "rebels": [
+   {
+    "id": 88683,
+    "code": "A",
+    "title": "Novela z. o výrobcích s ukončenou životností - EU**",
+    "date": "2026-10-14",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88683"
+   },
+   {
+    "id": 86739,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-03-03",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=86739"
+   }
+  ]
+ },
+ "p6727": {
+  "region": "Vysočina",
+  "speeches": 16,
+  "attendance": 83,
+  "loyalty": 99,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 3,
+  "rebels": [
+   {
+    "id": 88863,
+    "code": "B",
+    "title": "Novela z. o České televizi a o Českém rozhlasu",
+    "date": "2026-10-23",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88863"
+   },
+   {
+    "id": 87993,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-06-30",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87993"
+   },
+   {
+    "id": 87417,
+    "code": "A",
+    "title": "Vl.n.z., kt. se mění některé z. v oblasti veřejných rozpočtů",
+    "date": "2026-05-15",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87417"
+   }
+  ]
+ },
+ "p6999": {
+  "region": "Hlavní město Praha",
+  "speeches": 20,
+  "attendance": 91,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p7068": {
+  "region": "Ústecký",
+  "speeches": 2,
+  "attendance": 99,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p7000": {
+  "region": "Královéhradecký",
+  "speeches": 22,
+  "attendance": 96,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 88261,
+    "code": "A",
+    "title": "Novela z. o pozemních komunikacích - EU**",
+    "date": "2026-07-14",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88261"
+   }
+  ]
+ },
+ "p7001": {
+  "region": "Středočeský",
+  "speeches": 3,
+  "attendance": 100,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6431": {
+  "region": "Jihomoravský",
+  "speeches": 1,
+  "attendance": 99,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p7002": {
+  "region": "Hlavní město Praha",
+  "speeches": 49,
+  "attendance": 80,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 2,
+  "rebels": [
+   {
+    "id": 88863,
+    "code": "A",
+    "title": "Novela z. o České televizi a o Českém rozhlasu",
+    "date": "2026-10-23",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88863"
+   },
+   {
+    "id": 87850,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-06-23",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87850"
+   }
+  ]
+ },
+ "p6190": {
+  "region": "Olomoucký",
+  "speeches": 0,
+  "attendance": 85,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "@",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6447": {
+  "region": "Plzeňský",
+  "speeches": 15,
+  "attendance": 100,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 87979,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-06-30",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87979"
+   }
+  ]
+ },
+ "p7003": {
+  "region": "Jihomoravský",
+  "speeches": 49,
+  "attendance": 94,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "@",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "M",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 4,
+  "rebels": [
+   {
+    "id": 88672,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-10-14",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88672"
+   },
+   {
+    "id": 88602,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-10-13",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88602"
+   },
+   {
+    "id": 88490,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-09-11",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88490"
+   }
+  ]
+ },
+ "p5459": {
+  "region": "Olomoucký",
+  "speeches": 29,
+  "attendance": 81,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 87417,
+    "code": "B",
+    "title": "Vl.n.z., kt. se mění některé z. v oblasti veřejných rozpočtů",
+    "date": "2026-05-15",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87417"
+   }
+  ]
+ },
+ "p6074": {
+  "region": "Jihomoravský",
+  "speeches": 6,
+  "attendance": 78,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6457": {
+  "region": "Ústecký",
+  "speeches": 36,
+  "attendance": 100,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 4,
+  "rebels": [
+   {
+    "id": 88660,
+    "code": "A",
+    "title": "Novela z. o daních z příjmů**",
+    "date": "2026-10-13",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88660"
+   },
+   {
+    "id": 88185,
+    "code": "A",
+    "title": "Novela z. - stavební zákon**",
+    "date": "2026-07-10",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88185"
+   },
+   {
+    "id": 88186,
+    "code": "A",
+    "title": "Novela z. - stavební zákon**",
+    "date": "2026-07-10",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88186"
+   }
+  ]
+ },
+ "p7004": {
+  "region": "Jihomoravský",
+  "speeches": 12,
+  "attendance": 97,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "M",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6750": {
+  "region": "Jihomoravský",
+  "speeches": 8,
+  "attendance": 85,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "@",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p5911": {
+  "region": "Ústecký",
+  "speeches": 6,
+  "attendance": 88,
+  "loyalty": 99,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 7,
+  "rebels": [
+   {
+    "id": 88647,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-10-13",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88647"
+   },
+   {
+    "id": 88185,
+    "code": "A",
+    "title": "Novela z. - stavební zákon**",
+    "date": "2026-07-10",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88185"
+   },
+   {
+    "id": 87767,
+    "code": "A",
+    "title": "Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname",
+    "date": "2026-06-04",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87767"
+   }
+  ]
+ },
+ "p7106": {
+  "region": "Vysočina",
+  "speeches": 3,
+  "attendance": 90,
+  "loyalty": 98,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "W",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "W",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "W",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 87933,
+    "code": "B",
+    "title": "Návrh zákona o státních zaměstnancích**",
+    "date": "2026-06-26",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87933"
+   }
+  ]
+ },
+ "p6451": {
+  "region": "Moravskoslezský",
+  "speeches": 2,
+  "attendance": 99,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "M",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p7005": {
+  "region": "Moravskoslezský",
+  "speeches": 4,
+  "attendance": 100,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p7006": {
+  "region": "Moravskoslezský",
+  "speeches": 31,
+  "attendance": 89,
+  "loyalty": 98,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "M",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 12,
+  "rebels": [
+   {
+    "id": 88869,
+    "code": "A",
+    "title": "Novela z. o České televizi a o Českém rozhlasu",
+    "date": "2026-10-23",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88869"
+   },
+   {
+    "id": 88697,
+    "code": "A",
+    "title": "Novela z. o látkách, které poškozují**ozonovou vrstvu - EU",
+    "date": "2026-10-14",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88697"
+   },
+   {
+    "id": 88424,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-09-08",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88424"
+   }
+  ]
+ },
+ "p6751": {
+  "region": "Pardubický",
+  "speeches": 86,
+  "attendance": 96,
+  "loyalty": 99,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "K",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "K",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 18,
+  "rebels": [
+   {
+    "id": 88837,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-10-23",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88837"
+   },
+   {
+    "id": 88866,
+    "code": "A",
+    "title": "Novela z. o České televizi a o Českém rozhlasu",
+    "date": "2026-10-23",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88866"
+   },
+   {
+    "id": 88768,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-10-16",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88768"
+   }
+  ]
+ },
+ "p6753": {
+  "region": "Pardubický",
+  "speeches": 10,
+  "attendance": 99,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 86707,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-02-13",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=86707"
+   }
+  ]
+ },
+ "p6755": {
+  "region": "Středočeský",
+  "speeches": 44,
+  "attendance": 83,
+  "loyalty": 99,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "M",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 6,
+  "rebels": [
+   {
+    "id": 88635,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-10-13",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88635"
+   },
+   {
+    "id": 87997,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-06-30",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87997"
+   },
+   {
+    "id": 87946,
+    "code": "A",
+    "title": "Návrh zákona o státních zaměstnancích**",
+    "date": "2026-06-26",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87946"
+   }
+  ]
+ },
+ "p7066": {
+  "region": "Plzeňský",
+  "speeches": 11,
+  "attendance": 100,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 3,
+  "rebels": [
+   {
+    "id": 88481,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-09-11",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88481"
+   },
+   {
+    "id": 88071,
+    "code": "A",
+    "title": "Novela z. o jednacím řádu PS**",
+    "date": "2026-07-03",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88071"
+   },
+   {
+    "id": 87624,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-06-03",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87624"
+   }
+  ]
+ },
+ "p6756": {
+  "region": "Středočeský",
+  "speeches": 14,
+  "attendance": 100,
+  "loyalty": 99,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 5,
+  "rebels": [
+   {
+    "id": 88244,
+    "code": "A",
+    "title": "Novela z. - stavební zákon**",
+    "date": "2026-07-10",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88244"
+   },
+   {
+    "id": 87490,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-05-27",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87490"
+   },
+   {
+    "id": 87333,
+    "code": "A",
+    "title": "Stanovisko vládní koalice ke sjezdu Sudetoněmeckého landsmanšaftu v Br",
+    "date": "2026-05-05",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87333"
+   }
+  ]
+ },
+ "p6758": {
+  "region": "Moravskoslezský",
+  "speeches": 21,
+  "attendance": 100,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 88686,
+    "code": "A",
+    "title": "Novela z. o výrobcích s ukončenou životností - EU**",
+    "date": "2026-10-14",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88686"
+   }
+  ]
+ },
+ "p6881": {
+  "region": "Jihomoravský",
+  "speeches": 195,
+  "attendance": 94,
+  "loyalty": 99,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "M",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 2,
+  "rebels": [
+   {
+    "id": 88318,
+    "code": "B",
+    "title": "Vl.n.z. o evidenci tržeb",
+    "date": "2026-07-15",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88318"
+   },
+   {
+    "id": 86668,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-02-11",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=86668"
+   }
+  ]
+ },
+ "p7011": {
+  "region": "Královéhradecký",
+  "speeches": 44,
+  "attendance": 96,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "M",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 87332,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-05-05",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87332"
+   }
+  ]
+ },
+ "p6905": {
+  "region": "Moravskoslezský",
+  "speeches": 16,
+  "attendance": 91,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "K",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "M",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6693": {
+  "region": "Jihomoravský",
+  "speeches": 4,
+  "attendance": 80,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "@",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "M",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 2,
+  "rebels": [
+   {
+    "id": 87333,
+    "code": "A",
+    "title": "Stanovisko vládní koalice ke sjezdu Sudetoněmeckého landsmanšaftu v Br",
+    "date": "2026-05-05",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87333"
+   },
+   {
+    "id": 87125,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-04-14",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87125"
+   }
+  ]
+ },
+ "p6803": {
+  "region": "Jihomoravský",
+  "speeches": 16,
+  "attendance": 95,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "K",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6455": {
+  "region": "Pardubický",
+  "speeches": 9,
+  "attendance": 87,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 4,
+  "rebels": [
+   {
+    "id": 88185,
+    "code": "A",
+    "title": "Novela z. - stavební zákon**",
+    "date": "2026-07-10",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88185"
+   },
+   {
+    "id": 87992,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-06-30",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87992"
+   },
+   {
+    "id": 87997,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-06-30",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87997"
+   }
+  ]
+ },
+ "p6552": {
+  "region": "Hlavní město Praha",
+  "speeches": 243,
+  "attendance": 96,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "M",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p7007": {
+  "region": "Zlínský",
+  "speeches": 3,
+  "attendance": 100,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6997": {
+  "region": "Středočeský",
+  "speeches": 21,
+  "attendance": 100,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6687": {
+  "region": "Středočeský",
+  "speeches": 111,
+  "attendance": 98,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "M",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6459": {
+  "region": "Moravskoslezský",
+  "speeches": 20,
+  "attendance": 100,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "K",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 3,
+  "rebels": [
+   {
+    "id": 88021,
+    "code": "A",
+    "title": "Návrh zákona o státních zaměstnancích - související",
+    "date": "2026-07-01",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88021"
+   },
+   {
+    "id": 87339,
+    "code": "B",
+    "title": "Stanovisko vládní koalice ke sjezdu Sudetoněmeckého landsmanšaftu v Br",
+    "date": "2026-05-05",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87339"
+   },
+   {
+    "id": 87340,
+    "code": "B",
+    "title": "Stanovisko vládní koalice ke sjezdu Sudetoněmeckého landsmanšaftu v Br",
+    "date": "2026-05-05",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87340"
+   }
+  ]
+ },
+ "p6201": {
+  "region": "Jihomoravský",
+  "speeches": 5,
+  "attendance": 99,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 87638,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-06-03",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87638"
+   }
+  ]
+ },
+ "p6463": {
+  "region": "Moravskoslezský",
+  "speeches": 152,
+  "attendance": 82,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6205": {
+  "region": "Olomoucký",
+  "speeches": 231,
+  "attendance": 88,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6603": {
+  "region": "Plzeňský",
+  "speeches": 2,
+  "attendance": 76,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "M",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "@",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "@",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "@",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 88224,
+    "code": "A",
+    "title": "Novela z. - stavební zákon**",
+    "date": "2026-07-10",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88224"
+   }
+  ]
+ },
+ "p6209": {
+  "region": "Pardubický",
+  "speeches": 3,
+  "attendance": 96,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 88807,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-10-21",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88807"
+   }
+  ]
+ },
+ "p7008": {
+  "region": "Olomoucký",
+  "speeches": 17,
+  "attendance": 100,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p7009": {
+  "region": "Pardubický",
+  "speeches": 3,
+  "attendance": 100,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 88185,
+    "code": "A",
+    "title": "Novela z. - stavební zákon**",
+    "date": "2026-07-10",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88185"
+   }
+  ]
+ },
+ "p7010": {
+  "region": "Plzeňský",
+  "speeches": 24,
+  "attendance": 98,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 2,
+  "rebels": [
+   {
+    "id": 88826,
+    "code": "B",
+    "title": "Vl.n.z. o státním rozpočtu ČR na rok 2027**",
+    "date": "2026-10-22",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88826"
+   },
+   {
+    "id": 87819,
+    "code": "B",
+    "title": "Návrh na volbu členů Rady České televize",
+    "date": "2026-06-05",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87819"
+   }
+  ]
+ },
+ "p6506": {
+  "region": "Ústecký",
+  "speeches": 11,
+  "attendance": 97,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 88185,
+    "code": "A",
+    "title": "Novela z. - stavební zákon**",
+    "date": "2026-07-10",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88185"
+   }
+  ]
+ },
+ "p7012": {
+  "region": "Moravskoslezský",
+  "speeches": 1,
+  "attendance": 99,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "M",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6211": {
+  "region": "Pardubický",
+  "speeches": 181,
+  "attendance": 89,
+  "loyalty": 99,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 88636,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-10-13",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88636"
+   }
+  ]
+ },
+ "p6508": {
+  "region": "Vysočina",
+  "speeches": 16,
+  "attendance": 92,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 3,
+  "rebels": [
+   {
+    "id": 88386,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-08-25",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88386"
+   },
+   {
+    "id": 87429,
+    "code": "B",
+    "title": "Vl.n.z., kt. se mění některé z. v oblasti veřejných rozpočtů",
+    "date": "2026-05-15",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87429"
+   },
+   {
+    "id": 86739,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-03-03",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=86739"
+   }
+  ]
+ },
+ "p7108": {
+  "region": "Vysočina",
+  "speeches": 2,
+  "attendance": 99,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "W",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "W",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "W",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6214": {
+  "region": "Středočeský",
+  "speeches": 103,
+  "attendance": 98,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 4,
+  "rebels": [
+   {
+    "id": 88840,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-10-23",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88840"
+   },
+   {
+    "id": 88618,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-10-13",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88618"
+   },
+   {
+    "id": 87853,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-06-23",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87853"
+   }
+  ]
+ },
+ "p7013": {
+  "region": "Jihočeský",
+  "speeches": 46,
+  "attendance": 96,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p7014": {
+  "region": "Středočeský",
+  "speeches": 2,
+  "attendance": 99,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 87495,
+    "code": "A",
+    "title": "Novela z. o doplňkovém penzijním spoření**",
+    "date": "2026-05-27",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87495"
+   }
+  ]
+ },
+ "p7015": {
+  "region": "Jihomoravský",
+  "speeches": 32,
+  "attendance": 97,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 88533,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-09-22",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88533"
+   }
+  ]
+ },
+ "p6509": {
+  "region": "Hlavní město Praha",
+  "speeches": 32,
+  "attendance": 98,
+  "loyalty": 99,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 2,
+  "rebels": [
+   {
+    "id": 87997,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-06-30",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87997"
+   },
+   {
+    "id": 87297,
+    "code": "B",
+    "title": "Novela z. o cenách",
+    "date": "2026-04-24",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87297"
+   }
+  ]
+ },
+ "p7016": {
+  "region": "Jihočeský",
+  "speeches": 4,
+  "attendance": 96,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 3,
+  "rebels": [
+   {
+    "id": 88676,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-10-14",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88676"
+   },
+   {
+    "id": 88626,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-10-13",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88626"
+   },
+   {
+    "id": 88627,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-10-13",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88627"
+   }
+  ]
+ },
+ "p7017": {
+  "region": "Pardubický",
+  "speeches": 22,
+  "attendance": 99,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "M",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 2,
+  "rebels": [
+   {
+    "id": 87338,
+    "code": "A",
+    "title": "Stanovisko vládní koalice ke sjezdu Sudetoněmeckého landsmanšaftu v Br",
+    "date": "2026-05-05",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87338"
+   },
+   {
+    "id": 87342,
+    "code": "A",
+    "title": "Stanovisko vládní koalice ke sjezdu Sudetoněmeckého landsmanšaftu v Br",
+    "date": "2026-05-05",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87342"
+   }
+  ]
+ },
+ "p7018": {
+  "region": "Pardubický",
+  "speeches": 33,
+  "attendance": 99,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "M",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 86722,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-03-03",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=86722"
+   }
+  ]
+ },
+ "p6466": {
+  "region": "Jihomoravský",
+  "speeches": 10,
+  "attendance": 96,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 87230,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-04-22",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87230"
+   }
+  ]
+ },
+ "p6215": {
+  "region": "Jihočeský",
+  "speeches": 6,
+  "attendance": 99,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 4,
+  "rebels": [
+   {
+    "id": 88275,
+    "code": "A",
+    "title": "Vl.n.z. o evidenci tržeb",
+    "date": "2026-07-15",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88275"
+   },
+   {
+    "id": 87905,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-06-25",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87905"
+   },
+   {
+    "id": 87906,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-06-25",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87906"
+   }
+  ]
+ },
+ "p6216": {
+  "region": "Ústecký",
+  "speeches": 102,
+  "attendance": 88,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "K",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "M",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 2,
+  "rebels": [
+   {
+    "id": 88454,
+    "code": "A",
+    "title": "Novela z. - stavební zákon",
+    "date": "2026-09-09",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88454"
+   },
+   {
+    "id": 87439,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-05-26",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87439"
+   }
+  ]
+ },
+ "p7021": {
+  "region": "Jihočeský",
+  "speeches": 2,
+  "attendance": 96,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6538": {
+  "region": "Středočeský",
+  "speeches": 82,
+  "attendance": 78,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "@",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "@",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 2,
+  "rebels": [
+   {
+    "id": 88023,
+    "code": "A",
+    "title": "Návrh zákona o státních zaměstnancích - související",
+    "date": "2026-07-01",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88023"
+   },
+   {
+    "id": 87980,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-06-30",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87980"
+   }
+  ]
+ },
+ "p6738": {
+  "region": "Plzeňský",
+  "speeches": 31,
+  "attendance": 97,
+  "loyalty": 99,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "M",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "M",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 88234,
+    "code": "B",
+    "title": "Novela z. - stavební zákon**",
+    "date": "2026-07-10",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88234"
+   }
+  ]
+ },
+ "p5943": {
+  "region": "Středočeský",
+  "speeches": 33,
+  "attendance": 93,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 3,
+  "rebels": [
+   {
+    "id": 88499,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-09-11",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88499"
+   },
+   {
+    "id": 88244,
+    "code": "B",
+    "title": "Novela z. - stavební zákon**",
+    "date": "2026-07-10",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88244"
+   },
+   {
+    "id": 87385,
+    "code": "B",
+    "title": "Novela z. o státní sociální podpoře",
+    "date": "2026-05-15",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87385"
+   }
+  ]
+ },
+ "p6537": {
+  "region": "Hlavní město Praha",
+  "speeches": 24,
+  "attendance": 85,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 3,
+  "rebels": [
+   {
+    "id": 88723,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-10-15",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88723"
+   },
+   {
+    "id": 88175,
+    "code": "A",
+    "title": "Novela z. - stavební zákon**",
+    "date": "2026-07-10",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88175"
+   },
+   {
+    "id": 87486,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-05-26",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87486"
+   }
+  ]
+ },
+ "p6732": {
+  "region": "Plzeňský",
+  "speeches": 2,
+  "attendance": 100,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 2,
+  "rebels": [
+   {
+    "id": 87214,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-04-21",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87214"
+   },
+   {
+    "id": 87077,
+    "code": "A",
+    "title": "Novela z. o pojistném na veřejné zdravotní pojištění",
+    "date": "2026-03-25",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87077"
+   }
+  ]
+ },
+ "p6467": {
+  "region": "Zlínský",
+  "speeches": 2,
+  "attendance": 95,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 87046,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-03-25",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87046"
+   }
+  ]
+ },
+ "p6468": {
+  "region": "Jihomoravský",
+  "speeches": 135,
+  "attendance": 98,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p7023": {
+  "region": "Pardubický",
+  "speeches": 24,
+  "attendance": 95,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "K",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6534": {
+  "region": "Královéhradecký",
+  "speeches": 28,
+  "attendance": 98,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "M",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 87420,
+    "code": "A",
+    "title": "Vl.n.z., kt. se mění některé z. v oblasti veřejných rozpočtů",
+    "date": "2026-05-15",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87420"
+   }
+  ]
+ },
+ "p6544": {
+  "region": "Olomoucký",
+  "speeches": 44,
+  "attendance": 99,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p7024": {
+  "region": "Moravskoslezský",
+  "speeches": 28,
+  "attendance": 98,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "K",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 86344,
+    "code": "B",
+    "title": "Návrh termínu 2. schůze PS",
+    "date": "2025-11-05",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=86344"
+   }
+  ]
+ },
+ "p7040": {
+  "region": "Ústecký",
+  "speeches": 42,
+  "attendance": 99,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6486": {
+  "region": "Středočeský",
+  "speeches": 99,
+  "attendance": 95,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "M",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "K",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "K",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 5,
+  "rebels": [
+   {
+    "id": 88481,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-09-11",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88481"
+   },
+   {
+    "id": 88410,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-08-25",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88410"
+   },
+   {
+    "id": 87997,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-06-30",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87997"
+   }
+  ]
+ },
+ "p7025": {
+  "region": "Moravskoslezský",
+  "speeches": 20,
+  "attendance": 99,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "M",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 87919,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-06-26",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87919"
+   }
+  ]
+ },
+ "p7026": {
+  "region": "Pardubický",
+  "speeches": 8,
+  "attendance": 90,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p7027": {
+  "region": "Královéhradecký",
+  "speeches": 3,
+  "attendance": 98,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 3,
+  "rebels": [
+   {
+    "id": 88344,
+    "code": "A",
+    "title": "Vl.n.z. o evidenci tržeb",
+    "date": "2026-07-15",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88344"
+   },
+   {
+    "id": 88138,
+    "code": "A",
+    "title": "Novela z. - stavební zákon**",
+    "date": "2026-07-10",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88138"
+   },
+   {
+    "id": 88185,
+    "code": "A",
+    "title": "Novela z. - stavební zákon**",
+    "date": "2026-07-10",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88185"
+   }
+  ]
+ },
+ "p6804": {
+  "region": "Moravskoslezský",
+  "speeches": 15,
+  "attendance": 90,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "M",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "M",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 2,
+  "rebels": [
+   {
+    "id": 87067,
+    "code": "B",
+    "title": "Novela z. o pojistném na sociální zabezpečení",
+    "date": "2026-03-25",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87067"
+   },
+   {
+    "id": 86800,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-03-10",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=86800"
+   }
+  ]
+ },
+ "p6664": {
+  "region": "Hlavní město Praha",
+  "speeches": 4,
+  "attendance": 91,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "W",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "W",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "@",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 2,
+  "rebels": [
+   {
+    "id": 88354,
+    "code": "A",
+    "title": "Vl.n.z. o evidenci tržeb",
+    "date": "2026-07-15",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88354"
+   },
+   {
+    "id": 88010,
+    "code": "A",
+    "title": "Návrh zákona o státních zaměstnancích - související",
+    "date": "2026-07-01",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88010"
+   }
+  ]
+ },
+ "p7028": {
+  "region": "Moravskoslezský",
+  "speeches": 47,
+  "attendance": 96,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 2,
+  "rebels": [
+   {
+    "id": 87340,
+    "code": "B",
+    "title": "Stanovisko vládní koalice ke sjezdu Sudetoněmeckého landsmanšaftu v Br",
+    "date": "2026-05-05",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87340"
+   },
+   {
+    "id": 87021,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-03-24",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87021"
+   }
+  ]
+ },
+ "p6533": {
+  "region": "Zlínský",
+  "speeches": 43,
+  "attendance": 99,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "M",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 6,
+  "rebels": [
+   {
+    "id": 88659,
+    "code": "A",
+    "title": "Novela z. o daních z příjmů**",
+    "date": "2026-10-13",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88659"
+   },
+   {
+    "id": 87974,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-06-30",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87974"
+   },
+   {
+    "id": 87366,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-05-06",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87366"
+   }
+  ]
+ },
+ "p6475": {
+  "region": "Vysočina",
+  "speeches": 6,
+  "attendance": 97,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 2,
+  "rebels": [
+   {
+    "id": 87974,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-06-30",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87974"
+   },
+   {
+    "id": 87325,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-05-05",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87325"
+   }
+  ]
+ },
+ "p6105": {
+  "region": "Středočeský",
+  "speeches": 879,
+  "attendance": 95,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 3,
+  "rebels": [
+   {
+    "id": 88068,
+    "code": "A",
+    "title": "Novela z. o jednacím řádu PS**",
+    "date": "2026-07-03",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88068"
+   },
+   {
+    "id": 87598,
+    "code": "A",
+    "title": "Novela z. o podpoře bydlení**",
+    "date": "2026-06-03",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87598"
+   },
+   {
+    "id": 87107,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-04-14",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87107"
+   }
+  ]
+ },
+ "p6769": {
+  "region": "Hlavní město Praha",
+  "speeches": 17,
+  "attendance": 88,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "M",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6172": {
+  "region": "Olomoucký",
+  "speeches": 1,
+  "attendance": 95,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "M",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6766": {
+  "region": "Zlínský",
+  "speeches": 40,
+  "attendance": 92,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "M",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 88618,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-10-13",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88618"
+   }
+  ]
+ },
+ "p6754": {
+  "region": "Královéhradecký",
+  "speeches": 50,
+  "attendance": 91,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "M",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6770": {
+  "region": "Karlovarský",
+  "speeches": 9,
+  "attendance": 100,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 2,
+  "rebels": [
+   {
+    "id": 87844,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-06-23",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87844"
+   },
+   {
+    "id": 86704,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-02-13",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=86704"
+   }
+  ]
+ },
+ "p7029": {
+  "region": "Jihomoravský",
+  "speeches": 0,
+  "attendance": 100,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6474": {
+  "region": "Moravskoslezský",
+  "speeches": 71,
+  "attendance": 100,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 3,
+  "rebels": [
+   {
+    "id": 88660,
+    "code": "A",
+    "title": "Novela z. o daních z příjmů**",
+    "date": "2026-10-13",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88660"
+   },
+   {
+    "id": 87881,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-06-23",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87881"
+   },
+   {
+    "id": 87340,
+    "code": "A",
+    "title": "Stanovisko vládní koalice ke sjezdu Sudetoněmeckého landsmanšaftu v Br",
+    "date": "2026-05-05",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87340"
+   }
+  ]
+ },
+ "p7030": {
+  "region": "Ústecký",
+  "speeches": 54,
+  "attendance": 93,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "M",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "@",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "@",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "M",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 88488,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-09-11",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88488"
+   }
+  ]
+ },
+ "p7031": {
+  "region": "Jihomoravský",
+  "speeches": 18,
+  "attendance": 99,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6225": {
+  "region": "Liberecký",
+  "speeches": 26,
+  "attendance": 99,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "M",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 3,
+  "rebels": [
+   {
+    "id": 87979,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-06-30",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87979"
+   },
+   {
+    "id": 87334,
+    "code": "A",
+    "title": "Stanovisko vládní koalice ke sjezdu Sudetoněmeckého landsmanšaftu v Br",
+    "date": "2026-05-05",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87334"
+   },
+   {
+    "id": 87199,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-04-21",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87199"
+   }
+  ]
+ },
+ "p7032": {
+  "region": "Královéhradecký",
+  "speeches": 33,
+  "attendance": 95,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "M",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "K",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 2,
+  "rebels": [
+   {
+    "id": 87850,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-06-23",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87850"
+   },
+   {
+    "id": 87813,
+    "code": "A",
+    "title": "Novela z. o rostlinolékařské péči - EU**",
+    "date": "2026-06-05",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87813"
+   }
+  ]
+ },
+ "p7067": {
+  "region": "Karlovarský",
+  "speeches": 1,
+  "attendance": 99,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6780": {
+  "region": "Ústecký",
+  "speeches": 108,
+  "attendance": 95,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "M",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 2,
+  "rebels": [
+   {
+    "id": 88193,
+    "code": "A",
+    "title": "Novela z. - stavební zákon**",
+    "date": "2026-07-10",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88193"
+   },
+   {
+    "id": 86636,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-02-10",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=86636"
+   }
+  ]
+ },
+ "p6409": {
+  "region": "Středočeský",
+  "speeches": 0,
+  "attendance": 99,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 3,
+  "rebels": [
+   {
+    "id": 88807,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-10-21",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88807"
+   },
+   {
+    "id": 88521,
+    "code": "A",
+    "title": "Vl. n. z. o vstupu a pobytu cizinců**",
+    "date": "2026-09-11",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88521"
+   },
+   {
+    "id": 87063,
+    "code": "A",
+    "title": "Novela z. o pojistném na sociální zabezpečení",
+    "date": "2026-03-25",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87063"
+   }
+  ]
+ },
+ "p6555": {
+  "region": "Hlavní město Praha",
+  "speeches": 38,
+  "attendance": 88,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "@",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "M",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "@",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 5,
+  "rebels": [
+   {
+    "id": 88834,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-10-23",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88834"
+   },
+   {
+    "id": 88837,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-10-23",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88837"
+   },
+   {
+    "id": 88446,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-09-08",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88446"
+   }
+  ]
+ },
+ "p7034": {
+  "region": "Ústecký",
+  "speeches": 22,
+  "attendance": 91,
+  "loyalty": 94,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "M",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 87624,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-06-03",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87624"
+   }
+  ]
+ },
+ "p7035": {
+  "region": "Vysočina",
+  "speeches": 16,
+  "attendance": 96,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6762": {
+  "region": "Jihočeský",
+  "speeches": 48,
+  "attendance": 81,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 2,
+  "rebels": [
+   {
+    "id": 87969,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-06-30",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87969"
+   },
+   {
+    "id": 87311,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-05-05",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87311"
+   }
+  ]
+ },
+ "p6549": {
+  "region": "Středočeský",
+  "speeches": 18,
+  "attendance": 91,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 2,
+  "rebels": [
+   {
+    "id": 88767,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-10-16",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88767"
+   },
+   {
+    "id": 88768,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-10-16",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88768"
+   }
+  ]
+ },
+ "p7036": {
+  "region": "Zlínský",
+  "speeches": 77,
+  "attendance": 98,
+  "loyalty": 99,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 2,
+  "rebels": [
+   {
+    "id": 88642,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-10-13",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88642"
+   },
+   {
+    "id": 88314,
+    "code": "B",
+    "title": "Vl.n.z. o evidenci tržeb",
+    "date": "2026-07-15",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88314"
+   }
+  ]
+ },
+ "p5273": {
+  "region": "Hlavní město Praha",
+  "speeches": 49,
+  "attendance": 88,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "@",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "@",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 88204,
+    "code": "A",
+    "title": "Novela z. - stavební zákon**",
+    "date": "2026-07-10",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88204"
+   }
+  ]
+ },
+ "p6745": {
+  "region": "Plzeňský",
+  "speeches": 10,
+  "attendance": 98,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6527": {
+  "region": "Liberecký",
+  "speeches": 21,
+  "attendance": 97,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p7037": {
+  "region": "Moravskoslezský",
+  "speeches": 38,
+  "attendance": 83,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6524": {
+  "region": "Středočeský",
+  "speeches": 77,
+  "attendance": 79,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "M",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6523": {
+  "region": "Moravskoslezský",
+  "speeches": 4,
+  "attendance": 98,
+  "loyalty": 99,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 3,
+  "rebels": [
+   {
+    "id": 87333,
+    "code": "A",
+    "title": "Stanovisko vládní koalice ke sjezdu Sudetoněmeckého landsmanšaftu v Br",
+    "date": "2026-05-05",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87333"
+   },
+   {
+    "id": 87336,
+    "code": "A",
+    "title": "Stanovisko vládní koalice ke sjezdu Sudetoněmeckého landsmanšaftu v Br",
+    "date": "2026-05-05",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87336"
+   },
+   {
+    "id": 86443,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-01-13",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=86443"
+   }
+  ]
+ },
+ "p7038": {
+  "region": "Hlavní město Praha",
+  "speeches": 17,
+  "attendance": 100,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 88000,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-06-30",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88000"
+   }
+  ]
+ },
+ "p6500": {
+  "region": "Ústecký",
+  "speeches": 0,
+  "attendance": 97,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 86966,
+    "code": "A",
+    "title": "Dotační programy zemědělství pro rok 2026**",
+    "date": "2026-03-11",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=86966"
+   }
+  ]
+ },
+ "p6473": {
+  "region": "Hlavní město Praha",
+  "speeches": 298,
+  "attendance": 96,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6520": {
+  "region": "Ústecký",
+  "speeches": 21,
+  "attendance": 99,
+  "loyalty": 99,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 4,
+  "rebels": [
+   {
+    "id": 88422,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-09-08",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88422"
+   },
+   {
+    "id": 88152,
+    "code": "A",
+    "title": "Novela z. - stavební zákon**",
+    "date": "2026-07-10",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88152"
+   },
+   {
+    "id": 87336,
+    "code": "A",
+    "title": "Stanovisko vládní koalice ke sjezdu Sudetoněmeckého landsmanšaftu v Br",
+    "date": "2026-05-05",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87336"
+   }
+  ]
+ },
+ "p6782": {
+  "region": "Vysočina",
+  "speeches": 5,
+  "attendance": 100,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6767": {
+  "region": "Plzeňský",
+  "speeches": 7,
+  "attendance": 89,
+  "loyalty": 99,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "@",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "@",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 3,
+  "rebels": [
+   {
+    "id": 88356,
+    "code": "A",
+    "title": "Vl.n.z. o evidenci tržeb",
+    "date": "2026-07-15",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88356"
+   },
+   {
+    "id": 88024,
+    "code": "A",
+    "title": "Návrh zákona o státních zaměstnancích - související",
+    "date": "2026-07-01",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88024"
+   },
+   {
+    "id": 87486,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-05-26",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87486"
+   }
+  ]
+ },
+ "p6518": {
+  "region": "Královéhradecký",
+  "speeches": 5,
+  "attendance": 100,
+  "loyalty": 99,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 2,
+  "rebels": [
+   {
+    "id": 87333,
+    "code": "A",
+    "title": "Stanovisko vládní koalice ke sjezdu Sudetoněmeckého landsmanšaftu v Br",
+    "date": "2026-05-05",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87333"
+   },
+   {
+    "id": 87336,
+    "code": "A",
+    "title": "Stanovisko vládní koalice ke sjezdu Sudetoněmeckého landsmanšaftu v Br",
+    "date": "2026-05-05",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87336"
+   }
+  ]
+ },
+ "p6688": {
+  "region": "Středočeský",
+  "speeches": 4,
+  "attendance": 100,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 88234,
+    "code": "B",
+    "title": "Novela z. - stavební zákon**",
+    "date": "2026-07-10",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88234"
+   }
+  ]
+ },
+ "p7041": {
+  "region": "Olomoucký",
+  "speeches": 4,
+  "attendance": 98,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 86661,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-02-11",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=86661"
+   }
+  ]
+ },
+ "p7042": {
+  "region": "Hlavní město Praha",
+  "speeches": 36,
+  "attendance": 98,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "M",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p7039": {
+  "region": "Vysočina",
+  "speeches": 32,
+  "attendance": 98,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "K",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6783": {
+  "region": "Moravskoslezský",
+  "speeches": 3,
+  "attendance": 89,
+  "loyalty": 99,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 4,
+  "rebels": [
+   {
+    "id": 88771,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-10-16",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88771"
+   },
+   {
+    "id": 87603,
+    "code": "B",
+    "title": "Novela z. o podpoře bydlení**",
+    "date": "2026-06-03",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87603"
+   },
+   {
+    "id": 87427,
+    "code": "A",
+    "title": "Vl.n.z., kt. se mění některé z. v oblasti veřejných rozpočtů",
+    "date": "2026-05-15",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87427"
+   }
+  ]
+ },
+ "p7043": {
+  "region": "Zlínský",
+  "speeches": 37,
+  "attendance": 96,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 88618,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-10-13",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88618"
+   }
+  ]
+ },
+ "p7044": {
+  "region": "Hlavní město Praha",
+  "speeches": 33,
+  "attendance": 91,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p7045": {
+  "region": "Olomoucký",
+  "speeches": 33,
+  "attendance": 91,
+  "loyalty": 99,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "@",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 10,
+  "rebels": [
+   {
+    "id": 88481,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-09-11",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88481"
+   },
+   {
+    "id": 88186,
+    "code": "A",
+    "title": "Novela z. - stavební zákon**",
+    "date": "2026-07-10",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88186"
+   },
+   {
+    "id": 88234,
+    "code": "B",
+    "title": "Novela z. - stavební zákon**",
+    "date": "2026-07-10",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88234"
+   }
+  ]
+ },
+ "p7048": {
+  "region": "Ústecký",
+  "speeches": 47,
+  "attendance": 89,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 88672,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-10-14",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88672"
+   }
+  ]
+ },
+ "p6515": {
+  "region": "Moravskoslezský",
+  "speeches": 4,
+  "attendance": 98,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6743": {
+  "region": "Zlínský",
+  "speeches": 3,
+  "attendance": 100,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p7049": {
+  "region": "Hlavní město Praha",
+  "speeches": 100,
+  "attendance": 94,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "@",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 2,
+  "rebels": [
+   {
+    "id": 88491,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-09-11",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88491"
+   },
+   {
+    "id": 87163,
+    "code": "A",
+    "title": "Novela z. o cenách**",
+    "date": "2026-04-15",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87163"
+   }
+  ]
+ },
+ "p7050": {
+  "region": "Liberecký",
+  "speeches": 13,
+  "attendance": 97,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "M",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "M",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 86511,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-01-28",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=86511"
+   }
+  ]
+ },
+ "p7033": {
+  "region": "Moravskoslezský",
+  "speeches": 1,
+  "attendance": 98,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 88807,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-10-21",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88807"
+   }
+  ]
+ },
+ "p7051": {
+  "region": "Jihomoravský",
+  "speeches": 58,
+  "attendance": 95,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "K",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6479": {
+  "region": "Jihomoravský",
+  "speeches": 24,
+  "attendance": 99,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 4,
+  "rebels": [
+   {
+    "id": 88652,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-10-13",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88652"
+   },
+   {
+    "id": 88481,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-09-11",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88481"
+   },
+   {
+    "id": 88068,
+    "code": "A",
+    "title": "Novela z. o jednacím řádu PS**",
+    "date": "2026-07-03",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88068"
+   }
+  ]
+ },
+ "p6763": {
+  "region": "Moravskoslezský",
+  "speeches": 100,
+  "attendance": 96,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "M",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6064": {
+  "region": "Jihomoravský",
+  "speeches": 32,
+  "attendance": 93,
+  "loyalty": 99,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p7065": {
+  "region": "Olomoucký",
+  "speeches": 29,
+  "attendance": 91,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "K",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "M",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p7046": {
+  "region": "Plzeňský",
+  "speeches": 40,
+  "attendance": 96,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "M",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "K",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p5512": {
+  "region": "Hlavní město Praha",
+  "speeches": 95,
+  "attendance": 96,
+  "loyalty": 99,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 9,
+  "rebels": [
+   {
+    "id": 88484,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-09-11",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88484"
+   },
+   {
+    "id": 88365,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-08-25",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88365"
+   },
+   {
+    "id": 88404,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-08-25",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88404"
+   }
+  ]
+ },
+ "p6484": {
+  "region": "Jihomoravský",
+  "speeches": 0,
+  "attendance": 100,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 5,
+  "rebels": [
+   {
+    "id": 88633,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-10-13",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88633"
+   },
+   {
+    "id": 88636,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-10-13",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88636"
+   },
+   {
+    "id": 88408,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-08-25",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88408"
+   }
+  ]
+ },
+ "p7052": {
+  "region": "Jihočeský",
+  "speeches": 28,
+  "attendance": 95,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "M",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6786": {
+  "region": "Zlínský",
+  "speeches": 4,
+  "attendance": 96,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 2,
+  "rebels": [
+   {
+    "id": 87335,
+    "code": "B",
+    "title": "Stanovisko vládní koalice ke sjezdu Sudetoněmeckého landsmanšaftu v Br",
+    "date": "2026-05-05",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87335"
+   },
+   {
+    "id": 87215,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-04-21",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87215"
+   }
+  ]
+ },
+ "p7053": {
+  "region": "Jihomoravský",
+  "speeches": 5,
+  "attendance": 97,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "M",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 87974,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-06-30",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87974"
+   }
+  ]
+ },
+ "p6240": {
+  "region": "Jihočeský",
+  "speeches": 4,
+  "attendance": 93,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6787": {
+  "region": "Ústecký",
+  "speeches": 15,
+  "attendance": 95,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "K",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 86344,
+    "code": "A",
+    "title": "Návrh termínu 2. schůze PS",
+    "date": "2025-11-05",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=86344"
+   }
+  ]
+ },
+ "p7059": {
+  "region": "Středočeský",
+  "speeches": 7,
+  "attendance": 82,
+  "loyalty": 99,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 4,
+  "rebels": [
+   {
+    "id": 88827,
+    "code": "A",
+    "title": "Vl.n.z. o státním rozpočtu ČR na rok 2027**",
+    "date": "2026-10-22",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88827"
+   },
+   {
+    "id": 88430,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-09-08",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88430"
+   },
+   {
+    "id": 88445,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-09-08",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88445"
+   }
+  ]
+ },
+ "p6482": {
+  "region": "Jihomoravský",
+  "speeches": 34,
+  "attendance": 89,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "M",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 2,
+  "rebels": [
+   {
+    "id": 87968,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-06-30",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87968"
+   },
+   {
+    "id": 87662,
+    "code": "A",
+    "title": "Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname",
+    "date": "2026-06-04",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87662"
+   }
+  ]
+ },
+ "p6168": {
+  "region": "Středočeský",
+  "speeches": 54,
+  "attendance": 88,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 6,
+  "rebels": [
+   {
+    "id": 87956,
+    "code": "A",
+    "title": "Návrh zákona o státních zaměstnancích**",
+    "date": "2026-06-26",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87956"
+   },
+   {
+    "id": 87853,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-06-23",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87853"
+   },
+   {
+    "id": 87860,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-06-23",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87860"
+   }
+  ]
+ },
+ "p6946": {
+  "region": "Karlovarský",
+  "speeches": 0,
+  "attendance": 96,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 2,
+  "rebels": [
+   {
+    "id": 88262,
+    "code": "A",
+    "title": "Novela z. o pozemních komunikacích - EU**",
+    "date": "2026-07-14",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88262"
+   },
+   {
+    "id": 86836,
+    "code": "A",
+    "title": "Vl.n.z. o státním rozpočtu ČR na rok 2026**",
+    "date": "2026-03-11",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=86836"
+   }
+  ]
+ },
+ "p7054": {
+  "region": "Královéhradecký",
+  "speeches": 26,
+  "attendance": 96,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "M",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 4,
+  "rebels": [
+   {
+    "id": 88359,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-08-25",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88359"
+   },
+   {
+    "id": 87662,
+    "code": "B",
+    "title": "Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname",
+    "date": "2026-06-04",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87662"
+   },
+   {
+    "id": 87664,
+    "code": "B",
+    "title": "Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname",
+    "date": "2026-06-04",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87664"
+   }
+  ]
+ },
+ "p6789": {
+  "region": "Vysočina",
+  "speeches": 49,
+  "attendance": 90,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "@",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 88629,
+    "code": "B",
+    "title": "Pořad schůze",
+    "date": "2026-10-13",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88629"
+   }
+  ]
+ },
+ "p7055": {
+  "region": "Královéhradecký",
+  "speeches": 22,
+  "attendance": 90,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 2,
+  "rebels": [
+   {
+    "id": 87603,
+    "code": "A",
+    "title": "Novela z. o podpoře bydlení**",
+    "date": "2026-06-03",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87603"
+   },
+   {
+    "id": 87243,
+    "code": "B",
+    "title": "N. z., kterým se zrušuje nominační zákon**",
+    "date": "2026-04-22",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87243"
+   }
+  ]
+ },
+ "p6491": {
+  "region": "Jihočeský",
+  "speeches": 59,
+  "attendance": 89,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "M",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p7056": {
+  "region": "Liberecký",
+  "speeches": 5,
+  "attendance": 99,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 2,
+  "rebels": [
+   {
+    "id": 87780,
+    "code": "A",
+    "title": "Návrhy Poslanecké sněmovny na propůjčení nebo udělení státních vyzname",
+    "date": "2026-06-04",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87780"
+   },
+   {
+    "id": 87624,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-06-03",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87624"
+   }
+  ]
+ },
+ "p7057": {
+  "region": "Středočeský",
+  "speeches": 44,
+  "attendance": 98,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "K",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6165": {
+  "region": "Zlínský",
+  "speeches": 58,
+  "attendance": 89,
+  "loyalty": 99,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 5,
+  "rebels": [
+   {
+    "id": 88169,
+    "code": "A",
+    "title": "Novela z. - stavební zákon**",
+    "date": "2026-07-10",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88169"
+   },
+   {
+    "id": 87445,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-05-26",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87445"
+   },
+   {
+    "id": 87205,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-04-21",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87205"
+   }
+  ]
+ },
+ "p7058": {
+  "region": "Jihočeský",
+  "speeches": 27,
+  "attendance": 91,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 88238,
+    "code": "A",
+    "title": "Novela z. - stavební zákon**",
+    "date": "2026-07-10",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88238"
+   }
+  ]
+ },
+ "p7060": {
+  "region": "Vysočina",
+  "speeches": 1,
+  "attendance": 100,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6490": {
+  "region": "Olomoucký",
+  "speeches": 0,
+  "attendance": 99,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "M",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6513": {
+  "region": "Pardubický",
+  "speeches": 120,
+  "attendance": 99,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 3,
+  "rebels": [
+   {
+    "id": 88719,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-10-15",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88719"
+   },
+   {
+    "id": 88668,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-10-14",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88668"
+   },
+   {
+    "id": 87079,
+    "code": "A",
+    "title": "Návrh na odvolání předsedy Dozorčí rady Státního zemědělského interven",
+    "date": "2026-03-25",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87079"
+   }
+  ]
+ },
+ "p7061": {
+  "region": "Moravskoslezský",
+  "speeches": 40,
+  "attendance": 100,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 88669,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-10-14",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88669"
+   }
+  ]
+ },
+ "p6730": {
+  "region": "Jihomoravský",
+  "speeches": 16,
+  "attendance": 100,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p7062": {
+  "region": "Plzeňský",
+  "speeches": 2,
+  "attendance": 99,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 2,
+  "rebels": [
+   {
+    "id": 88769,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-10-16",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88769"
+   },
+   {
+    "id": 88689,
+    "code": "A",
+    "title": "Novela z. o výrobcích s ukončenou životností - EU**",
+    "date": "2026-10-14",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88689"
+   }
+  ]
+ },
+ "p6793": {
+  "region": "Hlavní město Praha",
+  "speeches": 50,
+  "attendance": 85,
+  "loyalty": 99,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "@",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "M",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "@",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 5,
+  "rebels": [
+   {
+    "id": 88725,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-10-15",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88725"
+   },
+   {
+    "id": 88168,
+    "code": "A",
+    "title": "Novela z. - stavební zákon**",
+    "date": "2026-07-10",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88168"
+   },
+   {
+    "id": 88227,
+    "code": "A",
+    "title": "Novela z. - stavební zákon**",
+    "date": "2026-07-10",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=88227"
+   }
+  ]
+ },
+ "p6796": {
+  "region": "Hlavní město Praha",
+  "speeches": 70,
+  "attendance": 97,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 86898,
+    "code": "B",
+    "title": "Vl.n.z. o státním rozpočtu ČR na rok 2026**",
+    "date": "2026-03-11",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=86898"
+   }
+  ]
+ },
+ "p5226": {
+  "region": "Hlavní město Praha",
+  "speeches": 5,
+  "attendance": 83,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "B",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "M",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "M",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "M",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p7064": {
+  "region": "Olomoucký",
+  "speeches": 4,
+  "attendance": 99,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "A",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "A",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "A",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "A",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "B",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "A",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 0,
+  "rebels": []
+ },
+ "p6154": {
+  "region": "Plzeňský",
+  "speeches": 11,
+  "attendance": 87,
+  "loyalty": 100,
+  "keyVotes": [
+   {
+    "id": 86480,
+    "code": "B",
+    "date": "2026-01-15"
+   },
+   {
+    "id": 86779,
+    "code": "M",
+    "date": "2026-03-05"
+   },
+   {
+    "id": 86957,
+    "code": "B",
+    "date": "2026-03-11"
+   },
+   {
+    "id": 88456,
+    "code": "@",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88454,
+    "code": "B",
+    "date": "2026-09-09"
+   },
+   {
+    "id": 88584,
+    "code": "A",
+    "date": "2026-10-01"
+   },
+   {
+    "id": 88666,
+    "code": "B",
+    "date": "2026-10-14"
+   }
+  ],
+  "rebelCount": 1,
+  "rebels": [
+   {
+    "id": 87886,
+    "code": "A",
+    "title": "Pořad schůze",
+    "date": "2026-06-23",
+    "url": "https://www.psp.cz/sqw/hlasy.sqw?g=87886"
+   }
+  ]
+ }
+}

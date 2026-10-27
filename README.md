@@ -35,6 +35,8 @@ data/<period>/opinions/<club>.json  the researched opinions, edited by hand
 data/<period>/quiz.json           built by tools/build.mjs, the only file the app and the worker read
 audio/<period>/<hash>.mp3         built by tools/tts.py
 photos/<period>/<id>.jpg          portraits, downloaded by tools/fetch-photos.py
+data/<period>/key-votes.json      the contested votes every profile reports (psp.cz vote ids)
+data/<period>/activity.json       per MP: key votes, attendance, loyalty to the club, votes against it, speeches
 ```
 
 An opinions entry, keyed by person id:
@@ -51,6 +53,10 @@ An opinions entry, keyed by person id:
 
 Only entries with `"reviewed": true` get into the published quiz. Every opinion needs a source URL and a date.
 
+MPs with no researched opinions are not left out. `tools/build.mjs` writes a first-person profile from their record instead: region, how often they spoke, three of the key votes, how often they broke with their club and their attendance. Excused absences and votes before their mandate are not counted. After every answer the app shows each MP's record: activity numbers, the key votes with links, and their latest votes against the club line in contested votes.
+
+Each person also gets a difficulty level. Level 1 is the government, the Chamber leadership, club chairs and party leaders. Level 2 is other researched opinions. Level 3 is profiles from votes. Easier levels are practice. Only "Celá Sněmovna" counts for the leaderboard.
+
 ### Updating the data
 
 ```sh
@@ -60,6 +66,10 @@ mkdir psp && tar -xf poslanci.zip -C psp
 node tools/fetch-people.mjs psp
 python tools/fetch-photos.py        # local copies of the portraits (psp.cz times out under load)
 node tools/speeches.mjs p6487 out.txt   # one MP's own speeches in the Chamber, for sourcing opinions
+
+# votes (after each session block): key votes are chosen in data/<period>/key-votes.json
+curl -LO https://www.psp.cz/eknih/cdrom/opendata/hl-2025ps.zip    # unzip with poslanci.zip into one folder
+node tools/votes.mjs <folder>                                      # -> data/<period>/activity.json
 
 # after editing opinions
 node tools/build.mjs                 # published quiz, reviewed entries only

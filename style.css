@@ -161,6 +161,11 @@ button.link { border: 0; background: none; padding: 0; color: var(--accent); fon
 .opinions li { margin-bottom: 8px; }
 .opinions .src { font-size: 0.85rem; white-space: nowrap; }
 .draft { margin-bottom: 12px; }
+.activity { margin: -4px 0 14px; font-size: 0.92rem; }
+.activity details { margin-top: 6px; }
+.activity summary { cursor: pointer; color: var(--accent); font-weight: 600; }
+.votes { margin: 6px 0 0; padding-left: 18px; }
+.votes li { margin-bottom: 4px; }
 
 .share { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; }
 .share > * { flex: 1 1 auto; text-align: center; }

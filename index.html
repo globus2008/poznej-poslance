@@ -48,6 +48,13 @@
         <label>Volební období
           <select id="period"></select>
         </label>
+        <label>Obtížnost
+          <select id="level">
+            <option value="">Celá Sněmovna (do žebříčku)</option>
+            <option value="1">Lehká – vláda a lídři stran</option>
+            <option value="2">Střední – výrazní politici</option>
+          </select>
+        </label>
         <label>Koho hádat
           <select id="filter">
             <option value="">Všechny</option>
@@ -56,6 +63,7 @@
         </label>
         <p class="hint" id="pool-info"></p>
         <button id="start" class="primary big" type="button" disabled>Začít hru</button>
+        <p class="hint" id="practice-info" hidden>Lehčí obtížnost je na trénink, do žebříčku se počítá hra s celou Sněmovnou.</p>
         <p class="hint" id="ranked-info" hidden>Hra se všemi osobami se počítá do žebříčku – za skóre i za počet poznaných politiků.</p>
       </div>
 
@@ -123,7 +131,9 @@
           </div>
         </div>
         <p class="verdict" id="verdict"></p>
+        <p class="hint" id="reveal-votes-note" hidden>K tomuto poslanci jsme zatím nenašli výrazné vlastní výroky, a tak za něj mluví jeho hlasování.</p>
         <ul class="opinions" id="reveal-opinions"></ul>
+        <div class="activity" id="reveal-activity"></div>
         <p class="hint draft" id="reveal-draft" hidden>Tento záznam zatím čeká na kontrolu.</p>
         <button id="next" class="primary big" type="button">Další</button>
       </div>

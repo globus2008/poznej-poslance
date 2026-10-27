@@ -1,0 +1,9 @@
+[
+ { "id": 86480, "topic": "Důvěra vládě", "yes": "pro důvěru Babišově vládě", "no": "proti důvěře Babišově vládě", "absent": "u hlasování o důvěře vládě" },
+ { "id": 86779, "topic": "Vydání Babiše ke stíhání", "yes": "pro to, aby premiér nebyl vydán k trestnímu stíhání", "no": "pro vydání premiéra k trestnímu stíhání", "absent": "u hlasování o vydání premiéra k trestnímu stíhání" },
+ { "id": 86957, "topic": "Rozpočet 2026", "yes": "pro rozpočet na rok 2026 se schodkem 310 miliard", "no": "proti rozpočtu na rok 2026 se schodkem 310 miliard", "absent": "u hlasování o rozpočtu na rok 2026" },
+ { "id": 88456, "topic": "Návrat EET", "yes": "pro návrat elektronické evidence tržeb", "no": "proti návratu elektronické evidence tržeb", "absent": "u hlasování o elektronické evidenci tržeb" },
+ { "id": 88454, "topic": "Stavební zákon", "yes": "pro stavební zákon se státními stavebními úřady", "no": "proti stavebnímu zákonu se státními stavebními úřady", "absent": "u hlasování o stavebním zákoně" },
+ { "id": 88584, "topic": "Nedůvěra vládě", "yes": "pro vyslovení nedůvěry vládě", "no": "proti vyslovení nedůvěry vládě", "absent": "u hlasování o nedůvěře vládě" },
+ { "id": 88666, "topic": "Státní zaměstnanci", "yes": "pro nový zákon o státních zaměstnancích", "no": "proti novému zákonu o státních zaměstnancích", "absent": "u hlasování o zákonu o státních zaměstnancích" }
+]

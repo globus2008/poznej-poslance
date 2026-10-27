@@ -2,16 +2,498 @@
  "p6524": {
   "script": "Nic z toho, co tahle vláda lidem slíbila, nedoručila. Jezdím po regionech a vysvětluju lidem, v čem jim premiér lže. Tahle vláda unáší náš stát. Kauza Dozimetr nás poškodila, ale já osobně s ní nemám nic společného, je to zástupný argument. A lídr opozice? Prezident to rozhodně není.",
   "opinions": [
-   { "topic": "Babišova vláda", "text": "„Nic z toho, co Babišova vláda lidem slíbila, nedoručila.“ „Jezdím do regionů a vysvětluji lidem, že jim Babiš lže.“ „Tahle vláda unáší náš stát.“", "source": "https://cnn.iprima.cz/rakusan-vlada-si-me-vybrala-za-soupere-chci-lidem-vysvetlit-v-cem-vsem-babis-lze-511700", "date": "2026-05-12" },
-   { "topic": "Kauza Dozimetr", "text": "„S kauzou Dozimetr já osobně nemám nic společného a je to zástupný argument.“ Připouští ale, že kauza STAN poškodila.", "source": "https://cnn.iprima.cz/rakusan-vlada-si-me-vybrala-za-soupere-chci-lidem-vysvetlit-v-cem-vsem-babis-lze-511700", "date": "2026-05-12" }
+   {
+    "topic": "Babišova vláda",
+    "text": "„Nic z toho, co Babišova vláda lidem slíbila, nedoručila.“ „Jezdím do regionů a vysvětluji lidem, že jim Babiš lže.“ „Tahle vláda unáší náš stát.“",
+    "source": "https://cnn.iprima.cz/rakusan-vlada-si-me-vybrala-za-soupere-chci-lidem-vysvetlit-v-cem-vsem-babis-lze-511700",
+    "date": "2026-05-12"
+   },
+   {
+    "topic": "Kauza Dozimetr",
+    "text": "„S kauzou Dozimetr já osobně nemám nic společného a je to zástupný argument.“ Připouští ale, že kauza STAN poškodila.",
+    "source": "https://cnn.iprima.cz/rakusan-vlada-si-me-vybrala-za-soupere-chci-lidem-vysvetlit-v-cem-vsem-babis-lze-511700",
+    "date": "2026-05-12"
+   }
   ],
   "reviewed": true
  },
  "p6788": {
   "script": "Prezident se proti zprávám ministra zahraničí vymezil zcela správně, protože to nebylo slušné. Je to prostě vyhrožování. A když teď někdo vyčítá prezidentovi, že je zveřejnil, zní to jako: neměl ji znásilnit, ale ona neměla mít tu moc krátkou sukni.",
   "opinions": [
-   { "topic": "SMS prezidentovi", "text": "O Macinkových zprávách prezidentovu poradci: „Petr Pavel se vymezil zcela správně, protože to nebylo slušné.“ „Je to prostě vyhrožování.“", "source": "https://cnn.iprima.cz/jako-znasilneni-divky-s-kratkou-sukni-kritizovala-urbanova-vytky-pavlovi-babka-zustal-v-soku-502837", "date": "2026-01-30" },
-   { "topic": "Ostré přirovnání", "text": "Výtky prezidentovi přirovnala k obviňování oběti znásilnění: „…neměl ji znásilnit, ale ona neměla mít tu moc krátkou sukni.“ Přirovnání vyvolalo v debatě rozruch.", "source": "https://cnn.iprima.cz/jako-znasilneni-divky-s-kratkou-sukni-kritizovala-urbanova-vytky-pavlovi-babka-zustal-v-soku-502837", "date": "2026-01-30" }
+   {
+    "topic": "SMS prezidentovi",
+    "text": "O Macinkových zprávách prezidentovu poradci: „Petr Pavel se vymezil zcela správně, protože to nebylo slušné.“ „Je to prostě vyhrožování.“",
+    "source": "https://cnn.iprima.cz/jako-znasilneni-divky-s-kratkou-sukni-kritizovala-urbanova-vytky-pavlovi-babka-zustal-v-soku-502837",
+    "date": "2026-01-30"
+   },
+   {
+    "topic": "Ostré přirovnání",
+    "text": "Výtky prezidentovi přirovnala k obviňování oběti znásilnění: „…neměl ji znásilnit, ale ona neměla mít tu moc krátkou sukni.“ Přirovnání vyvolalo v debatě rozruch.",
+    "source": "https://cnn.iprima.cz/jako-znasilneni-divky-s-kratkou-sukni-kritizovala-urbanova-vytky-pavlovi-babka-zustal-v-soku-502837",
+    "date": "2026-01-30"
+   }
+  ],
+  "reviewed": true
+ },
+ "p6722": {
+  "script": "Koalice vybrala za předsedu Sněmovny člověka s nejvíce varovnými signály, jaké jdou, a nikdo z ní ho ani nepřišel obhájit. Hnutí ANO slibovalo, že odmítne škrty, a první, kde se škrtá, je školství. Místo vyčleňování dětí z běžných škol bychom měli posílit jejich podporu. A ptám se premiéra, kdo vlastně řídí školství, ministr, nebo jeho nepromyšlené nápady?",
+  "opinions": [
+   {
+    "topic": "Okamura předsedou",
+    "text": "Koalice podle něj na předsedu Sněmovny „zcela neomylně vybrala člověka, který má, jak se v současné době říká, snad nejvíce red flags, které jdou“; nikdo z koalice ho nepřišel obhájit.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/001schuz/s001048.htm#r4",
+    "date": "2025-11-05"
+   },
+   {
+    "topic": "Škrty ve školství",
+    "text": "ANO mělo v programu „Odmítneme škrty.“ a první, kde se má škrtat, je podle něj školství. Odmítá úvahy koalice, „jak usnadnit vyčleňování dětí“ z běžných škol, a žádá místo toho stabilní podporu.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/034schuz/s034016.htm#r2",
+    "date": "2026-10-13"
+   },
+   {
+    "topic": "Kdo řídí školství",
+    "text": "Premiéra se v interpelaci zeptal: „Kdo řídí školství v této vládě?“ – zda ministr, nebo premiér „svými neprojednanými, nepromyšlenými nápady“, které znejisťují školy.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/030schuz/s030138.htm#r8",
+    "date": "2026-09-10"
+   }
+  ],
+  "reviewed": true
+ },
+ "p7002": {
+  "script": "Vyžádal jsem si ze soudu statut svěřenského fondu Agrofert a ten říká, že prospěch nakonec připadne premiérovým dětem. Kvůli tomu může Česko přijít o evropské peníze. Nesouhlasím ani s tím, aby rozpočet Nejvyššího kontrolního úřadu určovalo ministerstvo financí. A znovu zavírat neplatiče výživného za čtvrt miliardy ročně, bez jakýchkoli dat, dětem nepomůže.",
+  "opinions": [
+   {
+    "topic": "Agrofert a fond",
+    "text": "Vyžádal si ze soudu statut Babišova svěřenského fondu; podle něj stanoví, že po skončení premiérovy funkce se obmyšlenými stanou jeho děti. Varoval, že střet zájmů může Česko připravit o evropské prostředky: „To nejsou vaše peníze, pane premiére, to jsou peníze Česka.“",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/007schuz/s007161.htm#r2",
+    "date": "2026-02-12"
+   },
+   {
+    "topic": "Nezávislost NKÚ",
+    "text": "Odmítá vládní návrh, aby rozpočet Nejvyššího kontrolního úřadu určovalo ministerstvo financí: vláda by tak získala vliv na instituci, „která má kontrolovat právě ji samotnou“.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/017schuz/s017100.htm#r6",
+    "date": "2026-05-13"
+   },
+   {
+    "topic": "Neplacení výživného",
+    "text": "Je proti opětovnému rozšíření trestnosti neplacení výživného. Návrh podle něj může stát čtvrt miliardy ročně za vězně, „aniž máme jakákoli data, že díky němu děti dostanou ve výživném více peněz“.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/031schuz/s031062.htm#r8",
+    "date": "2026-09-22"
+   }
+  ],
+  "reviewed": true
+ },
+ "p6750": {
+  "script": "Ministerstvo obrany vedené SPD zakázalo armádě odvysílat rozhovor s prezidentem. Je to historicky první pokus o cenzuru hlavy státu. Vláda škrtla obraně dvacet miliard a armáda teď dostává chaos na splátky. Bez financování obrany nebude ani sociální jistota. A strategickou Explosii prodávat nesmíme.",
+  "opinions": [
+   {
+    "topic": "Cenzura prezidenta",
+    "text": "Zákaz odvysílat armádní rozhovor s prezidentem Pavlem označil za „historicky první pokus o cenzuru úřadující hlavy státu v novodobých dějinách České republiky“, který podle něj navazuje na snahy vlády umlčet lidi s jasným názorem.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/014schuz/s014034.htm#r4",
+    "date": "2026-04-14"
+   },
+   {
+    "topic": "Peníze pro armádu",
+    "text": "Kritizuje, že vláda vyškrtla z rozpočtu obrany 20 miliard a armáda neví, zda peníze dostane; „bez financování armády a obrany České republiky nebude ani sociální jistota“. Odmítá i úvahy o prodeji Explosie.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/020schuz/s020188.htm#r4",
+    "date": "2026-05-28"
+   }
+  ],
+  "reviewed": true
+ },
+ "p7011": {
+  "script": "Výbuchy ve Vrběticích byly teroristický útok ruské vojenské rozvědky a kdo to zpochybňuje, nahrává ruské propagandě. Tvrzení, že kriminalita roste kvůli uprchlíkům z Ukrajiny, rozdmýchává nenávist. Bezpečnost se nedá dělat hysterií, jen fakty. A bránit našemu vojenskému vedení v cestě do Kyjeva je nepochopitelné a podkopává to bezpečnost země.",
+  "opinions": [
+   {
+    "topic": "Vrbětice",
+    "text": "Ohradil se proti zpochybnění ruské odpovědnosti za Vrbětice ze strany šéfa klubu SPD Radima Fialy: výbuchy byly teroristickým útokem agentů GRU a takové výroky jsou „relativizace terorismu a otevřené nahrávání ruské propagandě“.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/007schuz/s007171.htm#r2",
+    "date": "2026-02-12"
+   },
+   {
+    "topic": "Ukrajinci a kriminalita",
+    "text": "Tvrzení poslanců SPD, že kriminalita roste kvůli uprchlíkům z Ukrajiny, považuje za nebezpečnou propagandu; „bezpečnost se dá dělat pouze fakty a prací policie a odborností“, ne hysterií.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/007schuz/s007178.htm#r8",
+    "date": "2026-02-12"
+   },
+   {
+    "topic": "Cesta do Kyjeva",
+    "text": "Kritizoval, že ministerstvo obrany neschválilo cestu náčelníka generálního štábu na konferenci do Kyjeva; bránit vojenskému vedení v odborných kontaktech je podle něj „přímo podkopávající bezpečnost naší země“.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/030schuz/s030145.htm#r6",
+    "date": "2026-09-10"
+   }
+  ],
+  "reviewed": true
+ },
+ "p6997": {
+  "script": "Programové prohlášení této vlády jsou floskule, lži a pohádky, štěkání na spojence a podléhání radikálům. Rušením služebního zákona chce koalice nahradit odborníky loajálními kývači, ale stát není firma. A novela stavebního zákona likviduje památkovou péči. Špatný paragraf jde opravit, zničenou památku nevrátíme.",
+  "opinions": [
+   {
+    "topic": "Důvěra vládě",
+    "text": "Vládě nedala důvěru: „Programové prohlášení vlády je zklamání. Floskule, lži a pohádky, štěkání na spojence a podléhání radikálům tvořícím koalici.“ Evropskou unii podle ní bude vláda spíš ignorovat.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/005schuz/s005096.htm#r6",
+    "date": "2026-01-14"
+   },
+   {
+    "topic": "Služební zákon",
+    "text": "Zrušení služebního zákona považuje za politizaci státní správy: „stát není firma“ a není možné ho vést tak, že se kvalitní odborníci nahradí „loajálními kývači“.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/024schuz/s024079.htm#r2",
+    "date": "2026-06-24"
+   },
+   {
+    "topic": "Památková péče",
+    "text": "Novelu stavebního zákona označuje za likvidaci památkové péče a vyzvala Sněmovnu, aby nepřehlasovala Senát: „Špatně napsaný paragraf lze v budoucnu opravit, ale zničenou památku už prostě nevrátíme.“",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/030schuz/s030088.htm#r3",
+    "date": "2026-09-09"
+   }
+  ],
+  "reviewed": true
+ },
+ "p7008": {
+  "script": "Zvolit Tomia Okamuru předsedou Sněmovny je nebezpečný signál pro mladé lidi, že se v politice vyplácí křik a cynismus. Vláda pětadvacetkrát mluví o inovacích, ale základní výzkum nezmíní ani jednou. Bez něj budeme jen montovnou cizích nápadů. A čipovat bychom měli i kočky, proč čekat patnáct let?",
+  "opinions": [
+   {
+    "topic": "Okamura předsedou",
+    "text": "Zvolení Tomia Okamury předsedou Sněmovny by podle ní znamenalo, že „člověk, který dlouhodobě šíří lži, nenávist a pohrdání vůči druhým“, může usednout do jedné z nejvyšších funkcí; je to špatný signál pro mladé lidi.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/001schuz/s001034.htm#r2",
+    "date": "2025-11-05"
+   },
+   {
+    "topic": "Věda a výzkum",
+    "text": "Vládní program podle ní skloňuje inovace pětadvacetkrát, ale základní výzkum ani jednou; „bez základního výzkumu totiž nebudete mít žádné inovace, budete mít jen draze zaplacenou montovnu cizích nápadů“.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/005schuz/s005097.htm#r2",
+    "date": "2026-01-14"
+   },
+   {
+    "topic": "Čipování koček",
+    "text": "Navrhla zavést povinné čipování koček dřív, než to v roce 2041 požaduje EU: „proč bychom měli čekat 15 let?“",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/034schuz/s034138.htm#r7",
+    "date": "2026-10-16"
+   }
+  ],
+  "reviewed": true
+ },
+ "p6214": {
+  "script": "Vláda slibovala návrat k vyrovnaným rozpočtům a teď navrhuje schodek tři sta osmdesát šest miliard. Slíbila, že nezvýší žádné daně, a ministryně financí říká, že se tomu nevyhneme. Důchody chce krýt z hospodářského růstu, ale co když nebude? A státní úředník má být loajální zákonům, ne ministrovi.",
+  "opinions": [
+   {
+    "topic": "Rozpočet a daně",
+    "text": "Vláda podle ní slíbila vyrovnané rozpočty a přitom navrhuje schodek 386 miliard; slib „Zavazujeme se nezvyšovat žádné daně.“ vyvrací sama ministryně financí. „Nebo jste lhali v programovém prohlášení?“",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/033schuz/s033123.htm#r2",
+    "date": "2026-10-01"
+   },
+   {
+    "topic": "Důchody",
+    "text": "Kritizuje plán krýt výdaje na důchody z hospodářského růstu: „A co když ten hospodářský růst nebude?“ Varuje před cestou Belgie a Rakouska a před odchodem Husákových dětí do důchodu.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/007schuz/s007093.htm#r2",
+    "date": "2026-02-11"
+   },
+   {
+    "topic": "Služební zákon",
+    "text": "Podpořila výhrady prezidenta ke zrušení služebního zákona: úkolem úředníka „není být loajální konkrétnímu ministrovi nebo konkrétní politické straně“, ale státu a zákonům; reforma oslabuje ochranu před politickým nátlakem.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/035schuz/s035021.htm#r2",
+    "date": "2026-10-14"
+   }
+  ],
+  "reviewed": true
+ },
+ "p7015": {
+  "script": "Deset let nás Tomio Okamura straší ohrožením a jeho vláda pak škrtne obraně dvacet jedna miliard. Neutrální Švýcarsko přitom výdaje na obranu zvyšuje. Děláme ze sebe černé pasažéry NATO. Ruským sportovcům bychom měli odmítat víza jako Nizozemsko. A děti musíme chránit před nadužíváním mobilů a sociálních sítí, rodiče na to sami nestačí.",
+  "opinions": [
+   {
+    "topic": "Škrty v obraně",
+    "text": "Vláda podle něj snižuje výdaje na obranu o 21 miliard „v nejhorší bezpečnostní situaci od konce druhé světové války“, zatímco neutrální Švýcarsko je navyšuje; „dělá z nás černé pasažéry NATO“.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/008schuz/s008124.htm#r2",
+    "date": "2026-02-04"
+   },
+   {
+    "topic": "Děti a sociální sítě",
+    "text": "Chce, aby stát chránil děti před nadužíváním mobilů a sociálních sítí jako u alkoholu či hazardu; nechat to na rodičích proti technologickým firmám „není fér, není to realistické a rozhodně to není odpovědná politika“.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/020schuz/s020185.htm#r4",
+    "date": "2026-05-28"
+   },
+   {
+    "topic": "Ruští sportovci",
+    "text": "Vyzval ministra, aby Česko po vzoru Nizozemska odmítalo víza ruským a běloruským sportovcům spojeným s armádou nebo podporou války: „dopisem ruské reprezentanty na hranicích nezastavíme“.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/034schuz/s034113.htm#r6",
+    "date": "2026-10-15"
+   }
+  ],
+  "reviewed": true
+ },
+ "p6466": {
+  "script": "Novela zákona o obalech chce svěřit výsadní pravomoci soukromé akciové společnosti. Pokud jde o veřejný zájem, ať to dělá stát. Vláda si vzala z Lesů České republiky tři celé tři miliardy a já chci vědět, kolik se jich vrátí do lesů a krajiny. A pračky se mají opravovat, ne vyhazovat, oprava pomáhá peněžence i řemeslu v regionech.",
+  "opinions": [
+   {
+    "topic": "Zákon o obalech",
+    "text": "Nesouhlasí s tím, aby autorizovaná obalová společnost získala status služby obecného hospodářského zájmu a nové pravomoci; je-li to služba ve veřejném zájmu, má ji vykonávat stát, ne „soukromá akciová společnost“.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/024schuz/s024325.htm#r2",
+    "date": "2026-07-02"
+   },
+   {
+    "topic": "Peníze Lesů ČR",
+    "text": "Ptala se ministryně financí, kolik z 3,3 miliardy převedených ze zisku Lesů ČR do rozpočtu se vrátí na lesy, zadržování vody a adaptaci na sucho, a navrhla, aby část odvodů zůstala účelově určena pro péči o lesy, vodu a krajinu.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/030schuz/s030144.htm#r1",
+    "date": "2026-09-10"
+   },
+   {
+    "topic": "Právo na opravu",
+    "text": "Podporuje povinnost výrobců opravovat pračky, mobily a další zboží i po záruce: „Výrobek, který se dá opravit, je lepší pro peněženku lidí, pro životní prostředí i pro českou ekonomiku.“",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/034schuz/s034057.htm#r9",
+    "date": "2026-10-14"
+   }
+  ],
+  "reviewed": true
+ },
+ "p7026": {
+  "script": "Koaliční zákon o neziskových organizacích by nás zařadil vedle Gruzie, Orbánova Maďarska a Ruska, matičky takových zákonů. Pod jeho vágní definice se vejde prakticky cokoliv. A prodávat Explosii v době, kdy Evropa posiluje obranu, je chyba. Česká republika není bazar a strategické podniky nejsou rozpočtová kasička.",
+  "opinions": [
+   {
+    "topic": "Neziskovky",
+    "text": "Koaliční návrh nových povinností a registrace pro neziskové organizace by podle ní Česko zařadil mezi Gruzii, Orbánovo Maďarsko a Rusko, „matičku těchto zákonů“; vágní definice by dopadly na vzdělávání, analýzy i veřejnou debatu.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/010schuz/s010169.htm#r4",
+    "date": "2026-03-10"
+   },
+   {
+    "topic": "Prodej Explosie",
+    "text": "Odmítá úvahy vlády o prodeji státní Explosie: „Strategické podniky nejsou rozpočtová kasička“ a „Česká republika není bazar“.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/020schuz/s020188.htm#r2",
+    "date": "2026-05-28"
+   }
+  ],
+  "reviewed": true
+ },
+ "p6766": {
+  "script": "Jednorázových dva tisíce pro každého důchodce nevyřeší, když chybí pečovatelská služba nebo místo v domově. Vláda zvedla platy v sociálních službách a doplatit to nechala kraje. Odmítám tvrzení, že senátoři stavební zákon nepochopili. A snižovat podporu v nezaměstnanosti pod záminkou evropské směrnice je špatně, není to odměna za neaktivitu, ale pojistka.",
+  "opinions": [
+   {
+    "topic": "Sociální služby",
+    "text": "Jednorázový příspěvek 2 000 korun pro důchodce podle ní „nenahradí službu, která v regionu nebo v kraji chybí“. Vláda zvýšila platy v sociálních službách, ale nepřidala peníze a doplatit to nechala kraje.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/033schuz/s033115.htm#r2",
+    "date": "2026-09-30"
+   },
+   {
+    "topic": "Stavební zákon",
+    "text": "Ohradila se proti tvrzení, že senátoři stavební zákon nepochopili: „Senát není podřízeným orgánem Poslanecké sněmovny“; obavy se týkaly nákladů reorganizace a přechodu úředníků obcí a krajů pod stát.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/030schuz/s030083.htm#r2",
+    "date": "2026-09-09"
+   },
+   {
+    "topic": "Podpora v nezaměstnanosti",
+    "text": "Navrhla zamítnout vládní novelu, která pod hlavičkou směrnice o transparentním odměňování snižuje podporu v nezaměstnanosti a ruší zaručený plat: „Podpora v nezaměstnanosti není odměna za neaktivitu.“",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/034schuz/s034157.htm#r4",
+    "date": "2026-10-16"
+   }
+  ],
+  "reviewed": true
+ },
+ "p7030": {
+  "script": "Vláda Andreje Babiše kašle na regiony. Lidé na venkově platí spotřební daň z nafty a benzinu, a přesto stát nedá peníze na opravy krajských silnic. Šest procent té daně by mělo jít přímo krajům. A zákon o elektronické evidenci tržeb vláda zkazila předvolebními dárečky a výjimkami, takže míříme do dluhové pasti.",
+  "opinions": [
+   {
+    "topic": "Krajské silnice",
+    "text": "„Vláda Andreje Babiše kašle na regiony“: odmítá dát peníze na opravy silnic II. a III. třídy, přestože lidé na venkově platí spotřební daň. Navrhl posílat krajům 6 % výnosu daně z minerálních olejů.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/030schuz/s030135.htm#r1",
+    "date": "2026-09-10"
+   },
+   {
+    "topic": "EET a dluhy",
+    "text": "Návrh zákona o EET je podle něj „důkazem vládní schizofrenní politiky“: vedle nových příjmů přináší předvolební dárečky, výjimky a demontáž konsolidačního balíčku a „zrychlující se cesta na dluhové spirále do dluhové pasti“.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/025schuz/s025014.htm#r2",
+    "date": "2026-07-07"
+   },
+   {
+    "topic": "Sídliště ve Šluknově",
+    "text": "Kritizoval, že stát nemá v rozpočtu ani korunu na dohodnutou revitalizaci vyloučeného sídliště ve Šluknově, přestože projekt podpořil i kraj s většinou ANO.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/014schuz/s014034.htm#r2",
+    "date": "2026-04-14"
+   }
+  ],
+  "reviewed": true
+ },
+ "p6762": {
+  "script": "Při vydání premiéra nerozhodujeme o vině, jen o tom, jestli soud může dělat svou práci. Nikdo nemá být chráněn před soudem kvůli silnému klubu. Ministr práce v únoru chválil vyšší podporu v nezaměstnanosti a o půl roku později ji snižuje bez jediné analýzy. A osmdesátileté paní víc než pět set korun pomůže pečovatelská služba, která za ní opravdu přijede.",
+  "opinions": [
+   {
+    "topic": "Vydání Babiše",
+    "text": "Při hlasování o vydání premiéra podle ní nejde o vinu, ale o to, zda soud může pracovat: „Má být jeden politik chráněn před soudem jen proto, že má silný klub ve Sněmovně, že má koaliční dohodu? Nemyslím si.“",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/011schuz/s011034.htm#r4",
+    "date": "2026-03-05"
+   },
+   {
+    "topic": "Podpora v nezaměstnanosti",
+    "text": "Vládě nedala důvěru mimo jiné kvůli plánu snížit podporu v nezaměstnanosti, kterou ministr ještě v únoru hájil; obrat podle ní nestojí na žádné analýze: „Je to pouze dojmologie.“",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/033schuz/s033083.htm#r2",
+    "date": "2026-09-30"
+   },
+   {
+    "topic": "Důchody podle věku",
+    "text": "Kritizuje plošné zvyšování důchodů po osmdesátce o 500 korun, které rozhoduje „pouze věk“; seniorům by víc pomohla dostupná pečovatelská a odlehčovací služba.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/031schuz/s031136.htm#r1",
+    "date": "2026-09-24"
+   }
+  ],
+  "reviewed": true
+ },
+ "p6767": {
+  "script": "Při loňském blackoutu Andrej Babiš a Tomio Okamura tvrdili, že za něj může Green Deal, a nic z toho se nepotvrdilo. Ministerstvo vnitra nesmí upravovat odborné závěry podle toho, koho se politicky týkají. A vláda, která mluví o šetření, vyhodila neziskovky z pomoci žadatelům o azyl a zaplatí za horší službu skoro pětkrát víc.",
+  "opinions": [
+   {
+    "topic": "Analýza blackoutu",
+    "text": "Ptala se, proč vláda zastavila projednávání analýzy blackoutu, která popsala nepodložená tvrzení politiků, že za výpadek může Green Deal; tato tvrzení podle ní šířil Andrej Babiš a podobně vystupoval Tomio Okamura. Žádala garanci, že ministerstvo nebude upravovat odborné závěry podle toho, „koho se politicky týkají“.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/020schuz/s020172.htm#r8",
+    "date": "2026-05-28"
+   },
+   {
+    "topic": "Neziskovky a azyl",
+    "text": "Kritizovala, že ministerstvo vnitra ukončilo spolupráci s neziskovkami pomáhajícími žadatelům o mezinárodní ochranu a služba nově stojí přes 23 milionů místo zhruba 5: „vláda Andreje Babiše neustále mluví o šetření veřejných peněz“, ale stát zaplatí několikanásobně víc.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/020schuz/s020176.htm#r4",
+    "date": "2026-05-28"
+   }
+  ],
+  "reviewed": true
+ },
+ "p7042": {
+  "script": "Vládní slib zdravých veřejných financí bych podepsala kdykoliv. Jenže ministryně financí krkolomně vysvětluje, proč se rozpočet nemusí řídit zákonem o rozpočtové odpovědnosti, a novela ta pravidla rozvolňuje a oslabuje kontrolu parlamentu. A zmrazit cenu dálniční známky zní hezky, jenže náklady nezmizí, jen se přesunou do dluhu.",
+  "opinions": [
+   {
+    "topic": "Rozpočtová pravidla",
+    "text": "Ministryně financí podle ní nabízí „neuvěřitelně krkolomné vysvětlení“, proč se rozpočet nemusí řídit zákonem o pravidlech rozpočtové odpovědnosti, ačkoli fiskální pravidla jsou osvědčeným nástrojem udržitelnosti.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/008schuz/s008114.htm#r2",
+    "date": "2026-02-04"
+   },
+   {
+    "topic": "Novela rozpočtových zákonů",
+    "text": "Vládní novela rozpočtových pravidel podle ní znamená „rozvolnění nebo možná až vynulování pravidel rozpočtové odpovědnosti“ a „oslabení parlamentní kontroly“; Starostové ji nepodpoří.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/029schuz/s029083.htm#r8",
+    "date": "2026-08-26"
+   },
+   {
+    "topic": "Dálniční známky",
+    "text": "Je proti zrušení valorizace dálničních známek: známka je uživatelský poplatek a „pokud tento příspěvek politicky zmrazíme, náklady nezmizí, pouze se přesunou jinam, do státního rozpočtu nebo do dluhu“.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/028schuz/s028016.htm#r2",
+    "date": "2026-07-14"
+   }
+  ],
+  "reviewed": true
+ },
+ "p7044": {
+  "script": "Vláda Babiše, Okamury a Motoristů je vláda návratu ke staré politice, politika na dluh, který zaplatí mladí. Šla jsem na protest za právo na interrupce, protože moje tělo, moje volba, a když poslanec SPD říká účastnicím, že jejich děti by neměly přínos pro společnost, to už není politika, ale nenávist. A neposlat na summit NATO prezidenta, bývalého šéfa Vojenského výboru NATO, je absurdní.",
+  "opinions": [
+   {
+    "topic": "Vláda minulosti",
+    "text": "Vládě nedala důvěru: je to „vláda návratu, návratu ke staré politice“, SPD nabízí „marketing strachu“ a dluh z rozdávání zaplatí mladí lidé.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/005schuz/s005096.htm#r2",
+    "date": "2026-01-14"
+   },
+   {
+    "topic": "Interrupce a SPD",
+    "text": "Byla na protestu za právo na interrupce („moje tělo, moje volba“) a vyzvala SPD, aby se distancovala od výroku svého poslance Nerušila účastnicím, že jejich děti by neměly přínos pro společnost: „to už fakt není politika, ale je to nenávist“.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/014schuz/s014031.htm#r2",
+    "date": "2026-04-14"
+   },
+   {
+    "topic": "Pavel na summit NATO",
+    "text": "Kritizovala, že vláda nevyslala na summit NATO prezidenta Petra Pavla, bývalého předsedu Vojenského výboru NATO; Česko se tím podle ní stává nedůvěryhodným partnerem.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/024schuz/s024046.htm#r1",
+    "date": "2026-06-23"
+   }
+  ],
+  "reviewed": true
+ },
+ "p7050": {
+  "script": "Působení Andreje Babiše v politice vnímám jako symbol sobectví a byznysu a jeho vládní slepenec předčil mé nejčernější sny. Zmrazení dálniční známky je krátkozraký populismus, cenu, kterou dřív nazývali zlodějinou, teď vydávají za dárek. A debata o sudetských Němcích byla ostuda a facka všemu, co jsme s německými sousedy v pohraničí léta budovali.",
+  "opinions": [
+   {
+    "topic": "Babiš a koalice",
+    "text": "Působení Andreje Babiše vnímá jako „samotný symbol sobectví a soukromých byznysových plánů“; vládní „slepenec“ seriózních politiků a „extremistů, radikálů a populistů“ předčil i to, co si nepředstavoval „ani v nejčernějších snech“.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/008schuz/s008067.htm#r6",
+    "date": "2026-02-03"
+   },
+   {
+    "topic": "Dálniční známky",
+    "text": "Zmrazení ceny dálniční známky by se podle něj dalo učit v kapitole „Krátkozraký populismus v praxi“: koalice fixuje cenu, kterou dříve kritizovala jako zlodějinu, a připraví fond dopravní infrastruktury o více než 1,2 miliardy.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/028schuz/s028014.htm#r4",
+    "date": "2026-07-14"
+   },
+   {
+    "topic": "Sudetští Němci",
+    "text": "Jednání Sněmovny vyvolané SPD v souvislosti se sudetskými Němci označil za ostudné: „Považuji to za facku všemu, o co jsme se konkrétně u nás v těch příhraničních oblastech mnoho let snažili.“",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/016schuz/s016061.htm#r10",
+    "date": "2026-05-06"
+   }
+  ],
+  "reviewed": true
+ },
+ "p6763": {
+  "script": "Premiér slíbil, že se doživotně zbaví Agrofertu, a nevyřešil vůbec nic. Ministr zdravotnictví teď prosazuje daňové zvýhodnění drahých screeningů, které podle mě nabízejí premiérovy kliniky. Formálně ve střetu zájmů není, ale de facto je. A kdo jezdí jako papaláš a chová se jako papaláš, je prostě papaláš.",
+  "opinions": [
+   {
+    "topic": "Střet zájmů",
+    "text": "Vláda za její klub nemá důvěru hlavně kvůli premiérovu střetu zájmů: slíbil prezidentovi, jak ho vyřeší, ale „nevyřešil vůbec nic“ a není zjevné, že se Agrofertu opravdu zbavil.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/008schuz/s008057.htm#r2",
+    "date": "2026-02-03"
+   },
+   {
+    "topic": "Kliniky a benefity",
+    "text": "Kritizovala pozměňovací návrh ministra zdravotnictví na zvýhodnění konkrétních drahých screeningů, které podle ní nabízejí kliniky Andreje Babiše: „formálně ve střetu zájmů není, ale de facto je“.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/025schuz/s025016.htm#r4",
+    "date": "2026-07-07"
+   },
+   {
+    "topic": "Kauza Turek",
+    "text": "K jízdě vládního zmocněnce Filipa Turka řekla, že ji koalice nemůže obhájit: někdo „jezdí jako papaláš, chová se jako papaláš a je to prostě papaláš“; „někdy by stačila obyčejná lidská slušnost“.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/027schuz/s027033.htm#r2",
+    "date": "2026-07-14"
+   }
+  ],
+  "reviewed": true
+ },
+ "p6789": {
+  "script": "Respektuji výsledek voleb, ale nedám vládě bianko šek k likvidaci veřejnoprávních médií. Financovat je ze státního rozpočtu znamená vydírat je přes peníze. Levné hypotéky, konsolidace, zrušení Green Dealu, vaše sliby padají jeden za druhým, tak řekněte lidem, že billboardy lhaly. Když slibujete výdaje a škrtáte příjmy, prostě to vyjít nemůže.",
+  "opinions": [
+   {
+    "topic": "Veřejnoprávní média",
+    "text": "Financování České televize a Českého rozhlasu ze státního rozpočtu podle něj ohrožuje jejich nezávislost; nelze se ubránit dojmu, že cílem je „média veřejné služby ovládnout, vydírat je přes financování“.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/024schuz/s024038.htm#r2",
+    "date": "2026-06-23"
+   },
+   {
+    "topic": "Porušené sliby",
+    "text": "Vládě nedává „bianko šek k destrukci veřejných institucí“; levné hypotéky, konsolidace či zrušení Green Dealu jsou podle něj porušené sliby a vláda by měla lidem říct, „že to, co jste měli na billboardech, byla lež“.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/033schuz/s033121.htm#r2",
+    "date": "2026-10-01"
+   },
+   {
+    "topic": "Rozpočet a sliby",
+    "text": "Jako odcházející ministr průmyslu řekl, že když nová koalice slibuje nové výdaje, snižuje příjmy a nechce škrtat, „tak to logicky nikdy nemůže vyjít“, a měla by férově přiznat vyšší schodek.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/003schuz/s003042.htm#r4",
+    "date": "2025-11-26"
+   }
+  ],
+  "reviewed": true
+ },
+ "p7061": {
+  "script": "Ministr zahraničí opakovaně nepustil na svou tiskovou konferenci kritickou novinářku. Selektování novinářů nemá v demokratické zemi místo. Proč koalice tak spěchá se změnou financování České televize a Českého rozhlasu, že kvůli tomu poruší i jednací řád? A alkohol by ve Sněmovně být neměl, máme dávat lidem vzor.",
+  "opinions": [
+   {
+    "topic": "Selektování novinářů",
+    "text": "Kritizovala ministra zahraničí, že opakovaně nevpustil na tiskovou konferenci novinářku Deníku N: „Selektování novinářů nemá místo v demokratické zemi“; vytváří to tlak, aby média informovala o vládě lichotivě.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/029schuz/s029037.htm#r2",
+    "date": "2026-08-25"
+   },
+   {
+    "topic": "Veřejnoprávní média",
+    "text": "Ptala se, proč koalice spěchá se změnou financování České televize a Českého rozhlasu od 1. ledna 2027 a „chystá se dokonce porušit jednací řád, jen aby došlo k rychlé změně fungování veřejnoprávních médií“.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/014schuz/s014309.htm#r1",
+    "date": "2026-04-23"
+   },
+   {
+    "topic": "Alkohol ve Sněmovně",
+    "text": "Podpořila zákaz alkoholu pro poslance: alkohol je v Česku „takřka všudypřítomný“ a poslanci mají jít příkladem, že to „pro nás akceptovatelné není“.",
+    "source": "https://www.psp.cz/eknih/2025ps/stenprot/024schuz/s024358.htm#r10",
+    "date": "2026-07-03"
+   }
   ],
   "reviewed": true
  }
