@@ -180,6 +180,7 @@ button.link { border: 0; background: none; padding: 0; color: var(--accent); fon
 .rank-info { font-weight: 600; margin: 8px 0 4px; }
 .new-code { margin: 10px 0 4px; padding: 10px; border-radius: 10px; background: var(--accent-soft); }
 .new-code strong { font-family: ui-monospace, Consolas, monospace; font-size: 1.1rem; letter-spacing: 0.05em; }
+.unranked p { margin: 0 0 10px; }
 .profile { display: flex; flex-wrap: wrap; gap: 6px 14px; align-items: center; margin-top: 12px; font-size: 0.92rem; color: var(--muted); }
 .profile form { flex-basis: 100%; margin-top: 6px; }
 .rank-info:empty { display: none; }

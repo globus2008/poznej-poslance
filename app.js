@@ -114,7 +114,11 @@ async function startGame() {
     $('start').disabled = $('continue').disabled = false;
   }
   rounds ??= makeRounds(quiz.people, pool(), ROUNDS, Math.random, tier);
-  game = { rounds, i: 0, guesses: [], ranked: Boolean(token), token, started: Date.now(), ms: 0, newlyKnown: 0 };
+  // Why a game is not on the leaderboard, told on the result page.
+  const unranked = !board.enabled || token ? '' : ranked ? 'Žebříček byl nedostupný, a tak se tato hra nezapisuje.'
+    : !navigator.onLine ? 'Hráli jste bez připojení, a tak se tato hra nezapisuje.'
+    : 'Tato hra byla tréninková. Do žebříčku se zapisuje jen obtížnost „Celá Sněmovna“ bez výběru vlády nebo klubu.';
+  game = { rounds, i: 0, guesses: [], ranked: Boolean(token), token, unranked, started: Date.now(), ms: 0, newlyKnown: 0 };
   show('view-round');
   showRound();
 }
@@ -320,6 +324,9 @@ function showResult() {
   $('nick').value = store.get('pp.nick', '');
   $('submit-form').hidden = !game.ranked || Boolean($('nick').value);
   $('change-nick').hidden = !game.ranked || !$('nick').value;
+  $('unranked').hidden = !game.unranked;
+  $('unranked-text').textContent = game.unranked;
+  $('play-ranked').hidden = isFullGame();
   show('view-result');
   // With a nickname from an earlier game, ranked games are entered on their own.
   if (game.ranked && $('nick').value) submitResult($('nick').value);
@@ -565,6 +572,12 @@ $('intro').addEventListener('click', () => {
 });
 $('next').addEventListener('click', next);
 $('continue').addEventListener('click', startGame);
+$('play-ranked').addEventListener('click', () => {
+  $('level').value = '';
+  $('filter').value = '';
+  updatePool();
+  startGame();
+});
 $('home').addEventListener('click', () => { show('view-start'); showBest(); showProgress(); });
 $('open-collection').addEventListener('click', showCollection);
 $('collection-back').addEventListener('click', () => { audio.stop(); show('view-start'); });
